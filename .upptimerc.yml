@@ -24,7 +24,7 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /uptime
   logoUrl: https://tiekoettercom-cdn.tiekoetter.cloud/wp-content/uploads/2020/06/tiekoetter-300x300.png
-  name: Tiekoetter:NET Uptime
+  name: Tiekoetter.NET Uptime
   #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
