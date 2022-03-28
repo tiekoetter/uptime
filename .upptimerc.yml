@@ -11,12 +11,14 @@ sites:
     url: https://searx.tiekoetter.com
   - name: nitter.tiekoetter.com
     url: https://nitter.tiekoetter.com
-  - name: libreddittiekoetter.com
+  - name: libreddit.tiekoetter.com
     url: https://libreddit.tiekoetter.com
   - name: bin.tiekoetter.com
     url: https://bin.tiekoetter.com
   - name: translate.tiekoetter.com
     url: https://translate.tiekoetter.com
+  - name: lt27.de
+    url: https://lt27.de
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
