@@ -21,6 +21,16 @@ sites:
     url: https://translate.tiekoetter.com
   - name: lt27.de
     url: https://lt27.de
+  - name: craftsmany.net
+    url: https://www.craftsmany.net
+  - name: fehling.me
+    url: https://fehling.me
+  - name: meyr.eu
+    url: https://meyr.eu
+  - name: geocultru.de
+    url: https://geocultur.de
+  - name: autotestschaeffer.de
+    url: https://www.autotestschaeffer.de
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
