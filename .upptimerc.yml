@@ -72,6 +72,16 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "0 0 * * *"
+
 commitMessages:
   commitAuthorName: "Tiekoetter Bot"
   commitAuthorEmail: "github-bot@tiekoetter.com"
