@@ -9,6 +9,22 @@ sites:
     url: https://www.tiekoetter.com
   - name: Tiekoetter.NET
     url: https://www.tiekoetter.net
+  - name: ns1.tiekoetter.net
+    check: "tcp-ping"
+    url: ns1.tiekoetter.net
+    port: 53
+  - name: ns2.tiekoetter.net
+    check: "tcp-ping"
+    url: ns2.tiekoetter.net
+    port: 53
+  - name: ns3.tiekoetter.net
+    check: "tcp-ping"
+    url: ns3.tiekoetter.net
+    port: 53
+  - name: ns4.tiekoetter.net
+    check: "tcp-ping"
+    url: ns4.tiekoetter.net
+    port: 53
   - name: searx.tiekoetter.com
     url: https://searx.tiekoetter.com
   - name: nitter.tiekoetter.com
