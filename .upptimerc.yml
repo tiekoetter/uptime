@@ -31,6 +31,8 @@ sites:
     maxResponseTime: 5000
   - name: searx.tiekoetter.com
     url: https://searx.tiekoetter.com
+  - name: searx-instances.tiekoetter.com
+    url: https://searx-instances.tiekoetter.com
   - name: nitter.tiekoetter.com
     url: https://nitter.tiekoetter.com
   - name: libreddit.tiekoetter.com
