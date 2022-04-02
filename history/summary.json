@@ -202,18 +202,20 @@
     "url": "https://translate.tiekoetter.com",
     "icon": "https://favicons.githubusercontent.com/translate.tiekoetter.com",
     "slug": "translate-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 767,
-    "timeDay": 700,
-    "timeWeek": 767,
-    "timeMonth": 767,
-    "timeYear": 767,
-    "dailyMinutesDown": {}
+    "time": 763,
+    "timeDay": 697,
+    "timeWeek": 763,
+    "timeMonth": 763,
+    "timeYear": 763,
+    "dailyMinutesDown": {
+      "2022-04-02": 0
+    }
   },
   {
     "name": "lt27.de",
