@@ -202,19 +202,19 @@
     "url": "https://translate.tiekoetter.com",
     "icon": "https://favicons.githubusercontent.com/translate.tiekoetter.com",
     "slug": "translate-tiekoetter-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 763,
-    "timeDay": 697,
-    "timeWeek": 763,
-    "timeMonth": 763,
-    "timeYear": 763,
+    "status": "up",
+    "uptime": "99.60%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
+    "time": 765,
+    "timeDay": 733,
+    "timeWeek": 765,
+    "timeMonth": 765,
+    "timeYear": 765,
     "dailyMinutesDown": {
-      "2022-04-02": 0
+      "2022-04-02": 30
     }
   },
   {
