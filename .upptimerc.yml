@@ -57,8 +57,11 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  introTitle: "Tiekoetter.NET Status & Uptime monitoring"
+  introMessage: This status page lists all services provided by Tiekoetter.NET and checks their uptime every 5 minutes.
   cname: status.tiekoetter.cloud
   baseUrl: /
+  favicon: https://tiekoettercom-cdn.tiekoetter.cloud/wp-content/uploads/2020/06/tiekoetter-300x300.png
   logoUrl: https://tiekoettercom-cdn.tiekoetter.cloud/wp-content/uploads/2020/06/tiekoetter-300x300.png
   theme: light
   name: Tiekoetter.NET Status
