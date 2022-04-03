@@ -166,19 +166,19 @@
     "url": "https://libreddit.tiekoetter.com",
     "icon": "https://favicons.githubusercontent.com/libreddit.tiekoetter.com",
     "slug": "libreddit-tiekoetter-com",
-    "status": "down",
-    "uptime": "99.56%",
-    "uptimeDay": "97.56%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
-    "time": 2845,
-    "timeDay": 1198,
-    "timeWeek": 2845,
-    "timeMonth": 2845,
-    "timeYear": 2845,
+    "status": "up",
+    "uptime": "99.25%",
+    "uptimeDay": "95.83%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.25%",
+    "time": 2811,
+    "timeDay": 1544,
+    "timeWeek": 2811,
+    "timeMonth": 2811,
+    "timeYear": 2811,
     "dailyMinutesDown": {
-      "2022-04-03": 35
+      "2022-04-03": 60
     }
   },
   {
