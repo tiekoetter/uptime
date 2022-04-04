@@ -41,6 +41,8 @@ sites:
     url: https://bin.tiekoetter.com
   - name: translate.tiekoetter.com
     url: https://translate.tiekoetter.com
+  - name: invidious.tiekoetter.com
+    url: https://invidious.tiekoetter.com
   - name: lt27.de
     url: https://lt27.de
   - name: craftsmany.net
