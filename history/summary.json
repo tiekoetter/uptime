@@ -224,19 +224,19 @@
     "url": "https://invidious.tiekoetter.com",
     "icon": "https://favicons.githubusercontent.com/invidious.tiekoetter.com",
     "slug": "invidious-tiekoetter-com",
-    "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.44%",
-    "time": 3902,
-    "timeDay": 3902,
-    "timeWeek": 3902,
-    "timeMonth": 3902,
-    "timeYear": 3902,
+    "status": "up",
+    "uptime": "97.13%",
+    "uptimeDay": "97.13%",
+    "uptimeWeek": "97.13%",
+    "uptimeMonth": "97.13%",
+    "uptimeYear": "97.13%",
+    "time": 3237,
+    "timeDay": 3237,
+    "timeWeek": 3237,
+    "timeMonth": 3237,
+    "timeYear": 3237,
     "dailyMinutesDown": {
-      "2022-04-05": 5
+      "2022-04-05": 28
     }
   },
   {
