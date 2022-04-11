@@ -231,9 +231,9 @@
     "url": "https://invidious.tiekoetter.com",
     "icon": "https://favicons.githubusercontent.com/invidious.tiekoetter.com",
     "slug": "invidious-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.69%",
@@ -243,6 +243,7 @@
     "timeMonth": 1958,
     "timeYear": 1958,
     "dailyMinutesDown": {
+      "2022-04-11": 0,
       "2022-04-05": 28
     }
   },
