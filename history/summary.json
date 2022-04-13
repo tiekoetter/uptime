@@ -4,18 +4,19 @@
     "url": "https://www.tiekoetter.com",
     "icon": "https://favicons.githubusercontent.com/www.tiekoetter.com",
     "slug": "tiekoetter-com",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 812,
-    "timeDay": 620,
+    "timeDay": 632,
     "timeWeek": 750,
     "timeMonth": 812,
     "timeYear": 812,
     "dailyMinutesDown": {
+      "2022-04-13": 1,
       "2022-04-12": 10,
       "2022-04-07": 5
     }
@@ -25,10 +26,10 @@
     "url": "https://www.tiekoetter.net",
     "icon": "https://favicons.githubusercontent.com/www.tiekoetter.net",
     "slug": "tiekoetter-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.91%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.90%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 600,
@@ -37,6 +38,7 @@
     "timeMonth": 600,
     "timeYear": 600,
     "dailyMinutesDown": {
+      "2022-04-13": 1,
       "2022-04-11": 5,
       "2022-04-07": 4
     }
@@ -118,10 +120,10 @@
     "url": "https://searx.tiekoetter.com",
     "icon": "https://favicons.githubusercontent.com/searx.tiekoetter.com",
     "slug": "searx-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 702,
@@ -129,7 +131,9 @@
     "timeWeek": 576,
     "timeMonth": 702,
     "timeYear": 702,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-13": 1
+    }
   },
   {
     "name": "searx-instances.tiekoetter.com",
@@ -154,18 +158,19 @@
     "url": "https://nitter.tiekoetter.com",
     "icon": "https://favicons.githubusercontent.com/nitter.tiekoetter.com",
     "slug": "nitter-tiekoetter-com",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 567,
     "timeDay": 381,
     "timeWeek": 509,
     "timeMonth": 567,
     "timeYear": 567,
     "dailyMinutesDown": {
+      "2022-04-13": 0,
       "2022-04-07": 3
     }
   },
@@ -174,18 +179,19 @@
     "url": "https://libreddit.tiekoetter.com",
     "icon": "https://favicons.githubusercontent.com/libreddit.tiekoetter.com",
     "slug": "libreddit-tiekoetter-com",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.73%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
     "time": 2340,
     "timeDay": 1804,
     "timeWeek": 1606,
     "timeMonth": 2340,
     "timeYear": 2340,
     "dailyMinutesDown": {
+      "2022-04-13": 0,
       "2022-04-03": 60
     }
   },
@@ -194,9 +200,9 @@
     "url": "https://bin.tiekoetter.com",
     "icon": "https://favicons.githubusercontent.com/bin.tiekoetter.com",
     "slug": "bin-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -205,16 +211,18 @@
     "timeWeek": 621,
     "timeMonth": 718,
     "timeYear": 718,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
   },
   {
     "name": "translate.tiekoetter.com",
     "url": "https://translate.tiekoetter.com",
     "icon": "https://favicons.githubusercontent.com/translate.tiekoetter.com",
     "slug": "translate-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
@@ -224,6 +232,7 @@
     "timeMonth": 713,
     "timeYear": 713,
     "dailyMinutesDown": {
+      "2022-04-13": 0,
       "2022-04-02": 30
     }
   },
@@ -232,18 +241,19 @@
     "url": "https://invidious.tiekoetter.com",
     "icon": "https://favicons.githubusercontent.com/invidious.tiekoetter.com",
     "slug": "invidious-tiekoetter-com",
-    "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.38%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "99.35%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.38%",
     "time": 1722,
     "timeDay": 651,
     "timeWeek": 896,
     "timeMonth": 1722,
     "timeYear": 1722,
     "dailyMinutesDown": {
+      "2022-04-13": 0,
       "2022-04-11": 48,
       "2022-04-05": 28
     }
@@ -253,27 +263,29 @@
     "url": "https://lt27.de",
     "icon": "https://favicons.githubusercontent.com/lt27.de",
     "slug": "lt27-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 632,
-    "timeDay": 478,
-    "timeWeek": 519,
-    "timeMonth": 632,
-    "timeYear": 632,
-    "dailyMinutesDown": {}
+    "time": 618,
+    "timeDay": 350,
+    "timeWeek": 482,
+    "timeMonth": 618,
+    "timeYear": 618,
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
   },
   {
     "name": "craftsmany.net",
     "url": "https://www.craftsmany.net",
     "icon": "https://favicons.githubusercontent.com/www.craftsmany.net",
     "slug": "craftsmany-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -282,16 +294,18 @@
     "timeWeek": 1566,
     "timeMonth": 2632,
     "timeYear": 2632,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
   },
   {
     "name": "fehling.me",
     "url": "https://fehling.me",
     "icon": "https://favicons.githubusercontent.com/fehling.me",
     "slug": "fehling-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -300,16 +314,18 @@
     "timeWeek": 676,
     "timeMonth": 647,
     "timeYear": 647,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
   },
   {
     "name": "meyr.eu",
     "url": "https://meyr.eu",
     "icon": "https://favicons.githubusercontent.com/meyr.eu",
     "slug": "meyr-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -318,16 +334,18 @@
     "timeWeek": 1241,
     "timeMonth": 702,
     "timeYear": 702,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
   },
   {
     "name": "geocultur.de",
     "url": "https://geocultur.de",
     "icon": "https://favicons.githubusercontent.com/geocultur.de",
     "slug": "geocultur-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -336,16 +354,18 @@
     "timeWeek": 609,
     "timeMonth": 753,
     "timeYear": 753,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
   },
   {
     "name": "autotestschaeffer.de",
     "url": "https://www.autotestschaeffer.de",
     "icon": "https://favicons.githubusercontent.com/www.autotestschaeffer.de",
     "slug": "autotestschaeffer-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -354,6 +374,8 @@
     "timeWeek": 971,
     "timeMonth": 1086,
     "timeYear": 1086,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
   }
 ]
