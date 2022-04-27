@@ -43,6 +43,8 @@ sites:
     url: https://translate.tiekoetter.com
   - name: invidious.tiekoetter.com
     url: https://invidious.tiekoetter.com
+  - name: wikiless.tiekoetter.com
+    url: https://wikiless.tiekoetter.com
   - name: lt27.de
     url: https://lt27.de
   - name: craftsmany.net
