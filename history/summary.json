@@ -104,9 +104,9 @@
     "url": "ns4.tiekoetter.net",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ns4-tiekoetter-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -115,7 +115,9 @@
     "timeWeek": 125,
     "timeMonth": 115,
     "timeYear": 117,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-18": 0
+    }
   },
   {
     "name": "searx.tiekoetter.com",
@@ -170,12 +172,12 @@
     "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.78%",
     "time": 548,
     "timeDay": 518,
     "timeWeek": 558,
-    "timeMonth": 534,
+    "timeMonth": 536,
     "timeYear": 548,
     "dailyMinutesDown": {
       "2022-04-24": 5,
