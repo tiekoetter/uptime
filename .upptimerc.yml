@@ -9,6 +9,8 @@ sites:
     url: https://www.tiekoetter.com
   - name: Tiekoetter.NET
     url: https://www.tiekoetter.net
+  - name: CDN (tiekoetter.cloud)
+    url: https://tiekoettercom-cdn.tiekoetter.cloud/cdn/test.txt
   - name: ns1.tiekoetter.net
     check: "tcp-ping"
     url: ns1.tiekoetter.net
@@ -47,6 +49,8 @@ sites:
     url: https://wikiless.tiekoetter.com
   - name: lt27.de
     url: https://lt27.de
+  - name: leontiekoetter.de
+    url: https://www.leontiekoetter.de
   - name: craftsmany.net
     url: https://www.craftsmany.net
   - name: fehling.me
