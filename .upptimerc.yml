@@ -3,14 +3,21 @@ owner: tiekoetter # Your GitHub organization or username, where this repository 
 repo: uptime # The name of this repository
 assignees:
   - tiekoetter
+user-agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud
 
 sites:
   - name: Tiekoetter.com
     url: https://www.tiekoetter.com
+    headers:
+      - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
   - name: Tiekoetter.NET
     url: https://www.tiekoetter.net
+    headers:
+      - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
   - name: CDN (tiekoetter.cloud)
     url: https://tiekoettercom-cdn.tiekoetter.cloud/cdn/test.txt
+    headers:
+      - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
   - name: ns1.tiekoetter.net
     check: "tcp-ping"
     url: ns1.tiekoetter.net
@@ -33,34 +40,64 @@ sites:
     maxResponseTime: 5000
   - name: searx.tiekoetter.com
     url: https://searx.tiekoetter.com
+    headers:
+      - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
   - name: searx-instances.tiekoetter.com
     url: https://searx-instances.tiekoetter.com
+    headers:
+      - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
   - name: nitter.tiekoetter.com
     url: https://nitter.tiekoetter.com
+    headers:
+      - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
   - name: libreddit.tiekoetter.com
     url: https://libreddit.tiekoetter.com
+    headers:
+      - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
   - name: bin.tiekoetter.com
     url: https://bin.tiekoetter.com
+    headers:
+      - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
   - name: translate.tiekoetter.com
     url: https://translate.tiekoetter.com
+    headers:
+      - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
   - name: invidious.tiekoetter.com
     url: https://invidious.tiekoetter.com
+    headers:
+      - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
   - name: wikiless.tiekoetter.com
     url: https://wikiless.tiekoetter.com
+    headers:
+      - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
   - name: lt27.de
     url: https://lt27.de
+    headers:
+      - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
   - name: leontiekoetter.de
     url: https://www.leontiekoetter.de
+    headers:
+      - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
   - name: craftsmany.net
     url: https://www.craftsmany.net
+    headers:
+      - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
   - name: fehling.me
     url: https://fehling.me
+    headers:
+      - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
   - name: meyr.eu
     url: https://meyr.eu
+    headers:
+      - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
   - name: geocultur.de
     url: https://geocultur.de
+    headers:
+      - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
   - name: autotestschaeffer.de
     url: https://www.autotestschaeffer.de
+    headers:
+      - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
