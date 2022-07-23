@@ -129,9 +129,9 @@
     "url": "ns3.tiekoetter.net",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ns3-tiekoetter-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.96%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
@@ -141,6 +141,7 @@
     "timeMonth": 163,
     "timeYear": 155,
     "dailyMinutesDown": {
+      "2022-07-23": 0,
       "2022-07-18": 4
     }
   },
@@ -304,14 +305,14 @@
     "icon": "https://favicons.githubusercontent.com/translate.tiekoetter.com",
     "slug": "translate-tiekoetter-com",
     "status": "up",
-    "uptime": "98.88%",
+    "uptime": "98.89%",
     "uptimeDay": "99.72%",
-    "uptimeWeek": "99.83%",
+    "uptimeWeek": "99.86%",
     "uptimeMonth": "96.45%",
-    "uptimeYear": "98.88%",
+    "uptimeYear": "98.89%",
     "time": 1411,
     "timeDay": 672,
-    "timeWeek": 1707,
+    "timeWeek": 1778,
     "timeMonth": 2641,
     "timeYear": 1411,
     "dailyMinutesDown": {
