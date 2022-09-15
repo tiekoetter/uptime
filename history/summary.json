@@ -233,9 +233,9 @@
     "url": "https://searx-instances.tiekoetter.com",
     "icon": "https://favicons.githubusercontent.com/searx-instances.tiekoetter.com",
     "slug": "searx-instances-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "98.27%",
+    "uptimeDay": "98.23%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
@@ -245,7 +245,7 @@
     "timeMonth": 310,
     "timeYear": 311,
     "dailyMinutesDown": {
-      "2022-09-15": 25,
+      "2022-09-15": 26,
       "2022-04-25": 105
     }
   },
