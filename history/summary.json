@@ -448,9 +448,9 @@
     "url": "https://invidious.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/invidious.tiekoetter.com.ico",
     "slug": "invidious-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "96.74%",
+    "uptimeDay": "96.70%",
     "uptimeWeek": "99.01%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.68%",
@@ -460,7 +460,7 @@
     "timeMonth": 3731,
     "timeYear": 2028,
     "dailyMinutesDown": {
-      "2022-10-28": 44,
+      "2022-10-28": 45,
       "2022-10-27": 5,
       "2022-10-26": 5,
       "2022-10-25": 38,
@@ -522,8 +522,7 @@
       "2022-05-16": 5,
       "2022-05-11": 4,
       "2022-05-10": 10,
-      "2022-05-08": 5,
-      "2022-04-29": 9
+      "2022-05-08": 5
     }
   },
   {
