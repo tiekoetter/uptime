@@ -194,10 +194,10 @@
     "url": "ns4.tiekoetter.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ns4-tiekoetter-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 126,
@@ -206,7 +206,7 @@
     "timeMonth": 128,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2023-01-25": 3,
+      "2023-01-25": 4,
       "2022-11-15": 4,
       "2022-05-18": 4
     }
