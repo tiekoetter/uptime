@@ -461,19 +461,19 @@
     "url": "https://translate.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/translate.tiekoetter.com.ico",
     "slug": "translate-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.72%",
-    "time": 2364,
-    "timeDay": 585,
-    "timeWeek": 2869,
-    "timeMonth": 3664,
-    "timeYear": 2364,
+    "time": 2398,
+    "timeDay": 7820,
+    "timeWeek": 4516,
+    "timeMonth": 3942,
+    "timeYear": 2398,
     "dailyMinutesDown": {
-      "2023-02-15": 5,
+      "2023-02-15": 6,
       "2023-02-10": 13,
       "2023-02-08": 5,
       "2023-02-06": 38,
@@ -520,8 +520,7 @@
       "2022-09-07": 5,
       "2022-09-05": 5,
       "2022-08-31": 8,
-      "2022-08-22": 14,
-      "2022-08-20": 5
+      "2022-08-22": 14
     }
   },
   {
