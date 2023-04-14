@@ -1,7 +1,7 @@
 url: https://translate.tiekoetter.com
-status: up
-code: 200
-responseTime: 629
-lastUpdated: 2023-04-13T23:13:23.470Z
+status: down
+code: 502
+responseTime: 1644
+lastUpdated: 2023-04-14T13:16:17.450Z
 startTime: Mon Mar 28 2022 10:56:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
