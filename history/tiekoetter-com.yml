@@ -1,7 +1,7 @@
 url: https://www.tiekoetter.com
-status: up
-code: 200
-responseTime: 1777
-lastUpdated: 2023-04-15T23:12:28.591Z
+status: down
+code: 502
+responseTime: 3309
+lastUpdated: 2023-04-16T10:11:00.971Z
 startTime: Mon Mar 28 2022 10:56:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
