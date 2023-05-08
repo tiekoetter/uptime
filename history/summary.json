@@ -241,18 +241,19 @@
     "url": "https://searx.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/searx.tiekoetter.com.ico",
     "slug": "searx-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.41%",
-    "time": 1073,
-    "timeDay": 634,
-    "timeWeek": 748,
-    "timeMonth": 837,
-    "timeYear": 1132,
+    "time": 1072,
+    "timeDay": 686,
+    "timeWeek": 747,
+    "timeMonth": 835,
+    "timeYear": 1131,
     "dailyMinutesDown": {
+      "2023-05-08": 1,
       "2023-04-25": 7,
       "2023-04-16": 5,
       "2023-04-13": 17,
@@ -304,8 +305,7 @@
       "2022-06-18": 5,
       "2022-06-12": 5,
       "2022-06-09": 24,
-      "2022-05-22": 5,
-      "2022-05-13": 5
+      "2022-05-22": 5
     }
   },
   {
