@@ -245,18 +245,19 @@
     "url": "https://searx.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/searx.tiekoetter.com.ico",
     "slug": "searx-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.95%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.41%",
-    "time": 1068,
-    "timeDay": 509,
-    "timeWeek": 627,
-    "timeMonth": 828,
-    "timeYear": 1130,
+    "time": 1071,
+    "timeDay": 1610,
+    "timeWeek": 836,
+    "timeMonth": 874,
+    "timeYear": 1133,
     "dailyMinutesDown": {
+      "2023-05-11": 1,
       "2023-05-08": 5,
       "2023-04-25": 7,
       "2023-04-16": 5,
@@ -308,8 +309,7 @@
       "2022-06-22": 62,
       "2022-06-18": 5,
       "2022-06-12": 5,
-      "2022-06-09": 24,
-      "2022-05-22": 5
+      "2022-06-09": 24
     }
   },
   {
@@ -564,10 +564,10 @@
     "url": "https://invidious.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/invidious.tiekoetter.com.ico",
     "slug": "invidious-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.69%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.68%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.87%",
     "time": 2222,
@@ -576,7 +576,7 @@
     "timeMonth": 2946,
     "timeYear": 2316,
     "dailyMinutesDown": {
-      "2023-05-11": 9,
+      "2023-05-11": 10,
       "2023-05-10": 4,
       "2023-05-09": 5,
       "2023-05-05": 13,
@@ -622,7 +622,7 @@
       "2022-12-13": 5,
       "2022-12-12": 55,
       "2022-12-11": 152,
-      "2022-12-10": 119
+      "2022-12-10": 109
     }
   },
   {
