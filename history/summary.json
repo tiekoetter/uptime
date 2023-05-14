@@ -564,11 +564,11 @@
     "url": "https://invidious.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/invidious.tiekoetter.com.ico",
     "slug": "invidious-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.88%",
     "time": 2242,
     "timeDay": 1167,
@@ -576,6 +576,7 @@
     "timeMonth": 3187,
     "timeYear": 2343,
     "dailyMinutesDown": {
+      "2023-05-14": 1,
       "2023-05-12": 14,
       "2023-05-11": 22,
       "2023-05-10": 4,
@@ -623,7 +624,7 @@
       "2022-12-13": 5,
       "2022-12-12": 55,
       "2022-12-11": 152,
-      "2022-12-10": 43
+      "2022-12-10": 37
     }
   },
   {
@@ -682,7 +683,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lt27.de.ico",
     "slug": "lt27-de",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -936,7 +937,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.autotestschaeffer.de.ico",
     "slug": "autotestschaeffer-de",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
