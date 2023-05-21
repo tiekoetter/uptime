@@ -341,18 +341,19 @@
     "url": "https://nitter.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.tiekoetter.com.ico",
     "slug": "nitter-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "99.65%",
+    "uptimeDay": "99.60%",
     "uptimeWeek": "99.48%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.67%",
     "time": 1099,
-    "timeDay": 602,
-    "timeWeek": 733,
+    "timeDay": 607,
+    "timeWeek": 727,
     "timeMonth": 652,
-    "timeYear": 1198,
+    "timeYear": 1197,
     "dailyMinutesDown": {
+      "2023-05-21": 1,
       "2023-05-20": 5,
       "2023-05-19": 1,
       "2023-05-18": 39,
@@ -397,8 +398,7 @@
       "2022-07-15": 51,
       "2022-07-12": 5,
       "2022-06-22": 57,
-      "2022-06-09": 101,
-      "2022-06-02": 5
+      "2022-06-09": 101
     }
   },
   {
@@ -416,7 +416,7 @@
     "timeDay": 1553,
     "timeWeek": 1403,
     "timeMonth": 1838,
-    "timeYear": 2010,
+    "timeYear": 2013,
     "dailyMinutesDown": {
       "2023-05-18": 8,
       "2023-05-06": 4,
@@ -877,7 +877,7 @@
     "slug": "meyr-eu",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "32.37%",
+    "uptimeDay": "60.03%",
     "uptimeWeek": "70.75%",
     "uptimeMonth": "93.27%",
     "uptimeYear": "99.17%",
