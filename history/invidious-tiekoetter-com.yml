@@ -1,7 +1,7 @@
 url: https://invidious.tiekoetter.com
-status: up
-code: 200
-responseTime: 1166
-lastUpdated: 2023-05-23T23:12:54.792Z
+status: down
+code: 502
+responseTime: 530
+lastUpdated: 2023-05-24T18:21:06.436Z
 startTime: Mon Apr 04 2022 21:00:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
