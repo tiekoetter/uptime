@@ -1,7 +1,7 @@
 url: https://tiekoettercom-cdn.tiekoetter.cloud/cdn/test.txt
-status: up
-code: 200
-responseTime: 46
-lastUpdated: 2023-05-27T23:12:32.622Z
+status: down
+code: 522
+responseTime: 15418
+lastUpdated: 2023-05-28T22:11:34.802Z
 startTime: Thu Jun 23 2022 10:39:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
