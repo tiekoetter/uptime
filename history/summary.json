@@ -614,11 +614,11 @@
     "url": "https://invidious.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/invidious.tiekoetter.com.ico",
     "slug": "invidious-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "98.02%",
-    "uptimeMonth": "97.75%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "97.74%",
     "uptimeYear": "99.75%",
     "time": 2349,
     "timeDay": 1051,
@@ -626,7 +626,7 @@
     "timeMonth": 3413,
     "timeYear": 2426,
     "dailyMinutesDown": {
-      "2023-06-18": 10,
+      "2023-06-18": 11,
       "2023-06-16": 73,
       "2023-06-13": 23,
       "2023-06-12": 95,
@@ -677,8 +677,7 @@
       "2023-02-15": 9,
       "2023-02-10": 15,
       "2023-02-09": 5,
-      "2023-02-06": 34,
-      "2023-01-31": 5
+      "2023-02-06": 34
     }
   },
   {
@@ -951,8 +950,8 @@
     "slug": "meyr-eu",
     "status": "up",
     "uptime": "96.53%",
-    "uptimeDay": "41.05%",
-    "uptimeWeek": "5.86%",
+    "uptimeDay": "42.10%",
+    "uptimeWeek": "6.01%",
     "uptimeMonth": "52.65%",
     "uptimeYear": "95.79%",
     "time": 702,
