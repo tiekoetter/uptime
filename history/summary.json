@@ -402,11 +402,11 @@
     "url": "https://libreddit.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.tiekoetter.com.ico",
     "slug": "libreddit-tiekoetter-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "65.12%",
-    "uptimeWeek": "95.02%",
-    "uptimeMonth": "98.85%",
+    "uptimeDay": "64.84%",
+    "uptimeWeek": "94.98%",
+    "uptimeMonth": "98.84%",
     "uptimeYear": "99.90%",
     "time": 1563,
     "timeDay": 1363,
@@ -414,7 +414,7 @@
     "timeMonth": 1379,
     "timeYear": 1539,
     "dailyMinutesDown": {
-      "2023-07-18": 337,
+      "2023-07-18": 341,
       "2023-07-17": 159
     }
   },
