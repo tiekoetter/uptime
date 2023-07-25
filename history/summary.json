@@ -347,19 +347,19 @@
     "url": "https://nitter.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.tiekoetter.com.ico",
     "slug": "nitter-tiekoetter-com",
-    "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "97.20%",
-    "uptimeWeek": "98.60%",
+    "status": "down",
+    "uptime": "99.65%",
+    "uptimeDay": "97.15%",
+    "uptimeWeek": "98.59%",
     "uptimeMonth": "94.74%",
-    "uptimeYear": "99.46%",
+    "uptimeYear": "99.54%",
     "time": 999,
-    "timeDay": 568,
-    "timeWeek": 874,
-    "timeMonth": 690,
-    "timeYear": 1084,
+    "timeDay": 565,
+    "timeWeek": 868,
+    "timeMonth": 689,
+    "timeYear": 1083,
     "dailyMinutesDown": {
-      "2023-07-25": 35,
+      "2023-07-25": 36,
       "2023-07-24": 25,
       "2023-07-23": 20,
       "2023-07-22": 35,
@@ -376,8 +376,7 @@
       "2023-06-06": 4,
       "2023-06-05": 4,
       "2023-05-31": 10,
-      "2023-05-29": 96,
-      "2023-05-28": 386
+      "2023-05-29": 96
     }
   },
   {
@@ -385,11 +384,11 @@
     "url": "https://libreddit.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.tiekoetter.com.ico",
     "slug": "libreddit-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "64.88%",
-    "uptimeWeek": "94.98%",
-    "uptimeMonth": "98.85%",
+    "uptimeDay": "65.19%",
+    "uptimeWeek": "95.03%",
+    "uptimeMonth": "98.86%",
     "uptimeYear": "99.90%",
     "time": 1403,
     "timeDay": 1175,
@@ -397,7 +396,7 @@
     "timeMonth": 1297,
     "timeYear": 1384,
     "dailyMinutesDown": {
-      "2023-07-25": 501
+      "2023-07-25": 497
     }
   },
   {
@@ -529,12 +528,12 @@
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.00%",
+    "uptimeMonth": "99.01%",
     "uptimeYear": "99.90%",
     "time": 3299,
     "timeDay": 675,
     "timeWeek": 4697,
-    "timeMonth": 6235,
+    "timeMonth": 6267,
     "timeYear": 3571,
     "dailyMinutesDown": {
       "2023-07-24": 4,
