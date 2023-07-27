@@ -14,7 +14,7 @@
     "timeDay": 768,
     "timeWeek": 787,
     "timeMonth": 983,
-    "timeYear": 1409,
+    "timeYear": 1410,
     "dailyMinutesDown": {
       "2023-07-14": 5,
       "2023-06-18": 5,
@@ -80,7 +80,7 @@
     "timeDay": 473,
     "timeWeek": 716,
     "timeMonth": 665,
-    "timeYear": 808,
+    "timeYear": 809,
     "dailyMinutesDown": {
       "2023-07-14": 4,
       "2023-07-08": 5,
@@ -160,7 +160,7 @@
     "timeDay": 118,
     "timeWeek": 126,
     "timeMonth": 147,
-    "timeYear": 166,
+    "timeYear": 165,
     "dailyMinutesDown": {
       "2023-05-31": 4,
       "2023-05-29": 84,
@@ -242,7 +242,7 @@
     "timeDay": 112,
     "timeWeek": 108,
     "timeMonth": 138,
-    "timeYear": 129,
+    "timeYear": 130,
     "dailyMinutesDown": {
       "2023-07-06": 4,
       "2023-01-25": 7,
@@ -264,7 +264,7 @@
     "timeDay": 447,
     "timeWeek": 536,
     "timeMonth": 847,
-    "timeYear": 1121,
+    "timeYear": 1122,
     "dailyMinutesDown": {
       "2023-07-19": 5,
       "2023-07-03": 5,
@@ -348,19 +348,19 @@
     "url": "https://nitter.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.tiekoetter.com.ico",
     "slug": "nitter-tiekoetter-com",
-    "status": "down",
-    "uptime": "99.67%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "98.40%",
-    "uptimeMonth": "94.67%",
+    "status": "up",
+    "uptime": "99.66%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "98.36%",
+    "uptimeMonth": "94.66%",
     "uptimeYear": "99.55%",
-    "time": 1001,
-    "timeDay": 630,
-    "timeWeek": 821,
-    "timeMonth": 689,
+    "time": 1000,
+    "timeDay": 599,
+    "timeWeek": 815,
+    "timeMonth": 687,
     "timeYear": 1076,
     "dailyMinutesDown": {
-      "2023-07-27": 11,
+      "2023-07-27": 15,
       "2023-07-26": 10,
       "2023-07-25": 45,
       "2023-07-24": 25,
@@ -382,11 +382,11 @@
     "url": "https://libreddit.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.tiekoetter.com.ico",
     "slug": "libreddit-tiekoetter-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "64.31%",
-    "uptimeWeek": "94.90%",
-    "uptimeMonth": "98.83%",
+    "uptimeDay": "64.03%",
+    "uptimeWeek": "94.86%",
+    "uptimeMonth": "98.82%",
     "uptimeYear": "99.90%",
     "time": 1384,
     "timeDay": 1288,
@@ -394,7 +394,7 @@
     "timeMonth": 1292,
     "timeYear": 1367,
     "dailyMinutesDown": {
-      "2023-07-27": 510
+      "2023-07-27": 514
     }
   },
   {
@@ -412,7 +412,7 @@
     "timeDay": 758,
     "timeWeek": 676,
     "timeMonth": 730,
-    "timeYear": 961,
+    "timeYear": 962,
     "dailyMinutesDown": {
       "2023-06-10": 4,
       "2023-06-07": 6,
