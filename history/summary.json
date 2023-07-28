@@ -349,7 +349,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nitter.tiekoetter.com.ico",
     "slug": "nitter-tiekoetter-com",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.67%",
     "uptimeDay": "98.99%",
     "uptimeWeek": "98.36%",
     "uptimeMonth": "94.66%",
@@ -382,20 +382,20 @@
     "url": "https://libreddit.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.tiekoetter.com.ico",
     "slug": "libreddit-tiekoetter-com",
-    "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "63.36%",
-    "uptimeWeek": "94.77%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "63.65%",
+    "uptimeWeek": "94.81%",
     "uptimeMonth": "98.80%",
     "uptimeYear": "99.90%",
     "time": 1379,
     "timeDay": 1257,
     "timeWeek": 1210,
     "timeMonth": 1289,
-    "timeYear": 1363,
+    "timeYear": 1362,
     "dailyMinutesDown": {
-      "2023-07-28": 210,
-      "2023-07-27": 314
+      "2023-07-28": 211,
+      "2023-07-27": 309
     }
   },
   {
