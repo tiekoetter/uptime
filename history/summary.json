@@ -381,11 +381,11 @@
     "url": "https://libreddit.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.tiekoetter.com.ico",
     "slug": "libreddit-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "64.22%",
-    "uptimeWeek": "94.89%",
-    "uptimeMonth": "98.82%",
+    "uptimeDay": "64.51%",
+    "uptimeWeek": "94.93%",
+    "uptimeMonth": "98.83%",
     "uptimeYear": "99.90%",
     "time": 1377,
     "timeDay": 1302,
@@ -393,8 +393,8 @@
     "timeMonth": 1291,
     "timeYear": 1361,
     "dailyMinutesDown": {
-      "2023-07-29": 66,
-      "2023-07-28": 445
+      "2023-07-29": 67,
+      "2023-07-28": 440
     }
   },
   {
