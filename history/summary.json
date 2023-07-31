@@ -352,10 +352,10 @@
     "url": "https://nitter.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.tiekoetter.com.ico",
     "slug": "nitter-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "86.57%",
-    "uptimeWeek": "94.43%",
+    "uptimeDay": "86.37%",
+    "uptimeWeek": "94.45%",
     "uptimeMonth": "98.72%",
     "uptimeYear": "99.89%",
     "time": 964,
@@ -364,10 +364,10 @@
     "timeMonth": 734,
     "timeYear": 1003,
     "dailyMinutesDown": {
-      "2023-07-31": 176,
+      "2023-07-31": 179,
       "2023-07-30": 183,
       "2023-07-29": 161,
-      "2023-07-28": 40
+      "2023-07-28": 35
     }
   },
   {
@@ -375,19 +375,19 @@
     "url": "https://libreddit.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.tiekoetter.com.ico",
     "slug": "libreddit-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "64.89%",
-    "uptimeWeek": "94.98%",
+    "uptimeDay": "65.04%",
+    "uptimeWeek": "95.01%",
     "uptimeMonth": "98.85%",
     "uptimeYear": "99.90%",
     "time": 1353,
-    "timeDay": 1231,
-    "timeWeek": 1246,
+    "timeDay": 1230,
+    "timeWeek": 1245,
     "timeMonth": 1284,
     "timeYear": 1345,
     "dailyMinutesDown": {
-      "2023-07-31": 501
+      "2023-07-31": 499
     }
   },
   {
@@ -516,18 +516,19 @@
     "url": "https://invidious.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/invidious.tiekoetter.com.ico",
     "slug": "invidious-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.39%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.38%",
     "uptimeYear": "99.90%",
-    "time": 3322,
-    "timeDay": 0,
-    "timeWeek": 3619,
-    "timeMonth": 6537,
-    "timeYear": 3623,
+    "time": 3329,
+    "timeDay": 7513,
+    "timeWeek": 4051,
+    "timeMonth": 6546,
+    "timeYear": 3627,
     "dailyMinutesDown": {
+      "2023-07-31": 3,
       "2023-07-27": 4,
       "2023-07-26": 5,
       "2023-07-24": 4,
@@ -554,7 +555,7 @@
       "2023-06-26": 79,
       "2023-06-25": 58,
       "2023-06-24": 5,
-      "2023-06-23": 38
+      "2023-06-23": 32
     }
   },
   {
@@ -696,11 +697,11 @@
     "url": "https://www.craftsmany.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.craftsmany.net.ico",
     "slug": "craftsmany-net",
-    "status": "up",
+    "status": "down",
     "uptime": "98.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "98.38%",
     "time": 2344,
     "timeDay": 0,
@@ -708,6 +709,7 @@
     "timeMonth": 1776,
     "timeYear": 2517,
     "dailyMinutesDown": {
+      "2023-07-31": 2,
       "2023-07-08": 8,
       "2023-07-03": 11,
       "2023-06-13": 4,
