@@ -13,7 +13,7 @@
     "time": 1274,
     "timeDay": 0,
     "timeWeek": 971,
-    "timeMonth": 1029,
+    "timeMonth": 1040,
     "timeYear": 1384,
     "dailyMinutesDown": {
       "2023-08-04": 5,
@@ -80,7 +80,7 @@
     "time": 773,
     "timeDay": 0,
     "timeWeek": 690,
-    "timeMonth": 647,
+    "timeMonth": 654,
     "timeYear": 802,
     "dailyMinutesDown": {
       "2023-07-31": 4,
@@ -139,7 +139,7 @@
     "time": 155,
     "timeDay": 0,
     "timeWeek": 93,
-    "timeMonth": 92,
+    "timeMonth": 93,
     "timeYear": 169,
     "dailyMinutesDown": {
       "2023-07-26": 29,
@@ -161,7 +161,7 @@
     "time": 160,
     "timeDay": 0,
     "timeWeek": 128,
-    "timeMonth": 139,
+    "timeMonth": 140,
     "timeYear": 162,
     "dailyMinutesDown": {
       "2023-05-31": 4,
@@ -193,7 +193,7 @@
     "time": 150,
     "timeDay": 0,
     "timeWeek": 152,
-    "timeMonth": 139,
+    "timeMonth": 141,
     "timeYear": 153,
     "dailyMinutesDown": {
       "2023-05-29": 87,
@@ -221,7 +221,7 @@
     "time": 163,
     "timeDay": 0,
     "timeWeek": 160,
-    "timeMonth": 159,
+    "timeMonth": 160,
     "timeYear": 166,
     "dailyMinutesDown": {
       "2023-08-09": 5
@@ -241,7 +241,7 @@
     "time": 128,
     "timeDay": 0,
     "timeWeek": 146,
-    "timeMonth": 125,
+    "timeMonth": 128,
     "timeYear": 130,
     "dailyMinutesDown": {
       "2023-08-09": 13,
@@ -264,8 +264,8 @@
     "time": 1082,
     "timeDay": 0,
     "timeWeek": 904,
-    "timeMonth": 775,
-    "timeYear": 1072,
+    "timeMonth": 782,
+    "timeYear": 1073,
     "dailyMinutesDown": {
       "2023-08-10": 4,
       "2023-08-09": 5,
@@ -337,7 +337,7 @@
     "time": 325,
     "timeDay": 0,
     "timeWeek": 271,
-    "timeMonth": 278,
+    "timeMonth": 286,
     "timeYear": 331,
     "dailyMinutesDown": {
       "2023-01-19": 4,
@@ -358,8 +358,8 @@
     "time": 922,
     "timeDay": 0,
     "timeWeek": 1021,
-    "timeMonth": 808,
-    "timeYear": 973,
+    "timeMonth": 809,
+    "timeYear": 974,
     "dailyMinutesDown": {
       "2023-08-07": 40,
       "2023-08-06": 104,
@@ -376,19 +376,19 @@
     "url": "https://libreddit.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.tiekoetter.com.ico",
     "slug": "libreddit-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "65.09%",
-    "uptimeWeek": "95.01%",
-    "uptimeMonth": "98.85%",
-    "uptimeYear": "99.90%",
+    "uptimeDay": "65.39%",
+    "uptimeWeek": "95.06%",
+    "uptimeMonth": "98.86%",
+    "uptimeYear": "99.91%",
     "time": 1438,
-    "timeDay": 1585,
-    "timeWeek": 1596,
+    "timeDay": 1583,
+    "timeWeek": 1595,
     "timeMonth": 1398,
-    "timeYear": 1426,
+    "timeYear": 1425,
     "dailyMinutesDown": {
-      "2023-08-12": 500
+      "2023-08-12": 496
     }
   },
   {
@@ -405,8 +405,8 @@
     "time": 905,
     "timeDay": 0,
     "timeWeek": 757,
-    "timeMonth": 726,
-    "timeYear": 967,
+    "timeMonth": 729,
+    "timeYear": 968,
     "dailyMinutesDown": {
       "2023-06-10": 4,
       "2023-06-07": 6,
@@ -454,8 +454,8 @@
     "time": 2943,
     "timeDay": 0,
     "timeWeek": 1072,
-    "timeMonth": 1229,
-    "timeYear": 3008,
+    "timeMonth": 1251,
+    "timeYear": 3011,
     "dailyMinutesDown": {
       "2023-08-11": 5,
       "2023-07-31": 9,
@@ -525,8 +525,8 @@
     "time": 3897,
     "timeDay": 10621,
     "timeWeek": 7678,
-    "timeMonth": 7758,
-    "timeYear": 4187,
+    "timeMonth": 7822,
+    "timeYear": 4191,
     "dailyMinutesDown": {
       "2023-08-12": 24,
       "2023-08-11": 30,
@@ -577,8 +577,8 @@
     "time": 1117,
     "timeDay": 0,
     "timeWeek": 932,
-    "timeMonth": 925,
-    "timeYear": 1178,
+    "timeMonth": 936,
+    "timeYear": 1179,
     "dailyMinutesDown": {
       "2023-08-06": 4,
       "2023-08-04": 4,
@@ -634,7 +634,7 @@
     "time": 678,
     "timeDay": 0,
     "timeWeek": 687,
-    "timeMonth": 537,
+    "timeMonth": 543,
     "timeYear": 747,
     "dailyMinutesDown": {
       "2023-06-12": 10,
@@ -666,7 +666,7 @@
     "time": 1205,
     "timeDay": 0,
     "timeWeek": 1128,
-    "timeMonth": 1021,
+    "timeMonth": 1023,
     "timeYear": 1229,
     "dailyMinutesDown": {
       "2023-06-12": 2,
@@ -710,7 +710,7 @@
     "time": 2372,
     "timeDay": 0,
     "timeWeek": 12775,
-    "timeMonth": 2547,
+    "timeMonth": 2625,
     "timeYear": 2582,
     "dailyMinutesDown": {
       "2023-07-31": 10,
@@ -773,8 +773,8 @@
     "time": 923,
     "timeDay": 0,
     "timeWeek": 718,
-    "timeMonth": 930,
-    "timeYear": 987,
+    "timeMonth": 956,
+    "timeYear": 988,
     "dailyMinutesDown": {
       "2023-07-03": 21,
       "2023-06-17": 5,
@@ -819,7 +819,7 @@
     "time": 702,
     "timeDay": 0,
     "timeWeek": 693,
-    "timeMonth": 613,
+    "timeMonth": 615,
     "timeYear": 716,
     "dailyMinutesDown": {
       "2023-06-20": 5,
@@ -873,7 +873,7 @@
     "time": 786,
     "timeDay": 0,
     "timeWeek": 797,
-    "timeMonth": 611,
+    "timeMonth": 619,
     "timeYear": 830,
     "dailyMinutesDown": {
       "2023-06-13": 4,
@@ -914,8 +914,8 @@
     "time": 1103,
     "timeDay": 0,
     "timeWeek": 2586,
-    "timeMonth": 1006,
-    "timeYear": 1153,
+    "timeMonth": 1019,
+    "timeYear": 1152,
     "dailyMinutesDown": {
       "2023-06-10": 6,
       "2023-06-07": 5,
