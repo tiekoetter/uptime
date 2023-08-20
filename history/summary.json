@@ -347,8 +347,8 @@
     "status": "down",
     "uptime": "99.45%",
     "uptimeDay": "13.55%",
-    "uptimeWeek": "60.03%",
-    "uptimeMonth": "90.80%",
+    "uptimeWeek": "59.93%",
+    "uptimeMonth": "90.78%",
     "uptimeYear": "99.23%",
     "time": 936,
     "timeDay": 608,
@@ -356,7 +356,7 @@
     "timeMonth": 836,
     "timeYear": 954,
     "dailyMinutesDown": {
-      "2023-08-20": 32,
+      "2023-08-20": 42,
       "2023-08-19": 1254,
       "2023-08-18": 1230,
       "2023-08-17": 1266,
@@ -370,7 +370,7 @@
     "slug": "libreddit-tiekoetter-com",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "66.21%",
+    "uptimeDay": "65.86%",
     "uptimeWeek": "95.02%",
     "uptimeMonth": "98.85%",
     "uptimeYear": "99.90%",
@@ -380,8 +380,8 @@
     "timeMonth": 1440,
     "timeYear": 1449,
     "dailyMinutesDown": {
-      "2023-08-20": 20,
-      "2023-08-19": 480
+      "2023-08-20": 25,
+      "2023-08-19": 475
     }
   },
   {
