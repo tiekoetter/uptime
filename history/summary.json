@@ -343,22 +343,22 @@
     "url": "https://nitter.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.tiekoetter.com.ico",
     "slug": "nitter-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "15.26%",
-    "uptimeWeek": "61.79%",
-    "uptimeMonth": "91.21%",
+    "uptimeDay": "15.51%",
+    "uptimeWeek": "61.93%",
+    "uptimeMonth": "91.24%",
     "uptimeYear": "99.27%",
     "time": 923,
-    "timeDay": 748,
+    "timeDay": 747,
     "timeWeek": 814,
     "timeMonth": 826,
     "timeYear": 940,
     "dailyMinutesDown": {
-      "2023-08-21": 757,
+      "2023-08-21": 758,
       "2023-08-20": 1344,
       "2023-08-19": 1254,
-      "2023-08-18": 494
+      "2023-08-18": 479
     }
   },
   {
@@ -374,7 +374,7 @@
     "uptimeYear": "99.90%",
     "time": 1466,
     "timeDay": 1842,
-    "timeWeek": 1633,
+    "timeWeek": 1634,
     "timeMonth": 1461,
     "timeYear": 1456,
     "dailyMinutesDown": {
