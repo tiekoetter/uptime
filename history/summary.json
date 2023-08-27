@@ -350,8 +350,8 @@
     "status": "down",
     "uptime": "99.88%",
     "uptimeDay": "81.29%",
-    "uptimeWeek": "91.22%",
-    "uptimeMonth": "97.98%",
+    "uptimeWeek": "91.17%",
+    "uptimeMonth": "97.97%",
     "uptimeYear": "99.83%",
     "time": 874,
     "timeDay": 644,
@@ -359,7 +359,7 @@
     "timeMonth": 777,
     "timeYear": 886,
     "dailyMinutesDown": {
-      "2023-08-27": 221,
+      "2023-08-27": 226,
       "2023-08-26": 229,
       "2023-08-25": 435
     }
@@ -369,11 +369,11 @@
     "url": "https://libreddit.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.tiekoetter.com.ico",
     "slug": "libreddit-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "67.34%",
-    "uptimeWeek": "94.74%",
-    "uptimeMonth": "98.79%",
+    "uptimeWeek": "94.78%",
+    "uptimeMonth": "98.80%",
     "uptimeYear": "99.90%",
     "time": 1450,
     "timeDay": 1164,
@@ -381,8 +381,8 @@
     "timeMonth": 1492,
     "timeYear": 1442,
     "dailyMinutesDown": {
-      "2023-08-27": 344,
-      "2023-08-26": 185
+      "2023-08-27": 345,
+      "2023-08-26": 180
     }
   },
   {
