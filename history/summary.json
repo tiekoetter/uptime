@@ -137,7 +137,7 @@
     "timeDay": 62,
     "timeWeek": 103,
     "timeMonth": 86,
-    "timeYear": 169,
+    "timeYear": 170,
     "dailyMinutesDown": {
       "2023-07-26": 29,
       "2023-05-28": 9,
@@ -159,7 +159,7 @@
     "timeDay": 160,
     "timeWeek": 144,
     "timeMonth": 141,
-    "timeYear": 162,
+    "timeYear": 161,
     "dailyMinutesDown": {
       "2023-08-22": 5,
       "2023-05-31": 4,
@@ -350,12 +350,12 @@
     "slug": "nitter-tiekoetter-com",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "85.19%",
+    "uptimeDay": "85.37%",
     "uptimeWeek": "93.32%",
     "uptimeMonth": "98.46%",
     "uptimeYear": "99.87%",
     "time": 861,
-    "timeDay": 595,
+    "timeDay": 598,
     "timeWeek": 660,
     "timeMonth": 758,
     "timeYear": 873,
@@ -370,19 +370,19 @@
     "url": "https://libreddit.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.tiekoetter.com.ico",
     "slug": "libreddit-tiekoetter-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "65.34%",
-    "uptimeWeek": "95.05%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "99.91%",
+    "uptimeDay": "64.79%",
+    "uptimeWeek": "94.97%",
+    "uptimeMonth": "98.84%",
+    "uptimeYear": "99.90%",
     "time": 1444,
-    "timeDay": 1145,
-    "timeWeek": 1266,
+    "timeDay": 1149,
+    "timeWeek": 1267,
     "timeMonth": 1487,
     "timeYear": 1434,
     "dailyMinutesDown": {
-      "2023-08-28": 497
+      "2023-08-28": 505
     }
   },
   {
@@ -447,7 +447,7 @@
     "timeDay": 1074,
     "timeWeek": 3582,
     "timeMonth": 2408,
-    "timeYear": 2957,
+    "timeYear": 2959,
     "dailyMinutesDown": {
       "2023-08-27": 5,
       "2023-08-24": 5,
@@ -521,7 +521,7 @@
     "timeDay": 1384,
     "timeWeek": 6138,
     "timeMonth": 7923,
-    "timeYear": 4459,
+    "timeYear": 4463,
     "dailyMinutesDown": {
       "2023-08-26": 5,
       "2023-08-22": 53,
@@ -705,7 +705,7 @@
     "timeDay": 1480,
     "timeWeek": 1599,
     "timeMonth": 3153,
-    "timeYear": 2593,
+    "timeYear": 2594,
     "dailyMinutesDown": {
       "2023-08-22": 27,
       "2023-07-31": 10,
