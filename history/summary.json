@@ -12,7 +12,7 @@
     "uptimeYear": "98.99%",
     "time": 1285,
     "timeDay": 1221,
-    "timeWeek": 895,
+    "timeWeek": 925,
     "timeMonth": 1251,
     "timeYear": 1378,
     "dailyMinutesDown": {
@@ -78,7 +78,7 @@
     "uptimeYear": "98.22%",
     "time": 776,
     "timeDay": 826,
-    "timeWeek": 584,
+    "timeWeek": 609,
     "timeMonth": 670,
     "timeYear": 781,
     "dailyMinutesDown": {
@@ -262,7 +262,7 @@
     "uptimeYear": "99.39%",
     "time": 1104,
     "timeDay": 678,
-    "timeWeek": 588,
+    "timeWeek": 605,
     "timeMonth": 1069,
     "timeYear": 974,
     "dailyMinutesDown": {
@@ -370,19 +370,19 @@
     "url": "https://libreddit.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.tiekoetter.com.ico",
     "slug": "libreddit-tiekoetter-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "63.25%",
-    "uptimeWeek": "94.75%",
-    "uptimeMonth": "98.79%",
+    "uptimeDay": "62.97%",
+    "uptimeWeek": "94.71%",
+    "uptimeMonth": "98.78%",
     "uptimeYear": "99.90%",
     "time": 1437,
-    "timeDay": 1113,
+    "timeDay": 1115,
     "timeWeek": 1186,
     "timeMonth": 1485,
     "timeYear": 1429,
     "dailyMinutesDown": {
-      "2023-08-29": 527
+      "2023-08-29": 531
     }
   },
   {
@@ -398,7 +398,7 @@
     "uptimeYear": "99.37%",
     "time": 909,
     "timeDay": 861,
-    "timeWeek": 724,
+    "timeWeek": 744,
     "timeMonth": 782,
     "timeYear": 964,
     "dailyMinutesDown": {
@@ -445,7 +445,7 @@
     "uptimeYear": "99.39%",
     "time": 3062,
     "timeDay": 1074,
-    "timeWeek": 3485,
+    "timeWeek": 3715,
     "timeMonth": 2408,
     "timeYear": 2959,
     "dailyMinutesDown": {
@@ -519,7 +519,7 @@
     "uptimeYear": "99.90%",
     "time": 4047,
     "timeDay": 1384,
-    "timeWeek": 3340,
+    "timeWeek": 3585,
     "timeMonth": 7923,
     "timeYear": 4471,
     "dailyMinutesDown": {
@@ -570,7 +570,7 @@
     "uptimeYear": "99.58%",
     "time": 1120,
     "timeDay": 956,
-    "timeWeek": 783,
+    "timeWeek": 808,
     "timeMonth": 898,
     "timeYear": 1122,
     "dailyMinutesDown": {
