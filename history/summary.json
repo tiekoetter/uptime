@@ -377,8 +377,8 @@
     "uptimeMonth": "98.83%",
     "uptimeYear": "99.90%",
     "time": 1396,
-    "timeDay": 1098,
-    "timeWeek": 1151,
+    "timeDay": 1097,
+    "timeWeek": 1150,
     "timeMonth": 1385,
     "timeYear": 1389,
     "dailyMinutesDown": {
@@ -437,18 +437,19 @@
     "url": "https://translate.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/translate.tiekoetter.com.ico",
     "slug": "translate-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "98.45%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "98.44%",
     "uptimeYear": "99.38%",
-    "time": 3079,
+    "time": 3082,
     "timeDay": 636,
     "timeWeek": 2933,
     "timeMonth": 2494,
     "timeYear": 2972,
     "dailyMinutesDown": {
+      "2023-09-08": 2,
       "2023-09-07": 5,
       "2023-09-06": 4,
       "2023-09-05": 45,
@@ -505,7 +506,7 @@
       "2023-03-01": 10,
       "2023-02-28": 6,
       "2023-02-27": 20,
-      "2023-02-25": 15
+      "2023-02-25": 10
     }
   },
   {
