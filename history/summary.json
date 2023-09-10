@@ -349,9 +349,9 @@
     "slug": "nitter-tiekoetter-com",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "73.99%",
-    "uptimeWeek": "93.35%",
-    "uptimeMonth": "98.47%",
+    "uptimeDay": "73.92%",
+    "uptimeWeek": "93.29%",
+    "uptimeMonth": "98.46%",
     "uptimeYear": "99.87%",
     "time": 789,
     "timeDay": 615,
@@ -359,7 +359,7 @@
     "timeMonth": 679,
     "timeYear": 791,
     "dailyMinutesDown": {
-      "2023-09-10": 276,
+      "2023-09-10": 281,
       "2023-09-09": 259,
       "2023-09-07": 15,
       "2023-09-06": 120
@@ -370,11 +370,11 @@
     "url": "https://libreddit.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.tiekoetter.com.ico",
     "slug": "libreddit-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "64.51%",
-    "uptimeWeek": "94.93%",
-    "uptimeMonth": "98.83%",
+    "uptimeDay": "64.75%",
+    "uptimeWeek": "94.96%",
+    "uptimeMonth": "98.84%",
     "uptimeYear": "99.90%",
     "time": 1385,
     "timeDay": 1106,
@@ -382,8 +382,8 @@
     "timeMonth": 1346,
     "timeYear": 1379,
     "dailyMinutesDown": {
-      "2023-09-10": 390,
-      "2023-09-09": 120
+      "2023-09-10": 391,
+      "2023-09-09": 115
     }
   },
   {
@@ -437,18 +437,19 @@
     "url": "https://translate.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/translate.tiekoetter.com.ico",
     "slug": "translate-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "98.43%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "98.42%",
     "uptimeYear": "99.38%",
-    "time": 3095,
-    "timeDay": 7743,
-    "timeWeek": 3940,
-    "timeMonth": 2765,
-    "timeYear": 2981,
+    "time": 3125,
+    "timeDay": 11882,
+    "timeWeek": 5298,
+    "timeMonth": 3244,
+    "timeYear": 3012,
     "dailyMinutesDown": {
+      "2023-09-10": 2,
       "2023-09-09": 5,
       "2023-09-08": 5,
       "2023-09-07": 5,
@@ -506,8 +507,7 @@
       "2023-03-03": 2,
       "2023-03-01": 10,
       "2023-02-28": 6,
-      "2023-02-27": 20,
-      "2023-02-25": 5
+      "2023-02-27": 20
     }
   },
   {
