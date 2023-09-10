@@ -377,7 +377,7 @@
     "uptimeMonth": "98.81%",
     "uptimeYear": "99.90%",
     "time": 1386,
-    "timeDay": 1116,
+    "timeDay": 1118,
     "timeWeek": 1126,
     "timeMonth": 1341,
     "timeYear": 1378,
@@ -515,19 +515,19 @@
     "url": "https://invidious.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/invidious.tiekoetter.com.ico",
     "slug": "invidious-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.30%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.29%",
     "uptimeYear": "99.91%",
-    "time": 4089,
+    "time": 4092,
     "timeDay": 11367,
     "timeWeek": 4168,
     "timeMonth": 6167,
     "timeYear": 4501,
     "dailyMinutesDown": {
-      "2023-09-10": 7,
+      "2023-09-10": 9,
       "2023-09-09": 33,
       "2023-09-08": 8,
       "2023-09-07": 14,
@@ -557,7 +557,7 @@
       "2023-07-26": 5,
       "2023-07-24": 4,
       "2023-07-22": 8,
-      "2023-07-20": 10
+      "2023-07-20": 5
     }
   },
   {
