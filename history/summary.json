@@ -350,8 +350,8 @@
     "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "61.91%",
-    "uptimeWeek": "91.92%",
-    "uptimeMonth": "98.14%",
+    "uptimeWeek": "91.87%",
+    "uptimeMonth": "98.13%",
     "uptimeYear": "99.84%",
     "time": 776,
     "timeDay": 579,
@@ -359,7 +359,7 @@
     "timeMonth": 672,
     "timeYear": 781,
     "dailyMinutesDown": {
-      "2023-09-11": 406,
+      "2023-09-11": 411,
       "2023-09-10": 406
     }
   },
@@ -368,11 +368,11 @@
     "url": "https://libreddit.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.tiekoetter.com.ico",
     "slug": "libreddit-tiekoetter-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "64.72%",
-    "uptimeWeek": "94.96%",
-    "uptimeMonth": "98.84%",
+    "uptimeDay": "64.45%",
+    "uptimeWeek": "94.92%",
+    "uptimeMonth": "98.83%",
     "uptimeYear": "99.90%",
     "time": 1381,
     "timeDay": 1130,
@@ -380,7 +380,7 @@
     "timeMonth": 1327,
     "timeYear": 1374,
     "dailyMinutesDown": {
-      "2023-09-11": 481,
+      "2023-09-11": 485,
       "2023-09-10": 24
     }
   },
@@ -800,7 +800,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/meyr.eu.ico",
     "slug": "meyr-eu",
     "status": "up",
-    "uptime": "97.08%",
+    "uptime": "97.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
