@@ -347,11 +347,11 @@
     "url": "https://nitter.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.tiekoetter.com.ico",
     "slug": "nitter-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "62.00%",
-    "uptimeWeek": "92.08%",
-    "uptimeMonth": "98.18%",
+    "uptimeDay": "62.26%",
+    "uptimeWeek": "92.12%",
+    "uptimeMonth": "98.19%",
     "uptimeYear": "99.85%",
     "time": 777,
     "timeDay": 601,
@@ -359,8 +359,8 @@
     "timeMonth": 672,
     "timeYear": 780,
     "dailyMinutesDown": {
-      "2023-09-11": 470,
-      "2023-09-10": 326
+      "2023-09-11": 471,
+      "2023-09-10": 321
     }
   },
   {
@@ -368,11 +368,11 @@
     "url": "https://libreddit.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.tiekoetter.com.ico",
     "slug": "libreddit-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "64.48%",
-    "uptimeWeek": "94.93%",
-    "uptimeMonth": "98.83%",
+    "uptimeDay": "64.77%",
+    "uptimeWeek": "94.97%",
+    "uptimeMonth": "98.84%",
     "uptimeYear": "99.90%",
     "time": 1382,
     "timeDay": 1140,
@@ -380,7 +380,7 @@
     "timeMonth": 1326,
     "timeYear": 1374,
     "dailyMinutesDown": {
-      "2023-09-11": 509
+      "2023-09-11": 505
     }
   },
   {
@@ -513,19 +513,19 @@
     "url": "https://invidious.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/invidious.tiekoetter.com.ico",
     "slug": "invidious-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.34%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.33%",
     "uptimeYear": "99.91%",
     "time": 4096,
-    "timeDay": 852,
-    "timeWeek": 4060,
-    "timeMonth": 5985,
-    "timeYear": 4495,
+    "timeDay": 725,
+    "timeWeek": 3904,
+    "timeMonth": 5936,
+    "timeYear": 4490,
     "dailyMinutesDown": {
-      "2023-09-11": 4,
+      "2023-09-11": 6,
       "2023-09-10": 11,
       "2023-09-09": 33,
       "2023-09-08": 8,
@@ -554,8 +554,7 @@
       "2023-07-31": 11,
       "2023-07-27": 4,
       "2023-07-26": 5,
-      "2023-07-24": 4,
-      "2023-07-22": 8
+      "2023-07-24": 4
     }
   },
   {
