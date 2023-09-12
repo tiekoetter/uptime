@@ -347,20 +347,20 @@
     "url": "https://nitter.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.tiekoetter.com.ico",
     "slug": "nitter-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "59.97%",
-    "uptimeWeek": "91.54%",
-    "uptimeMonth": "98.05%",
+    "uptimeDay": "59.90%",
+    "uptimeWeek": "91.58%",
+    "uptimeMonth": "98.06%",
     "uptimeYear": "99.84%",
     "time": 771,
-    "timeDay": 601,
+    "timeDay": 603,
     "timeWeek": 602,
-    "timeMonth": 667,
+    "timeMonth": 668,
     "timeYear": 773,
     "dailyMinutesDown": {
-      "2023-09-12": 526,
-      "2023-09-11": 324
+      "2023-09-12": 527,
+      "2023-09-11": 319
     }
   },
   {
@@ -368,19 +368,19 @@
     "url": "https://libreddit.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.tiekoetter.com.ico",
     "slug": "libreddit-tiekoetter-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "63.51%",
-    "uptimeWeek": "94.79%",
-    "uptimeMonth": "98.80%",
+    "uptimeDay": "63.21%",
+    "uptimeWeek": "94.74%",
+    "uptimeMonth": "98.79%",
     "uptimeYear": "99.90%",
     "time": 1379,
-    "timeDay": 1282,
+    "timeDay": 1287,
     "timeWeek": 1151,
     "timeMonth": 1311,
     "timeYear": 1372,
     "dailyMinutesDown": {
-      "2023-09-12": 521
+      "2023-09-12": 525
     }
   },
   {
