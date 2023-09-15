@@ -347,12 +347,12 @@
     "slug": "nitter-tiekoetter-com",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "96.51%",
+    "uptimeDay": "97.22%",
     "uptimeWeek": "90.93%",
     "uptimeMonth": "97.91%",
     "uptimeYear": "99.83%",
     "time": 762,
-    "timeDay": 644,
+    "timeDay": 603,
     "timeWeek": 607,
     "timeMonth": 660,
     "timeYear": 767,
@@ -374,13 +374,13 @@
     "uptimeMonth": "98.75%",
     "uptimeYear": "99.90%",
     "time": 1378,
-    "timeDay": 1162,
+    "timeDay": 1158,
     "timeWeek": 1218,
     "timeMonth": 1299,
     "timeYear": 1372,
     "dailyMinutesDown": {
-      "2023-09-15": 42,
-      "2023-09-14": 504
+      "2023-09-15": 47,
+      "2023-09-14": 499
     }
   },
   {
