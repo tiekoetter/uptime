@@ -368,19 +368,19 @@
     "url": "https://libreddit.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.tiekoetter.com.ico",
     "slug": "libreddit-tiekoetter-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "62.59%",
-    "uptimeWeek": "94.66%",
-    "uptimeMonth": "98.77%",
+    "uptimeDay": "62.29%",
+    "uptimeWeek": "94.61%",
+    "uptimeMonth": "98.76%",
     "uptimeYear": "99.90%",
     "time": 1376,
-    "timeDay": 1111,
+    "timeDay": 1113,
     "timeWeek": 1220,
     "timeMonth": 1282,
     "timeYear": 1368,
     "dailyMinutesDown": {
-      "2023-09-15": 536
+      "2023-09-15": 540
     }
   },
   {
@@ -398,7 +398,7 @@
     "timeDay": 658,
     "timeWeek": 711,
     "timeMonth": 756,
-    "timeYear": 911,
+    "timeYear": 908,
     "dailyMinutesDown": {
       "2023-08-22": 25,
       "2023-06-10": 4,
@@ -443,7 +443,7 @@
     "timeDay": 724,
     "timeWeek": 6276,
     "timeMonth": 3738,
-    "timeYear": 3052,
+    "timeYear": 3056,
     "dailyMinutesDown": {
       "2023-09-14": 10,
       "2023-09-11": 5,
@@ -523,7 +523,7 @@
     "timeDay": 8614,
     "timeWeek": 7181,
     "timeMonth": 5242,
-    "timeYear": 4585,
+    "timeYear": 4589,
     "dailyMinutesDown": {
       "2023-09-15": 16,
       "2023-09-14": 17,
@@ -657,7 +657,7 @@
     "timeDay": 2179,
     "timeWeek": 1264,
     "timeMonth": 1532,
-    "timeYear": 1258,
+    "timeYear": 1259,
     "dailyMinutesDown": {
       "2023-09-09": 5,
       "2023-08-22": 26,
@@ -701,7 +701,7 @@
     "timeDay": 2154,
     "timeWeek": 1675,
     "timeMonth": 1901,
-    "timeYear": 2545,
+    "timeYear": 2547,
     "dailyMinutesDown": {
       "2023-09-09": 5,
       "2023-08-22": 27,
@@ -759,7 +759,7 @@
     "timeDay": 629,
     "timeWeek": 803,
     "timeMonth": 719,
-    "timeYear": 961,
+    "timeYear": 962,
     "dailyMinutesDown": {
       "2023-08-22": 23,
       "2023-07-03": 21,
@@ -802,7 +802,7 @@
     "timeDay": 788,
     "timeWeek": 718,
     "timeMonth": 651,
-    "timeYear": 714,
+    "timeYear": 715,
     "dailyMinutesDown": {
       "2023-08-22": 23,
       "2023-06-20": 5,
@@ -855,7 +855,7 @@
     "timeDay": 487,
     "timeWeek": 679,
     "timeMonth": 626,
-    "timeYear": 806,
+    "timeYear": 796,
     "dailyMinutesDown": {
       "2023-08-22": 23,
       "2023-06-13": 4,
@@ -895,7 +895,7 @@
     "timeDay": 1169,
     "timeWeek": 1026,
     "timeMonth": 990,
-    "timeYear": 1154,
+    "timeYear": 1153,
     "dailyMinutesDown": {
       "2023-08-22": 23,
       "2023-06-10": 6,
