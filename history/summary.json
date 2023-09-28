@@ -214,7 +214,7 @@
     "timeDay": 173,
     "timeWeek": 141,
     "timeMonth": 157,
-    "timeYear": 161,
+    "timeYear": 160,
     "dailyMinutesDown": {
       "2023-08-09": 5
     }
@@ -234,7 +234,7 @@
     "timeDay": 139,
     "timeWeek": 122,
     "timeMonth": 137,
-    "timeYear": 131,
+    "timeYear": 130,
     "dailyMinutesDown": {
       "2023-08-09": 13,
       "2023-07-06": 4,
@@ -342,7 +342,7 @@
     "slug": "nitter-tiekoetter-com",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "64.31%",
+    "uptimeDay": "64.69%",
     "uptimeWeek": "92.67%",
     "uptimeMonth": "97.94%",
     "uptimeYear": "99.83%",
@@ -369,17 +369,17 @@
     "slug": "libreddit-tiekoetter-com",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "61.80%",
-    "uptimeWeek": "94.54%",
+    "uptimeDay": "61.65%",
+    "uptimeWeek": "94.52%",
     "uptimeMonth": "98.74%",
-    "uptimeYear": "99.90%",
+    "uptimeYear": "99.89%",
     "time": 1332,
-    "timeDay": 1022,
+    "timeDay": 1021,
     "timeWeek": 1066,
-    "timeMonth": 1143,
-    "timeYear": 1326,
+    "timeMonth": 1142,
+    "timeYear": 1325,
     "dailyMinutesDown": {
-      "2023-09-28": 547
+      "2023-09-28": 549
     }
   },
   {
@@ -397,7 +397,7 @@
     "timeDay": 847,
     "timeWeek": 666,
     "timeMonth": 714,
-    "timeYear": 899,
+    "timeYear": 900,
     "dailyMinutesDown": {
       "2023-08-22": 25,
       "2023-06-10": 4,
@@ -441,7 +441,7 @@
     "timeDay": 690,
     "timeWeek": 697,
     "timeMonth": 3971,
-    "timeYear": 3104,
+    "timeYear": 3107,
     "dailyMinutesDown": {
       "2023-09-19": 5,
       "2023-09-17": 4,
@@ -522,7 +522,7 @@
     "timeDay": 10147,
     "timeWeek": 6881,
     "timeMonth": 5383,
-    "timeYear": 4695,
+    "timeYear": 4698,
     "dailyMinutesDown": {
       "2023-09-28": 94,
       "2023-09-22": 5,
@@ -574,7 +574,7 @@
     "timeDay": 799,
     "timeWeek": 732,
     "timeMonth": 865,
-    "timeYear": 1111,
+    "timeYear": 1112,
     "dailyMinutesDown": {
       "2023-08-22": 30,
       "2023-08-06": 4,
@@ -702,7 +702,7 @@
     "timeDay": 1245,
     "timeWeek": 1528,
     "timeMonth": 1821,
-    "timeYear": 2547,
+    "timeYear": 2549,
     "dailyMinutesDown": {
       "2023-09-09": 5,
       "2023-08-22": 27,
