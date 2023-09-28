@@ -340,26 +340,26 @@
     "url": "https://nitter.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.tiekoetter.com.ico",
     "slug": "nitter-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "64.24%",
-    "uptimeWeek": "93.21%",
+    "uptimeDay": "64.15%",
+    "uptimeWeek": "93.19%",
     "uptimeMonth": "97.99%",
     "uptimeYear": "99.83%",
     "time": 757,
-    "timeDay": 557,
-    "timeWeek": 563,
+    "timeDay": 558,
+    "timeWeek": 564,
     "timeMonth": 609,
     "timeYear": 758,
     "dailyMinutesDown": {
-      "2023-09-28": 444,
+      "2023-09-28": 445,
       "2023-09-27": 194,
       "2023-09-26": 30,
       "2023-09-25": 5,
       "2023-09-22": 10,
       "2023-09-15": 5,
       "2023-09-14": 55,
-      "2023-09-13": 137
+      "2023-09-13": 132
     }
   },
   {
@@ -367,10 +367,10 @@
     "url": "https://libreddit.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.tiekoetter.com.ico",
     "slug": "libreddit-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "60.92%",
-    "uptimeWeek": "94.42%",
+    "uptimeDay": "61.17%",
+    "uptimeWeek": "94.45%",
     "uptimeMonth": "98.72%",
     "uptimeYear": "99.89%",
     "time": 1332,
@@ -379,8 +379,8 @@
     "timeMonth": 1143,
     "timeYear": 1326,
     "dailyMinutesDown": {
-      "2023-09-28": 446,
-      "2023-09-27": 114
+      "2023-09-28": 447,
+      "2023-09-27": 109
     }
   },
   {
@@ -513,19 +513,19 @@
     "url": "https://invidious.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/invidious.tiekoetter.com.ico",
     "slug": "invidious-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.65%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "99.91%",
-    "time": 4279,
-    "timeDay": 5360,
-    "timeWeek": 4110,
-    "timeMonth": 4839,
-    "timeYear": 4653,
+    "time": 4295,
+    "timeDay": 8074,
+    "timeWeek": 5119,
+    "timeMonth": 5002,
+    "timeYear": 4666,
     "dailyMinutesDown": {
-      "2023-09-28": 8,
+      "2023-09-28": 11,
       "2023-09-22": 5,
       "2023-09-20": 4,
       "2023-09-17": 9,
@@ -557,7 +557,7 @@
       "2023-08-06": 5,
       "2023-08-05": 15,
       "2023-08-04": 14,
-      "2023-08-03": 27
+      "2023-08-03": 23
     }
   },
   {
