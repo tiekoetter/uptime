@@ -368,20 +368,20 @@
     "url": "https://libreddit.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.tiekoetter.com.ico",
     "slug": "libreddit-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "77.30%",
-    "uptimeWeek": "94.81%",
+    "uptimeWeek": "94.83%",
     "uptimeMonth": "98.81%",
     "uptimeYear": "99.90%",
     "time": 1325,
-    "timeDay": 1021,
+    "timeDay": 1019,
     "timeWeek": 1021,
     "timeMonth": 1128,
     "timeYear": 1317,
     "dailyMinutesDown": {
-      "2023-10-01": 276,
-      "2023-09-30": 244
+      "2023-10-01": 279,
+      "2023-09-30": 239
     }
   },
   {
@@ -436,8 +436,8 @@
     "status": "down",
     "uptime": "99.16%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "65.65%",
-    "uptimeMonth": "91.87%",
+    "uptimeWeek": "65.59%",
+    "uptimeMonth": "91.86%",
     "uptimeYear": "98.72%",
     "time": 3087,
     "timeDay": 636,
@@ -445,7 +445,7 @@
     "timeMonth": 3905,
     "timeYear": 3103,
     "dailyMinutesDown": {
-      "2023-10-01": 1344,
+      "2023-10-01": 1349,
       "2023-09-30": 1440,
       "2023-09-29": 679,
       "2023-09-19": 5,
@@ -516,19 +516,19 @@
     "url": "https://invidious.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/invidious.tiekoetter.com.ico",
     "slug": "invidious-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "89.65%",
-    "uptimeWeek": "89.36%",
+    "uptimeDay": "89.50%",
+    "uptimeWeek": "89.34%",
     "uptimeMonth": "97.21%",
     "uptimeYear": "99.74%",
-    "time": 4472,
+    "time": 4475,
     "timeDay": 11897,
     "timeWeek": 9198,
     "timeMonth": 7069,
     "timeYear": 4937,
     "dailyMinutesDown": {
-      "2023-10-01": 148,
+      "2023-10-01": 150,
       "2023-09-29": 829,
       "2023-09-28": 94,
       "2023-09-22": 5,
@@ -553,7 +553,7 @@
       "2023-08-16": 10,
       "2023-08-15": 5,
       "2023-08-14": 30,
-      "2023-08-13": 16
+      "2023-08-13": 13
     }
   },
   {
