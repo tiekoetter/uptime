@@ -370,19 +370,19 @@
     "slug": "libreddit-tiekoetter-com",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "79.07%",
+    "uptimeDay": "78.72%",
     "uptimeWeek": "94.71%",
     "uptimeMonth": "98.78%",
     "uptimeYear": "99.90%",
     "time": 1323,
-    "timeDay": 1011,
+    "timeDay": 1013,
     "timeWeek": 1020,
     "timeMonth": 1127,
     "timeYear": 1317,
     "dailyMinutesDown": {
-      "2023-10-02": 70,
+      "2023-10-02": 75,
       "2023-10-01": 296,
-      "2023-09-30": 164
+      "2023-09-30": 159
     }
   },
   {
@@ -437,8 +437,8 @@
     "status": "down",
     "uptime": "99.12%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "62.78%",
-    "uptimeMonth": "91.21%",
+    "uptimeWeek": "62.66%",
+    "uptimeMonth": "91.19%",
     "uptimeYear": "98.67%",
     "time": 3087,
     "timeDay": 0,
@@ -446,7 +446,7 @@
     "timeMonth": 3971,
     "timeYear": 3107,
     "dailyMinutesDown": {
-      "2023-10-02": 193,
+      "2023-10-02": 205,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
       "2023-09-29": 679,
@@ -518,11 +518,11 @@
     "url": "https://invidious.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/invidious.tiekoetter.com.ico",
     "slug": "invidious-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "81.90%",
-    "uptimeWeek": "88.25%",
-    "uptimeMonth": "96.96%",
+    "uptimeDay": "81.29%",
+    "uptimeWeek": "88.17%",
+    "uptimeMonth": "96.94%",
     "uptimeYear": "99.72%",
     "time": 4606,
     "timeDay": 12207,
@@ -530,7 +530,7 @@
     "timeMonth": 7690,
     "timeYear": 5049,
     "dailyMinutesDown": {
-      "2023-10-02": 51,
+      "2023-10-02": 60,
       "2023-10-01": 208,
       "2023-09-29": 829,
       "2023-09-28": 94,
@@ -554,8 +554,7 @@
       "2023-08-20": 5,
       "2023-08-18": 7,
       "2023-08-16": 10,
-      "2023-08-15": 5,
-      "2023-08-14": 5
+      "2023-08-15": 5
     }
   },
   {
