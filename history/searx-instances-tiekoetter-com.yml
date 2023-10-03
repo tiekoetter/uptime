@@ -1,7 +1,7 @@
 url: https://searx-instances.tiekoetter.com
-status: down
-code: 502
-responseTime: 284
-lastUpdated: 2023-10-03T02:05:40.523Z
+status: up
+code: 200
+responseTime: 359
+lastUpdated: 2023-10-03T02:10:42.275Z
 startTime: 2022-03-31T16:00:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
