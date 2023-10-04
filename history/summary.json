@@ -366,19 +366,19 @@
     "url": "https://libreddit.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.tiekoetter.com.ico",
     "slug": "libreddit-tiekoetter-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "59.79%",
-    "uptimeWeek": "94.26%",
-    "uptimeMonth": "98.68%",
+    "uptimeDay": "59.55%",
+    "uptimeWeek": "94.22%",
+    "uptimeMonth": "98.67%",
     "uptimeYear": "99.89%",
     "time": 1314,
-    "timeDay": 997,
+    "timeDay": 995,
     "timeWeek": 1018,
-    "timeMonth": 1117,
+    "timeMonth": 1116,
     "timeYear": 1308,
     "dailyMinutesDown": {
-      "2023-10-04": 575
+      "2023-10-04": 579
     }
   },
   {
@@ -396,7 +396,7 @@
     "timeDay": 626,
     "timeWeek": 706,
     "timeMonth": 708,
-    "timeYear": 900,
+    "timeYear": 901,
     "dailyMinutesDown": {
       "2023-08-22": 25,
       "2023-06-10": 4,
@@ -433,16 +433,16 @@
     "status": "down",
     "uptime": "98.61%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "22.25%",
-    "uptimeMonth": "81.89%",
+    "uptimeWeek": "22.19%",
+    "uptimeMonth": "81.87%",
     "uptimeYear": "97.89%",
     "time": 3086,
     "timeDay": 543,
     "timeWeek": 635,
     "timeMonth": 3960,
-    "timeYear": 3103,
+    "timeYear": 3107,
     "dailyMinutesDown": {
-      "2023-10-04": 1399,
+      "2023-10-04": 1404,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
@@ -516,19 +516,19 @@
     "url": "https://invidious.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/invidious.tiekoetter.com.ico",
     "slug": "invidious-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "87.48%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "87.46%",
     "uptimeMonth": "96.80%",
     "uptimeYear": "99.72%",
-    "time": 4796,
+    "time": 4799,
     "timeDay": 21052,
     "timeWeek": 10579,
     "timeMonth": 8357,
-    "timeYear": 5166,
+    "timeYear": 5171,
     "dailyMinutesDown": {
-      "2023-10-04": 8,
+      "2023-10-04": 10,
       "2023-10-03": 4,
       "2023-10-02": 118,
       "2023-10-01": 208,
@@ -550,7 +550,7 @@
       "2023-09-02": 5,
       "2023-08-26": 5,
       "2023-08-22": 53,
-      "2023-08-21": 10
+      "2023-08-21": 5
     }
   },
   {
@@ -568,7 +568,7 @@
     "timeDay": 789,
     "timeWeek": 814,
     "timeMonth": 851,
-    "timeYear": 1111,
+    "timeYear": 1113,
     "dailyMinutesDown": {
       "2023-09-29": 6,
       "2023-08-22": 30,
@@ -622,7 +622,7 @@
     "timeDay": 561,
     "timeWeek": 599,
     "timeMonth": 603,
-    "timeYear": 758,
+    "timeYear": 759,
     "dailyMinutesDown": {
       "2023-08-22": 26,
       "2023-06-12": 10,
@@ -654,7 +654,7 @@
     "timeDay": 1020,
     "timeWeek": 1046,
     "timeMonth": 1147,
-    "timeYear": 1269,
+    "timeYear": 1270,
     "dailyMinutesDown": {
       "2023-09-09": 5,
       "2023-08-22": 26,
@@ -693,11 +693,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "98.44%",
-    "time": 2346,
+    "time": 2474,
     "timeDay": 1441,
     "timeWeek": 1399,
     "timeMonth": 1826,
-    "timeYear": 2547,
+    "timeYear": 2549,
     "dailyMinutesDown": {
       "2023-09-09": 5,
       "2023-08-22": 27,
@@ -753,7 +753,7 @@
     "timeDay": 652,
     "timeWeek": 774,
     "timeMonth": 717,
-    "timeYear": 955,
+    "timeYear": 956,
     "dailyMinutesDown": {
       "2023-08-22": 23,
       "2023-07-03": 21,
@@ -795,7 +795,7 @@
     "timeDay": 541,
     "timeWeek": 611,
     "timeMonth": 656,
-    "timeYear": 719,
+    "timeYear": 720,
     "dailyMinutesDown": {
       "2023-08-22": 23,
       "2023-06-20": 5,
@@ -847,7 +847,7 @@
     "timeDay": 632,
     "timeWeek": 673,
     "timeMonth": 669,
-    "timeYear": 800,
+    "timeYear": 801,
     "dailyMinutesDown": {
       "2023-08-22": 23,
       "2023-06-13": 4,
@@ -886,7 +886,7 @@
     "timeDay": 819,
     "timeWeek": 937,
     "timeMonth": 958,
-    "timeYear": 1158,
+    "timeYear": 1159,
     "dailyMinutesDown": {
       "2023-08-22": 23,
       "2023-06-10": 6,
