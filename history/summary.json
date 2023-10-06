@@ -374,13 +374,13 @@
     "uptimeMonth": "98.83%",
     "uptimeYear": "99.90%",
     "time": 1310,
-    "timeDay": 1009,
+    "timeDay": 1008,
     "timeWeek": 1016,
     "timeMonth": 1111,
     "timeYear": 1304,
     "dailyMinutesDown": {
-      "2023-10-06": 291,
-      "2023-10-05": 220
+      "2023-10-06": 296,
+      "2023-10-05": 215
     }
   },
   {
@@ -436,15 +436,15 @@
     "uptime": "98.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "76.78%",
-    "uptimeYear": "97.46%",
+    "uptimeMonth": "76.74%",
+    "uptimeYear": "97.45%",
     "time": 3086,
     "timeDay": 366,
     "timeWeek": 568,
     "timeMonth": 4019,
     "timeYear": 3107,
     "dailyMinutesDown": {
-      "2023-10-06": 799,
+      "2023-10-06": 819,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
@@ -523,7 +523,7 @@
     "status": "up",
     "uptime": "99.75%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "86.60%",
+    "uptimeWeek": "86.80%",
     "uptimeMonth": "95.58%",
     "uptimeYear": "99.62%",
     "time": 4865,
@@ -793,7 +793,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/meyr.eu.ico",
     "slug": "meyr-eu",
     "status": "up",
-    "uptime": "97.21%",
+    "uptime": "97.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
