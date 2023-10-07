@@ -342,11 +342,11 @@
     "url": "https://nitter.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.tiekoetter.com.ico",
     "slug": "nitter-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "80.84%",
-    "uptimeWeek": "90.44%",
-    "uptimeMonth": "97.46%",
+    "uptimeDay": "80.78%",
+    "uptimeWeek": "90.43%",
+    "uptimeMonth": "97.47%",
     "uptimeYear": "99.79%",
     "time": 747,
     "timeDay": 568,
@@ -354,14 +354,14 @@
     "timeMonth": 592,
     "timeYear": 749,
     "dailyMinutesDown": {
-      "2023-10-07": 270,
+      "2023-10-07": 271,
       "2023-10-06": 5,
       "2023-10-05": 176,
       "2023-10-04": 184,
       "2023-10-03": 294,
       "2023-10-02": 32,
       "2023-09-29": 15,
-      "2023-09-28": 135
+      "2023-09-28": 130
     }
   },
   {
@@ -369,20 +369,20 @@
     "url": "https://libreddit.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.tiekoetter.com.ico",
     "slug": "libreddit-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "61.07%",
-    "uptimeWeek": "94.44%",
-    "uptimeMonth": "98.72%",
+    "uptimeDay": "61.34%",
+    "uptimeWeek": "94.48%",
+    "uptimeMonth": "98.73%",
     "uptimeYear": "99.89%",
     "time": 1306,
-    "timeDay": 1034,
+    "timeDay": 1035,
     "timeWeek": 1024,
     "timeMonth": 1105,
     "timeYear": 1300,
     "dailyMinutesDown": {
-      "2023-10-07": 541,
-      "2023-10-06": 19
+      "2023-10-07": 542,
+      "2023-10-06": 14
     }
   },
   {
@@ -438,7 +438,7 @@
     "uptime": "98.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "72.89%",
+    "uptimeMonth": "72.88%",
     "uptimeYear": "97.13%",
     "time": 3086,
     "timeDay": 608,
@@ -446,7 +446,7 @@
     "timeMonth": 3697,
     "timeYear": 3107,
     "dailyMinutesDown": {
-      "2023-10-07": 1074,
+      "2023-10-07": 1079,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
