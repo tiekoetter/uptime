@@ -342,26 +342,26 @@
     "url": "https://nitter.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.tiekoetter.com.ico",
     "slug": "nitter-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "88.86%",
-    "uptimeWeek": "91.59%",
-    "uptimeMonth": "97.55%",
+    "uptimeDay": "88.81%",
+    "uptimeWeek": "91.58%",
+    "uptimeMonth": "97.56%",
     "uptimeYear": "99.80%",
     "time": 747,
-    "timeDay": 545,
+    "timeDay": 544,
     "timeWeek": 556,
-    "timeMonth": 592,
+    "timeMonth": 591,
     "timeYear": 750,
     "dailyMinutesDown": {
-      "2023-10-07": 155,
+      "2023-10-07": 156,
       "2023-10-06": 5,
       "2023-10-05": 176,
       "2023-10-04": 184,
       "2023-10-03": 294,
       "2023-10-02": 32,
       "2023-09-29": 15,
-      "2023-09-28": 210
+      "2023-09-28": 205
     }
   },
   {
@@ -369,11 +369,11 @@
     "url": "https://libreddit.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.tiekoetter.com.ico",
     "slug": "libreddit-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "61.75%",
-    "uptimeWeek": "94.54%",
-    "uptimeMonth": "98.74%",
+    "uptimeDay": "62.05%",
+    "uptimeWeek": "94.58%",
+    "uptimeMonth": "98.75%",
     "uptimeYear": "99.90%",
     "time": 1306,
     "timeDay": 1023,
@@ -381,8 +381,8 @@
     "timeMonth": 1105,
     "timeYear": 1300,
     "dailyMinutesDown": {
-      "2023-10-07": 376,
-      "2023-10-06": 174
+      "2023-10-07": 377,
+      "2023-10-06": 169
     }
   },
   {
@@ -438,7 +438,7 @@
     "uptime": "98.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "73.69%",
+    "uptimeMonth": "73.68%",
     "uptimeYear": "97.20%",
     "time": 3086,
     "timeDay": 608,
@@ -446,7 +446,7 @@
     "timeMonth": 3697,
     "timeYear": 3107,
     "dailyMinutesDown": {
-      "2023-10-07": 724,
+      "2023-10-07": 728,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
