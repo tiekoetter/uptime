@@ -370,19 +370,19 @@
     "url": "https://libreddit.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.tiekoetter.com.ico",
     "slug": "libreddit-tiekoetter-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "57.64%",
-    "uptimeWeek": "93.95%",
-    "uptimeMonth": "98.61%",
+    "uptimeDay": "57.34%",
+    "uptimeWeek": "93.91%",
+    "uptimeMonth": "98.60%",
     "uptimeYear": "99.88%",
     "time": 1302,
-    "timeDay": 997,
+    "timeDay": 1000,
     "timeWeek": 1023,
     "timeMonth": 1101,
     "timeYear": 1295,
     "dailyMinutesDown": {
-      "2023-10-08": 609
+      "2023-10-08": 613
     }
   },
   {
@@ -438,7 +438,7 @@
     "uptime": "97.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "68.83%",
+    "uptimeMonth": "68.82%",
     "uptimeYear": "96.79%",
     "time": 3085,
     "timeDay": 363,
@@ -446,7 +446,7 @@
     "timeMonth": 3760,
     "timeYear": 3106,
     "dailyMinutesDown": {
-      "2023-10-08": 1418,
+      "2023-10-08": 1424,
       "2023-10-07": 1440,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
@@ -527,7 +527,7 @@
     "status": "up",
     "uptime": "99.75%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.23%",
+    "uptimeWeek": "93.29%",
     "uptimeMonth": "95.63%",
     "uptimeYear": "99.62%",
     "time": 4863,
