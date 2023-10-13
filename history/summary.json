@@ -344,25 +344,25 @@
     "url": "https://nitter.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.tiekoetter.com.ico",
     "slug": "nitter-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "82.89%",
-    "uptimeWeek": "91.28%",
-    "uptimeMonth": "97.99%",
+    "uptimeDay": "83.23%",
+    "uptimeWeek": "91.32%",
+    "uptimeMonth": "98.00%",
     "uptimeYear": "99.83%",
     "time": 738,
-    "timeDay": 544,
-    "timeWeek": 573,
+    "timeDay": 549,
+    "timeWeek": 574,
     "timeMonth": 578,
     "timeYear": 741,
     "dailyMinutesDown": {
-      "2023-10-13": 60,
+      "2023-10-13": 61,
       "2023-10-12": 255,
       "2023-10-11": 140,
       "2023-10-10": 65,
       "2023-10-09": 130,
       "2023-10-08": 22,
-      "2023-10-07": 205
+      "2023-10-07": 200
     }
   },
   {
@@ -370,11 +370,11 @@
     "url": "https://libreddit.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.tiekoetter.com.ico",
     "slug": "libreddit-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "60.56%",
-    "uptimeWeek": "94.37%",
-    "uptimeMonth": "98.70%",
+    "uptimeDay": "60.82%",
+    "uptimeWeek": "94.40%",
+    "uptimeMonth": "98.71%",
     "uptimeYear": "99.89%",
     "time": 1291,
     "timeDay": 1029,
@@ -382,8 +382,8 @@
     "timeMonth": 1072,
     "timeYear": 1284,
     "dailyMinutesDown": {
-      "2023-10-13": 140,
-      "2023-10-12": 425
+      "2023-10-13": 141,
+      "2023-10-12": 420
     }
   },
   {
@@ -436,10 +436,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate.tiekoetter.com.ico",
     "slug": "translate-tiekoetter-com",
     "status": "down",
-    "uptime": "97.17%",
+    "uptime": "97.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "54.84%",
+    "uptimeMonth": "54.82%",
     "uptimeYear": "95.62%",
     "time": 3070,
     "timeDay": 0,
@@ -447,7 +447,7 @@
     "timeMonth": 2558,
     "timeYear": 3109,
     "dailyMinutesDown": {
-      "2023-10-13": 358,
+      "2023-10-13": 369,
       "2023-10-12": 1440,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
