@@ -353,7 +353,7 @@
     "time": 738,
     "timeDay": 578,
     "timeWeek": 574,
-    "timeMonth": 574,
+    "timeMonth": 573,
     "timeYear": 741,
     "dailyMinutesDown": {
       "2023-10-13": 145,
@@ -377,13 +377,13 @@
     "uptimeMonth": "98.81%",
     "uptimeYear": "99.90%",
     "time": 1288,
-    "timeDay": 1029,
+    "timeDay": 1031,
     "timeWeek": 1026,
     "timeMonth": 1063,
-    "timeYear": 1283,
+    "timeYear": 1282,
     "dailyMinutesDown": {
-      "2023-10-13": 351,
-      "2023-10-12": 170
+      "2023-10-13": 356,
+      "2023-10-12": 165
     }
   },
   {
@@ -436,18 +436,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate.tiekoetter.com.ico",
     "slug": "translate-tiekoetter-com",
     "status": "down",
-    "uptime": "97.11%",
+    "uptime": "97.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "53.70%",
-    "uptimeYear": "95.53%",
+    "uptimeMonth": "53.66%",
+    "uptimeYear": "95.52%",
     "time": 3070,
     "timeDay": 0,
     "timeWeek": 515,
     "timeMonth": 2558,
     "timeYear": 3109,
     "dailyMinutesDown": {
-      "2023-10-13": 859,
+      "2023-10-13": 879,
       "2023-10-12": 1440,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
