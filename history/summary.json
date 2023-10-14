@@ -344,26 +344,26 @@
     "url": "https://nitter.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.tiekoetter.com.ico",
     "slug": "nitter-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "81.99%",
-    "uptimeWeek": "89.46%",
-    "uptimeMonth": "97.57%",
+    "uptimeDay": "81.98%",
+    "uptimeWeek": "89.55%",
+    "uptimeMonth": "97.60%",
     "uptimeYear": "99.80%",
     "time": 738,
-    "timeDay": 518,
+    "timeDay": 510,
     "timeWeek": 575,
     "timeMonth": 568,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2023-10-14": 125,
+      "2023-10-14": 126,
       "2023-10-13": 240,
       "2023-10-12": 255,
       "2023-10-11": 140,
       "2023-10-10": 65,
       "2023-10-09": 130,
       "2023-10-08": 22,
-      "2023-10-07": 85
+      "2023-10-07": 75
     }
   },
   {
@@ -371,11 +371,11 @@
     "url": "https://libreddit.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.tiekoetter.com.ico",
     "slug": "libreddit-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "58.10%",
-    "uptimeWeek": "94.01%",
-    "uptimeMonth": "98.62%",
+    "uptimeDay": "58.38%",
+    "uptimeWeek": "94.05%",
+    "uptimeMonth": "98.63%",
     "uptimeYear": "99.89%",
     "time": 1286,
     "timeDay": 961,
@@ -383,8 +383,8 @@
     "timeMonth": 1055,
     "timeYear": 1279,
     "dailyMinutesDown": {
-      "2023-10-14": 417,
-      "2023-10-13": 184
+      "2023-10-14": 418,
+      "2023-10-13": 179
     }
   },
   {
@@ -440,7 +440,7 @@
     "uptime": "96.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "50.54%",
+    "uptimeMonth": "50.53%",
     "uptimeYear": "95.26%",
     "time": 3060,
     "timeDay": 506,
@@ -448,7 +448,7 @@
     "timeMonth": 2555,
     "timeYear": 3109,
     "dailyMinutesDown": {
-      "2023-10-14": 803,
+      "2023-10-14": 809,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
       "2023-10-11": 1440,
