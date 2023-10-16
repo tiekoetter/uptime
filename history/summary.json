@@ -344,27 +344,26 @@
     "url": "https://nitter.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.tiekoetter.com.ico",
     "slug": "nitter-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "82.28%",
-    "uptimeWeek": "86.90%",
+    "uptimeDay": "82.23%",
+    "uptimeWeek": "86.89%",
     "uptimeMonth": "96.97%",
     "uptimeYear": "99.75%",
     "time": 737,
-    "timeDay": 515,
-    "timeWeek": 559,
+    "timeDay": 510,
+    "timeWeek": 558,
     "timeMonth": 563,
     "timeYear": 738,
     "dailyMinutesDown": {
-      "2023-10-16": 5,
+      "2023-10-16": 6,
       "2023-10-15": 249,
       "2023-10-14": 240,
       "2023-10-13": 240,
       "2023-10-12": 255,
       "2023-10-11": 140,
       "2023-10-10": 65,
-      "2023-10-09": 130,
-      "2023-10-08": 2
+      "2023-10-09": 130
     }
   },
   {
@@ -372,11 +371,11 @@
     "url": "https://libreddit.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.tiekoetter.com.ico",
     "slug": "libreddit-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "54.75%",
-    "uptimeWeek": "93.54%",
-    "uptimeMonth": "98.51%",
+    "uptimeDay": "55.05%",
+    "uptimeWeek": "93.58%",
+    "uptimeMonth": "98.52%",
     "uptimeYear": "99.88%",
     "time": 1280,
     "timeDay": 978,
@@ -384,8 +383,8 @@
     "timeMonth": 1046,
     "timeYear": 1274,
     "dailyMinutesDown": {
-      "2023-10-16": 36,
-      "2023-10-15": 614
+      "2023-10-16": 37,
+      "2023-10-15": 609
     }
   },
   {
@@ -441,7 +440,7 @@
     "uptime": "96.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "45.68%",
+    "uptimeMonth": "45.67%",
     "uptimeYear": "94.86%",
     "time": 3050,
     "timeDay": 382,
@@ -449,7 +448,7 @@
     "timeMonth": 2001,
     "timeYear": 3108,
     "dailyMinutesDown": {
-      "2023-10-16": 63,
+      "2023-10-16": 68,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
