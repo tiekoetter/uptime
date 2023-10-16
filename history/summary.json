@@ -371,19 +371,19 @@
     "url": "https://libreddit.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.tiekoetter.com.ico",
     "slug": "libreddit-tiekoetter-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "59.59%",
-    "uptimeWeek": "94.23%",
-    "uptimeMonth": "98.67%",
+    "uptimeDay": "59.29%",
+    "uptimeWeek": "94.18%",
+    "uptimeMonth": "98.66%",
     "uptimeYear": "99.89%",
     "time": 1277,
-    "timeDay": 1032,
+    "timeDay": 1033,
     "timeWeek": 1006,
     "timeMonth": 1044,
     "timeYear": 1272,
     "dailyMinutesDown": {
-      "2023-10-16": 581
+      "2023-10-16": 585
     }
   },
   {
@@ -439,7 +439,7 @@
     "uptime": "96.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "42.71%",
+    "uptimeMonth": "42.70%",
     "uptimeYear": "94.61%",
     "time": 3050,
     "timeDay": 382,
@@ -447,7 +447,7 @@
     "timeMonth": 1520,
     "timeYear": 3108,
     "dailyMinutesDown": {
-      "2023-10-16": 1368,
+      "2023-10-16": 1374,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
@@ -662,7 +662,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.leontiekoetter.de.ico",
     "slug": "leontiekoetter-de",
     "status": "up",
-    "uptime": "99.26%",
+    "uptime": "99.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.93%",
