@@ -346,9 +346,9 @@
     "slug": "nitter-tiekoetter-com",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "82.58%",
-    "uptimeWeek": "79.14%",
-    "uptimeMonth": "95.20%",
+    "uptimeDay": "81.19%",
+    "uptimeWeek": "78.94%",
+    "uptimeMonth": "95.15%",
     "uptimeYear": "99.60%",
     "time": 730,
     "timeDay": 677,
@@ -356,7 +356,7 @@
     "timeMonth": 565,
     "timeYear": 731,
     "dailyMinutesDown": {
-      "2023-10-20": 136,
+      "2023-10-20": 156,
       "2023-10-19": 235,
       "2023-10-18": 225,
       "2023-10-17": 304,
@@ -383,8 +383,8 @@
     "timeMonth": 1037,
     "timeYear": 1265,
     "dailyMinutesDown": {
-      "2023-10-20": 312,
-      "2023-10-19": 286
+      "2023-10-20": 317,
+      "2023-10-19": 281
     }
   },
   {
@@ -440,15 +440,15 @@
     "uptime": "95.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "31.18%",
-    "uptimeYear": "93.65%",
+    "uptimeMonth": "31.13%",
+    "uptimeYear": "93.64%",
     "time": 3045,
     "timeDay": 1759,
     "timeWeek": 665,
     "timeMonth": 628,
     "timeYear": 3112,
     "dailyMinutesDown": {
-      "2023-10-20": 668,
+      "2023-10-20": 688,
       "2023-10-19": 1440,
       "2023-10-18": 1440,
       "2023-10-17": 1440,
