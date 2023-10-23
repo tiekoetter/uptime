@@ -344,25 +344,25 @@
     "url": "https://nitter.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.tiekoetter.com.ico",
     "slug": "nitter-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "86.09%",
-    "uptimeWeek": "83.35%",
-    "uptimeMonth": "96.17%",
+    "uptimeDay": "86.08%",
+    "uptimeWeek": "83.40%",
+    "uptimeMonth": "96.18%",
     "uptimeYear": "99.68%",
     "time": 728,
-    "timeDay": 712,
+    "timeDay": 525,
     "timeWeek": 602,
     "timeMonth": 574,
     "timeYear": 729,
     "dailyMinutesDown": {
-      "2023-10-23": 55,
+      "2023-10-23": 56,
       "2023-10-22": 220,
       "2023-10-21": 245,
       "2023-10-20": 460,
       "2023-10-19": 235,
       "2023-10-18": 225,
-      "2023-10-17": 234
+      "2023-10-17": 229
     }
   },
   {
@@ -370,20 +370,20 @@
     "url": "https://libreddit.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.tiekoetter.com.ico",
     "slug": "libreddit-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "60.98%",
-    "uptimeWeek": "94.43%",
-    "uptimeMonth": "98.72%",
+    "uptimeDay": "61.26%",
+    "uptimeWeek": "94.47%",
+    "uptimeMonth": "98.73%",
     "uptimeYear": "99.89%",
     "time": 1268,
-    "timeDay": 1067,
+    "timeDay": 1064,
     "timeWeek": 1070,
     "timeMonth": 1032,
     "timeYear": 1261,
     "dailyMinutesDown": {
-      "2023-10-23": 236,
-      "2023-10-22": 324
+      "2023-10-23": 237,
+      "2023-10-22": 319
     }
   },
   {
@@ -439,7 +439,7 @@
     "uptime": "95.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "21.55%",
+    "uptimeMonth": "21.54%",
     "uptimeYear": "92.84%",
     "time": 3040,
     "timeDay": 664,
@@ -447,7 +447,7 @@
     "timeMonth": 617,
     "timeYear": 3087,
     "dailyMinutesDown": {
-      "2023-10-23": 564,
+      "2023-10-23": 570,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
       "2023-10-20": 1440,
