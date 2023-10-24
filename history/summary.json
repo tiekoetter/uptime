@@ -346,9 +346,9 @@
     "slug": "nitter-tiekoetter-com",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "77.76%",
-    "uptimeWeek": "83.90%",
-    "uptimeMonth": "96.29%",
+    "uptimeDay": "77.01%",
+    "uptimeWeek": "83.99%",
+    "uptimeMonth": "96.32%",
     "uptimeYear": "99.69%",
     "time": 727,
     "timeDay": 576,
@@ -356,13 +356,13 @@
     "timeMonth": 574,
     "timeYear": 728,
     "dailyMinutesDown": {
-      "2023-10-24": 5,
+      "2023-10-24": 16,
       "2023-10-23": 315,
       "2023-10-22": 220,
       "2023-10-21": 245,
       "2023-10-20": 460,
       "2023-10-19": 235,
-      "2023-10-18": 140
+      "2023-10-18": 120
     }
   },
   {
@@ -370,21 +370,21 @@
     "url": "https://libreddit.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.tiekoetter.com.ico",
     "slug": "libreddit-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "58.18%",
-    "uptimeWeek": "93.88%",
-    "uptimeMonth": "98.59%",
+    "uptimeDay": "58.54%",
+    "uptimeWeek": "93.91%",
+    "uptimeMonth": "98.60%",
     "uptimeYear": "99.88%",
     "time": 1266,
-    "timeDay": 1051,
-    "timeWeek": 1068,
+    "timeDay": 1049,
+    "timeWeek": 1069,
     "timeMonth": 1030,
     "timeYear": 1260,
     "dailyMinutesDown": {
-      "2023-10-24": 6,
+      "2023-10-24": 7,
       "2023-10-23": 600,
-      "2023-10-22": 9
+      "2023-10-22": 4
     }
   },
   {
@@ -437,10 +437,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate.tiekoetter.com.ico",
     "slug": "translate-tiekoetter-com",
     "status": "down",
-    "uptime": "95.35%",
+    "uptime": "95.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "19.52%",
+    "uptimeMonth": "19.49%",
     "uptimeYear": "92.67%",
     "time": 3040,
     "timeDay": 515,
@@ -448,7 +448,7 @@
     "timeMonth": 619,
     "timeYear": 3066,
     "dailyMinutesDown": {
-      "2023-10-24": 15,
+      "2023-10-24": 29,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
