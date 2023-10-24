@@ -14,7 +14,7 @@
     "timeDay": 925,
     "timeWeek": 912,
     "timeMonth": 941,
-    "timeYear": 1280,
+    "timeYear": 1279,
     "dailyMinutesDown": {
       "2023-10-05": 9,
       "2023-08-22": 25,
@@ -78,7 +78,7 @@
     "timeDay": 645,
     "timeWeek": 722,
     "timeMonth": 616,
-    "timeYear": 768,
+    "timeYear": 769,
     "dailyMinutesDown": {
       "2023-08-22": 25,
       "2023-07-31": 4,
@@ -133,7 +133,7 @@
     "timeDay": 109,
     "timeWeek": 81,
     "timeMonth": 106,
-    "timeYear": 171,
+    "timeYear": 172,
     "dailyMinutesDown": {
       "2023-07-26": 29,
       "2023-05-28": 9,
@@ -260,7 +260,7 @@
     "timeDay": 529,
     "timeWeek": 592,
     "timeMonth": 595,
-    "timeYear": 956,
+    "timeYear": 957,
     "dailyMinutesDown": {
       "2023-09-14": 5,
       "2023-09-06": 5,
@@ -333,7 +333,7 @@
     "timeDay": 364,
     "timeWeek": 354,
     "timeMonth": 326,
-    "timeYear": 333,
+    "timeYear": 332,
     "dailyMinutesDown": {
       "2023-10-03": 5,
       "2023-01-19": 4
@@ -368,19 +368,19 @@
     "url": "https://libreddit.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.tiekoetter.com.ico",
     "slug": "libreddit-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "57.75%",
-    "uptimeWeek": "93.96%",
-    "uptimeMonth": "98.61%",
+    "uptimeDay": "57.31%",
+    "uptimeWeek": "93.90%",
+    "uptimeMonth": "98.60%",
     "uptimeYear": "99.88%",
     "time": 1264,
-    "timeDay": 1008,
+    "timeDay": 1011,
     "timeWeek": 1067,
     "timeMonth": 1029,
     "timeYear": 1258,
     "dailyMinutesDown": {
-      "2023-10-24": 607
+      "2023-10-24": 613
     }
   },
   {
@@ -433,18 +433,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate.tiekoetter.com.ico",
     "slug": "translate-tiekoetter-com",
     "status": "down",
-    "uptime": "95.19%",
+    "uptime": "95.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "16.35%",
+    "uptimeMonth": "16.31%",
     "uptimeYear": "92.41%",
     "time": 3026,
     "timeDay": 700,
     "timeWeek": 747,
     "timeMonth": 617,
-    "timeYear": 3063,
+    "timeYear": 3066,
     "dailyMinutesDown": {
-      "2023-10-24": 1404,
+      "2023-10-24": 1419,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
