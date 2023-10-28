@@ -14,7 +14,7 @@
     "timeDay": 777,
     "timeWeek": 897,
     "timeMonth": 934,
-    "timeYear": 1275,
+    "timeYear": 1274,
     "dailyMinutesDown": {
       "2023-10-28": 5,
       "2023-10-05": 9,
@@ -135,7 +135,7 @@
     "timeDay": 79,
     "timeWeek": 84,
     "timeMonth": 97,
-    "timeYear": 171,
+    "timeYear": 172,
     "dailyMinutesDown": {
       "2023-07-26": 29,
       "2023-05-28": 9,
@@ -262,7 +262,7 @@
     "timeDay": 479,
     "timeWeek": 592,
     "timeMonth": 595,
-    "timeYear": 951,
+    "timeYear": 952,
     "dailyMinutesDown": {
       "2023-10-28": 4,
       "2023-09-14": 5,
@@ -335,7 +335,7 @@
     "timeDay": 570,
     "timeWeek": 390,
     "timeMonth": 352,
-    "timeYear": 334,
+    "timeYear": 335,
     "dailyMinutesDown": {
       "2023-10-03": 5,
       "2023-01-19": 4
@@ -348,21 +348,21 @@
     "slug": "nitter-tiekoetter-com",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "62.11%",
-    "uptimeWeek": "83.16%",
-    "uptimeMonth": "96.13%",
+    "uptimeDay": "61.07%",
+    "uptimeWeek": "83.36%",
+    "uptimeMonth": "96.17%",
     "uptimeYear": "99.68%",
     "time": 720,
-    "timeDay": 592,
+    "timeDay": 591,
     "timeWeek": 608,
     "timeMonth": 581,
     "timeYear": 674,
     "dailyMinutesDown": {
-      "2023-10-28": 540,
+      "2023-10-28": 555,
       "2023-10-27": 270,
       "2023-10-26": 445,
       "2023-10-25": 400,
-      "2023-10-24": 40
+      "2023-10-24": 5
     }
   },
   {
@@ -372,18 +372,18 @@
     "slug": "libreddit-tiekoetter-com",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "54.72%",
-    "uptimeWeek": "92.93%",
-    "uptimeMonth": "98.37%",
+    "uptimeDay": "54.03%",
+    "uptimeWeek": "92.83%",
+    "uptimeMonth": "98.35%",
     "uptimeYear": "99.86%",
     "time": 1256,
-    "timeDay": 1035,
+    "timeDay": 1034,
     "timeWeek": 1041,
     "timeMonth": 1028,
     "timeYear": 1250,
     "dailyMinutesDown": {
-      "2023-10-28": 635,
-      "2023-10-27": 74
+      "2023-10-28": 650,
+      "2023-10-27": 69
     }
   },
   {
@@ -439,7 +439,7 @@
     "uptime": "94.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "3.20%",
+    "uptimeMonth": "3.16%",
     "uptimeYear": "91.31%",
     "time": 2922,
     "timeDay": 370,
@@ -447,7 +447,7 @@
     "timeMonth": 574,
     "timeYear": 3068,
     "dailyMinutesDown": {
-      "2023-10-28": 1403,
+      "2023-10-28": 1423,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
