@@ -375,11 +375,11 @@
     "url": "https://libreddit.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.tiekoetter.com.ico",
     "slug": "libreddit-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "66.93%",
-    "uptimeWeek": "93.18%",
-    "uptimeMonth": "98.43%",
+    "uptimeDay": "66.90%",
+    "uptimeWeek": "93.22%",
+    "uptimeMonth": "98.44%",
     "uptimeYear": "99.87%",
     "time": 1251,
     "timeDay": 1017,
@@ -387,8 +387,8 @@
     "timeMonth": 1032,
     "timeYear": 1245,
     "dailyMinutesDown": {
-      "2023-11-01": 216,
-      "2023-10-31": 469
+      "2023-11-01": 217,
+      "2023-10-31": 464
     }
   },
   {
@@ -453,7 +453,7 @@
     "timeMonth": 552,
     "timeYear": 3067,
     "dailyMinutesDown": {
-      "2023-11-01": 633,
+      "2023-11-01": 638,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
@@ -886,7 +886,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/geocultur.de.ico",
     "slug": "geocultur-de",
     "status": "up",
-    "uptime": "99.58%",
+    "uptime": "99.59%",
     "uptimeDay": "99.84%",
     "uptimeWeek": "99.98%",
     "uptimeMonth": "99.99%",
