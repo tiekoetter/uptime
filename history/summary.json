@@ -6,7 +6,7 @@
     "slug": "tiekoetter-com",
     "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "54.20%",
+    "uptimeDay": "54.55%",
     "uptimeWeek": "92.98%",
     "uptimeMonth": "98.33%",
     "uptimeYear": "98.85%",
@@ -14,7 +14,7 @@
     "timeDay": 1103,
     "timeWeek": 980,
     "timeMonth": 916,
-    "timeYear": 1255,
+    "timeYear": 1254,
     "dailyMinutesDown": {
       "2023-11-07": 626,
       "2023-11-06": 59,
@@ -85,7 +85,7 @@
     "timeDay": 630,
     "timeWeek": 633,
     "timeMonth": 616,
-    "timeYear": 766,
+    "timeYear": 767,
     "dailyMinutesDown": {
       "2023-11-05": 5,
       "2023-11-04": 4,
@@ -392,18 +392,18 @@
     "slug": "libreddit-tiekoetter-com",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "44.54%",
-    "uptimeWeek": "88.89%",
+    "uptimeDay": "44.89%",
+    "uptimeWeek": "88.90%",
     "uptimeMonth": "97.44%",
     "uptimeYear": "99.79%",
     "time": 1241,
-    "timeDay": 1047,
+    "timeDay": 1049,
     "timeWeek": 1028,
     "timeMonth": 1033,
     "timeYear": 1235,
     "dailyMinutesDown": {
-      "2023-11-07": 771,
-      "2023-11-06": 348
+      "2023-11-07": 776,
+      "2023-11-06": 343
     }
   },
   {
@@ -458,7 +458,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate.tiekoetter.com.ico",
     "slug": "translate-tiekoetter-com",
     "status": "down",
-    "uptime": "92.93%",
+    "uptime": "92.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -469,7 +469,7 @@
     "timeMonth": 566,
     "timeYear": 3073,
     "dailyMinutesDown": {
-      "2023-11-07": 1404,
+      "2023-11-07": 1414,
       "2023-11-06": 1440,
       "2023-11-05": 1440,
       "2023-11-04": 1440,
