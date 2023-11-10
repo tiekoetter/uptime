@@ -14,7 +14,7 @@
     "timeDay": 652,
     "timeWeek": 936,
     "timeMonth": 908,
-    "timeYear": 1248,
+    "timeYear": 1245,
     "dailyMinutesDown": {
       "2023-11-07": 626,
       "2023-11-06": 59,
@@ -230,7 +230,7 @@
     "timeDay": 153,
     "timeWeek": 174,
     "timeMonth": 158,
-    "timeYear": 159,
+    "timeYear": 158,
     "dailyMinutesDown": {
       "2023-10-10": 4,
       "2023-10-09": 4,
@@ -363,7 +363,7 @@
     "slug": "nitter-tiekoetter-com",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "31.06%",
+    "uptimeDay": "31.44%",
     "uptimeWeek": "66.13%",
     "uptimeMonth": "90.88%",
     "uptimeYear": "99.24%",
@@ -391,11 +391,11 @@
     "url": "https://libreddit.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.tiekoetter.com.ico",
     "slug": "libreddit-tiekoetter-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "46.02%",
-    "uptimeWeek": "91.45%",
-    "uptimeMonth": "98.03%",
+    "uptimeDay": "45.97%",
+    "uptimeWeek": "91.41%",
+    "uptimeMonth": "98.02%",
     "uptimeYear": "99.84%",
     "time": 1237,
     "timeDay": 1034,
@@ -403,7 +403,7 @@
     "timeMonth": 1032,
     "timeYear": 1231,
     "dailyMinutesDown": {
-      "2023-11-10": 756,
+      "2023-11-10": 760,
       "2023-11-09": 103
     }
   },
@@ -422,7 +422,7 @@
     "timeDay": 687,
     "timeWeek": 691,
     "timeMonth": 723,
-    "timeYear": 906,
+    "timeYear": 903,
     "dailyMinutesDown": {
       "2023-11-03": 5,
       "2023-10-31": 6,
@@ -468,9 +468,9 @@
     "timeDay": 381,
     "timeWeek": 521,
     "timeMonth": 565,
-    "timeYear": 3069,
+    "timeYear": 3072,
     "dailyMinutesDown": {
-      "2023-11-10": 1399,
+      "2023-11-10": 1405,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
       "2023-11-07": 1440,
@@ -591,7 +591,7 @@
     "timeDay": 1489,
     "timeWeek": 1601,
     "timeMonth": 1614,
-    "timeYear": 5193,
+    "timeYear": 5198,
     "dailyMinutesDown": {
       "2023-11-05": -55,
       "2023-11-02": 29,
