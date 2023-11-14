@@ -384,19 +384,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.tiekoetter.com.ico",
     "slug": "libreddit-tiekoetter-com",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "57.23%",
-    "uptimeWeek": "92.69%",
-    "uptimeMonth": "98.32%",
+    "uptime": "99.92%",
+    "uptimeDay": "57.25%",
+    "uptimeWeek": "92.79%",
+    "uptimeMonth": "98.34%",
     "uptimeYear": "99.86%",
     "time": 1232,
-    "timeDay": 1026,
+    "timeDay": 1025,
     "timeWeek": 1029,
     "timeMonth": 1038,
     "timeYear": 1227,
     "dailyMinutesDown": {
-      "2023-11-14": 505,
-      "2023-11-13": 229
+      "2023-11-14": 510,
+      "2023-11-13": 214
     }
   },
   {
@@ -462,7 +462,7 @@
     "timeMonth": 560,
     "timeYear": 3046,
     "dailyMinutesDown": {
-      "2023-11-14": 1173,
+      "2023-11-14": 1185,
       "2023-11-13": 1440,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
@@ -710,7 +710,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.leontiekoetter.de.ico",
     "slug": "leontiekoetter-de",
     "status": "up",
-    "uptime": "99.30%",
+    "uptime": "99.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
