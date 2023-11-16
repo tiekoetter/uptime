@@ -382,20 +382,20 @@
     "url": "https://libreddit.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.tiekoetter.com.ico",
     "slug": "libreddit-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "46.29%",
-    "uptimeWeek": "90.34%",
-    "uptimeMonth": "97.78%",
-    "uptimeYear": "99.81%",
+    "uptimeDay": "46.28%",
+    "uptimeWeek": "90.38%",
+    "uptimeMonth": "97.79%",
+    "uptimeYear": "99.82%",
     "time": 1230,
-    "timeDay": 1023,
-    "timeWeek": 1031,
+    "timeDay": 1022,
+    "timeWeek": 1030,
     "timeMonth": 1041,
     "timeYear": 1225,
     "dailyMinutesDown": {
-      "2023-11-16": 257,
-      "2023-11-15": 714
+      "2023-11-16": 258,
+      "2023-11-15": 709
     }
   },
   {
@@ -461,7 +461,7 @@
     "timeMonth": 567,
     "timeYear": 3048,
     "dailyMinutesDown": {
-      "2023-11-16": 434,
+      "2023-11-16": 439,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
       "2023-11-13": 1440,
