@@ -361,8 +361,8 @@
     "slug": "nitter-tiekoetter-com",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "68.02%",
-    "uptimeWeek": "87.52%",
+    "uptimeDay": "67.26%",
+    "uptimeWeek": "87.51%",
     "uptimeMonth": "97.13%",
     "uptimeYear": "99.76%",
     "time": 698,
@@ -371,10 +371,10 @@
     "timeMonth": 583,
     "timeYear": 660,
     "dailyMinutesDown": {
-      "2023-11-16": 80,
+      "2023-11-16": 91,
       "2023-11-15": 468,
       "2023-11-14": 315,
-      "2023-11-13": 395
+      "2023-11-13": 385
     }
   },
   {
@@ -382,21 +382,21 @@
     "url": "https://libreddit.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.tiekoetter.com.ico",
     "slug": "libreddit-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "46.67%",
-    "uptimeWeek": "90.34%",
-    "uptimeMonth": "97.78%",
+    "uptimeDay": "46.23%",
+    "uptimeWeek": "90.28%",
+    "uptimeMonth": "97.76%",
     "uptimeYear": "99.81%",
     "time": 1231,
-    "timeDay": 1025,
+    "timeDay": 1024,
     "timeWeek": 1031,
     "timeMonth": 1041,
     "timeYear": 1225,
     "dailyMinutesDown": {
-      "2023-11-16": 197,
+      "2023-11-16": 208,
       "2023-11-15": 750,
-      "2023-11-14": 24
+      "2023-11-14": 19
     }
   },
   {
@@ -455,14 +455,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "86.32%",
+    "uptimeYear": "86.31%",
     "time": 2877,
     "timeDay": 612,
     "timeWeek": 506,
     "timeMonth": 567,
     "timeYear": 3048,
     "dailyMinutesDown": {
-      "2023-11-16": 315,
+      "2023-11-16": 330,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
       "2023-11-13": 1440,
@@ -624,7 +624,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wikiless.tiekoetter.com.ico",
     "slug": "wikiless-tiekoetter-com",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
