@@ -388,17 +388,17 @@
     "status": "down",
     "uptime": "99.92%",
     "uptimeDay": "60.95%",
-    "uptimeWeek": "92.78%",
+    "uptimeWeek": "92.77%",
     "uptimeMonth": "98.34%",
     "uptimeYear": "99.86%",
     "time": 1223,
-    "timeDay": 1031,
-    "timeWeek": 1024,
+    "timeDay": 1030,
+    "timeWeek": 1025,
     "timeMonth": 1036,
     "timeYear": 1220,
     "dailyMinutesDown": {
-      "2023-11-20": 432,
-      "2023-11-19": 294
+      "2023-11-20": 437,
+      "2023-11-19": 289
     }
   },
   {
@@ -464,7 +464,7 @@
     "timeMonth": 526,
     "timeYear": 3051,
     "dailyMinutesDown": {
-      "2023-11-20": 1109,
+      "2023-11-20": 1120,
       "2023-11-19": 1440,
       "2023-11-18": 1440,
       "2023-11-17": 1440,
