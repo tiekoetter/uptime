@@ -80,8 +80,8 @@
     "status": "up",
     "uptime": "98.27%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "49.30%",
-    "uptimeMonth": "88.24%",
+    "uptimeWeek": "49.11%",
+    "uptimeMonth": "88.19%",
     "uptimeYear": "97.24%",
     "time": 770,
     "timeDay": 435,
@@ -89,7 +89,7 @@
     "timeMonth": 683,
     "timeYear": 775,
     "dailyMinutesDown": {
-      "2023-11-25": 636,
+      "2023-11-25": 657,
       "2023-11-24": 1440,
       "2023-11-23": 1440,
       "2023-11-22": 1440,
@@ -370,17 +370,17 @@
     "slug": "nitter-tiekoetter-com",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "41.63%",
-    "uptimeWeek": "73.88%",
-    "uptimeMonth": "93.35%",
+    "uptimeDay": "40.92%",
+    "uptimeWeek": "73.78%",
+    "uptimeMonth": "93.34%",
     "uptimeYear": "99.45%",
     "time": 694,
-    "timeDay": 547,
-    "timeWeek": 609,
+    "timeDay": 545,
+    "timeWeek": 608,
     "timeMonth": 584,
     "timeYear": 656,
     "dailyMinutesDown": {
-      "2023-11-25": 456,
+      "2023-11-25": 466,
       "2023-11-24": 384,
       "2023-11-23": 571,
       "2023-11-22": 464,
@@ -388,7 +388,7 @@
       "2023-11-20": 140,
       "2023-11-19": 91,
       "2023-11-18": 563,
-      "2023-11-17": 39
+      "2023-11-17": 34
     }
   },
   {
@@ -398,18 +398,18 @@
     "slug": "libreddit-tiekoetter-com",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "61.14%",
+    "uptimeDay": "61.39%",
     "uptimeWeek": "92.35%",
     "uptimeMonth": "98.24%",
     "uptimeYear": "99.85%",
     "time": 1218,
-    "timeDay": 1002,
-    "timeWeek": 1013,
+    "timeDay": 1003,
+    "timeWeek": 1014,
     "timeMonth": 1027,
     "timeYear": 1214,
     "dailyMinutesDown": {
-      "2023-11-25": 246,
-      "2023-11-24": 524
+      "2023-11-25": 251,
+      "2023-11-24": 519
     }
   },
   {
@@ -468,14 +468,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.79%",
+    "uptimeYear": "83.78%",
     "time": 2856,
     "timeDay": 430,
     "timeWeek": 639,
     "timeMonth": 527,
     "timeYear": 3057,
     "dailyMinutesDown": {
-      "2023-11-25": 639,
+      "2023-11-25": 659,
       "2023-11-24": 1440,
       "2023-11-23": 1440,
       "2023-11-22": 1440,
