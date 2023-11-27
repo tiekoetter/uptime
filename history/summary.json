@@ -80,8 +80,8 @@
     "status": "up",
     "uptime": "97.93%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "18.85%",
-    "uptimeMonth": "81.23%",
+    "uptimeWeek": "18.75%",
+    "uptimeMonth": "81.21%",
     "uptimeYear": "96.66%",
     "time": 771,
     "timeDay": 599,
@@ -89,7 +89,7 @@
     "timeMonth": 696,
     "timeYear": 777,
     "dailyMinutesDown": {
-      "2023-11-27": 827,
+      "2023-11-27": 836,
       "2023-11-26": 1440,
       "2023-11-25": 1440,
       "2023-11-24": 1440,
@@ -370,19 +370,19 @@
     "url": "https://nitter.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.tiekoetter.com.ico",
     "slug": "nitter-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "89.54%",
-    "uptimeWeek": "70.51%",
-    "uptimeMonth": "92.79%",
+    "uptimeDay": "89.49%",
+    "uptimeWeek": "70.55%",
+    "uptimeMonth": "92.80%",
     "uptimeYear": "99.40%",
     "time": 690,
-    "timeDay": 534,
-    "timeWeek": 578,
+    "timeDay": 533,
+    "timeWeek": 577,
     "timeMonth": 580,
     "timeYear": 655,
     "dailyMinutesDown": {
-      "2023-11-27": 150,
+      "2023-11-27": 151,
       "2023-11-26": 35,
       "2023-11-25": 1081,
       "2023-11-24": 384,
@@ -391,7 +391,7 @@
       "2023-11-21": 202,
       "2023-11-20": 140,
       "2023-11-19": 91,
-      "2023-11-18": 39
+      "2023-11-18": 34
     }
   },
   {
@@ -401,7 +401,7 @@
     "slug": "libreddit-tiekoetter-com",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "51.23%",
+    "uptimeDay": "51.13%",
     "uptimeWeek": "92.87%",
     "uptimeMonth": "98.36%",
     "uptimeYear": "99.86%",
@@ -411,8 +411,8 @@
     "timeMonth": 1027,
     "timeYear": 1212,
     "dailyMinutesDown": {
-      "2023-11-27": 377,
-      "2023-11-26": 339
+      "2023-11-27": 382,
+      "2023-11-26": 334
     }
   },
   {
@@ -467,7 +467,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate.tiekoetter.com.ico",
     "slug": "translate-tiekoetter-com",
     "status": "down",
-    "uptime": "89.94%",
+    "uptime": "89.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -478,7 +478,7 @@
     "timeMonth": 543,
     "timeYear": 3057,
     "dailyMinutesDown": {
-      "2023-11-27": 830,
+      "2023-11-27": 840,
       "2023-11-26": 1440,
       "2023-11-25": 1440,
       "2023-11-24": 1440,
