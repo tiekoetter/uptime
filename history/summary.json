@@ -78,10 +78,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tiekoetter.net.ico",
     "slug": "tiekoetter-net",
     "status": "up",
-    "uptime": "97.89%",
+    "uptime": "97.88%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "15.18%",
-    "uptimeMonth": "80.39%",
+    "uptimeWeek": "14.98%",
+    "uptimeMonth": "80.34%",
     "uptimeYear": "96.59%",
     "time": 771,
     "timeDay": 599,
@@ -89,7 +89,7 @@
     "timeMonth": 696,
     "timeYear": 777,
     "dailyMinutesDown": {
-      "2023-11-27": 1197,
+      "2023-11-27": 1217,
       "2023-11-26": 1440,
       "2023-11-25": 1440,
       "2023-11-24": 1440,
@@ -372,24 +372,24 @@
     "slug": "nitter-tiekoetter-com",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "81.51%",
-    "uptimeWeek": "69.76%",
-    "uptimeMonth": "92.82%",
-    "uptimeYear": "99.40%",
+    "uptimeDay": "80.41%",
+    "uptimeWeek": "69.61%",
+    "uptimeMonth": "92.87%",
+    "uptimeYear": "99.41%",
     "time": 691,
     "timeDay": 555,
     "timeWeek": 579,
     "timeMonth": 580,
     "timeYear": 654,
     "dailyMinutesDown": {
-      "2023-11-27": 265,
+      "2023-11-27": 281,
       "2023-11-26": 35,
       "2023-11-25": 1081,
       "2023-11-24": 384,
       "2023-11-23": 571,
       "2023-11-22": 464,
       "2023-11-21": 202,
-      "2023-11-20": 140
+      "2023-11-20": 105
     }
   },
   {
@@ -399,18 +399,18 @@
     "slug": "libreddit-tiekoetter-com",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "52.95%",
+    "uptimeDay": "53.64%",
     "uptimeWeek": "92.96%",
     "uptimeMonth": "98.38%",
     "uptimeYear": "99.87%",
     "time": 1214,
-    "timeDay": 1011,
+    "timeDay": 1012,
     "timeWeek": 1007,
     "timeMonth": 1026,
     "timeYear": 1211,
     "dailyMinutesDown": {
-      "2023-11-27": 532,
-      "2023-11-26": 174
+      "2023-11-27": 537,
+      "2023-11-26": 169
     }
   },
   {
@@ -476,7 +476,7 @@
     "timeMonth": 543,
     "timeYear": 3057,
     "dailyMinutesDown": {
-      "2023-11-27": 1200,
+      "2023-11-27": 1220,
       "2023-11-26": 1440,
       "2023-11-25": 1440,
       "2023-11-24": 1440,
