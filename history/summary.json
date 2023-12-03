@@ -80,7 +80,7 @@
     "status": "up",
     "uptime": "97.31%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "25.90%",
+    "uptimeWeek": "26.00%",
     "uptimeMonth": "68.38%",
     "uptimeYear": "95.60%",
     "time": 770,
@@ -409,13 +409,13 @@
     "uptimeMonth": "98.26%",
     "uptimeYear": "99.86%",
     "time": 1210,
-    "timeDay": 978,
+    "timeDay": 981,
     "timeWeek": 999,
     "timeMonth": 1017,
     "timeYear": 1205,
     "dailyMinutesDown": {
-      "2023-12-03": 193,
-      "2023-12-02": 566
+      "2023-12-03": 198,
+      "2023-12-02": 561
     }
   },
   {
@@ -469,7 +469,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate.tiekoetter.com.ico",
     "slug": "translate-tiekoetter-com",
     "status": "down",
-    "uptime": "89.10%",
+    "uptime": "89.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -480,7 +480,7 @@
     "timeMonth": 530,
     "timeYear": 3026,
     "dailyMinutesDown": {
-      "2023-12-03": 460,
+      "2023-12-03": 470,
       "2023-12-02": 1440,
       "2023-12-01": 1440,
       "2023-11-30": 1440,
