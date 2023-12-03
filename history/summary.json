@@ -80,7 +80,7 @@
     "status": "up",
     "uptime": "97.31%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "33.09%",
+    "uptimeWeek": "33.19%",
     "uptimeMonth": "68.39%",
     "uptimeYear": "95.60%",
     "time": 770,
@@ -376,7 +376,7 @@
     "slug": "nitter-tiekoetter-com",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "66.67%",
+    "uptimeDay": "67.36%",
     "uptimeWeek": "80.35%",
     "uptimeMonth": "94.01%",
     "uptimeYear": "99.50%",
@@ -408,14 +408,14 @@
     "uptimeWeek": "92.70%",
     "uptimeMonth": "98.32%",
     "uptimeYear": "99.86%",
-    "time": 1210,
+    "time": 1209,
     "timeDay": 1039,
     "timeWeek": 1008,
     "timeMonth": 1018,
     "timeYear": 1204,
     "dailyMinutesDown": {
-      "2023-12-03": 507,
-      "2023-12-02": 227
+      "2023-12-03": 512,
+      "2023-12-02": 222
     }
   },
   {
@@ -480,7 +480,7 @@
     "timeMonth": 530,
     "timeYear": 3026,
     "dailyMinutesDown": {
-      "2023-12-03": 1184,
+      "2023-12-03": 1194,
       "2023-12-02": 1440,
       "2023-12-01": 1440,
       "2023-11-30": 1440,
