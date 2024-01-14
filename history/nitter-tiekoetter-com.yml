@@ -1,7 +1,7 @@
 url: https://nitter.tiekoetter.com
-status: up
-code: 200
-responseTime: 533
-lastUpdated: 2024-01-14T08:05:59.133Z
+status: down
+code: 502
+responseTime: 565
+lastUpdated: 2024-01-14T09:40:42.753Z
 startTime: 2022-03-28T10:56:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
