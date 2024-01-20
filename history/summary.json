@@ -345,24 +345,24 @@
     "url": "https://nitter.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.tiekoetter.com.ico",
     "slug": "nitter-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "83.89%",
-    "uptimeWeek": "85.34%",
-    "uptimeMonth": "96.63%",
-    "uptimeYear": "99.72%",
+    "uptimeDay": "83.83%",
+    "uptimeWeek": "85.77%",
+    "uptimeMonth": "96.73%",
+    "uptimeYear": "99.73%",
     "time": 636,
-    "timeDay": 595,
+    "timeDay": 597,
     "timeWeek": 591,
     "timeMonth": 594,
     "timeYear": 629,
     "dailyMinutesDown": {
-      "2024-01-20": 125,
+      "2024-01-20": 126,
       "2024-01-19": 422,
       "2024-01-18": 294,
       "2024-01-17": 240,
       "2024-01-16": 285,
-      "2024-01-15": 110
+      "2024-01-15": 65
     }
   },
   {
@@ -382,7 +382,7 @@
     "timeMonth": 629,
     "timeYear": 1200,
     "dailyMinutesDown": {
-      "2024-01-20": 647,
+      "2024-01-20": 658,
       "2024-01-19": 1440,
       "2024-01-18": 1440,
       "2024-01-17": 1440,
@@ -483,7 +483,7 @@
     "timeMonth": 553,
     "timeYear": 2921,
     "dailyMinutesDown": {
-      "2024-01-20": 649,
+      "2024-01-20": 661,
       "2024-01-19": 1440,
       "2024-01-18": 1440,
       "2024-01-17": 1440,
