@@ -61,8 +61,7 @@
       "2023-02-21": 5,
       "2023-02-17": 5,
       "2023-02-06": 40,
-      "2023-01-25": 15,
-      "2023-01-24": 5
+      "2023-01-25": 15
     }
   },
   {
@@ -315,8 +314,7 @@
       "2023-02-21": 5,
       "2023-02-09": 5,
       "2023-02-06": 39,
-      "2023-01-25": 12,
-      "2023-01-24": 4
+      "2023-01-25": 12
     }
   },
   {
@@ -346,12 +344,12 @@
     "slug": "nitter-tiekoetter-com",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "81.60%",
+    "uptimeDay": "81.95%",
     "uptimeWeek": "85.34%",
     "uptimeMonth": "96.63%",
     "uptimeYear": "99.72%",
     "time": 649,
-    "timeDay": 551,
+    "timeDay": 548,
     "timeWeek": 602,
     "timeMonth": 595,
     "timeYear": 628,
@@ -369,18 +367,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.tiekoetter.com.ico",
     "slug": "libreddit-tiekoetter-com",
     "status": "down",
-    "uptime": "93.62%",
+    "uptime": "93.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "88.35%",
+    "uptimeYear": "88.34%",
     "time": 1203,
     "timeDay": 603,
     "timeWeek": 563,
     "timeMonth": 605,
     "timeYear": 1199,
     "dailyMinutesDown": {
-      "2024-01-23": 1416,
+      "2024-01-24": 48,
+      "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
@@ -463,8 +462,7 @@
       "2023-02-28": 6,
       "2023-02-21": 5,
       "2023-02-06": 35,
-      "2023-01-25": 45,
-      "2023-01-24": 2
+      "2023-01-25": 45
     }
   },
   {
@@ -473,18 +471,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate.tiekoetter.com.ico",
     "slug": "translate-tiekoetter-com",
     "status": "down",
-    "uptime": "82.19%",
+    "uptime": "82.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "67.48%",
+    "uptimeYear": "67.46%",
     "time": 2858,
     "timeDay": 583,
     "timeWeek": 502,
     "timeMonth": 538,
     "timeYear": 2920,
     "dailyMinutesDown": {
-      "2024-01-23": 1419,
+      "2024-01-24": 50,
+      "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
