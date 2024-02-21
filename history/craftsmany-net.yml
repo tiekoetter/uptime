@@ -1,7 +1,7 @@
 url: https://www.craftsmany.net
-status: up
-code: 200
-responseTime: 1237
-lastUpdated: 2024-02-20T23:12:42.560Z
+status: down
+code: 500
+responseTime: 719
+lastUpdated: 2024-02-21T02:06:12.279Z
 startTime: 2022-03-28T12:50:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
