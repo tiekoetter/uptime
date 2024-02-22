@@ -346,9 +346,9 @@
     "slug": "nitter-tiekoetter-com",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "79.49%",
-    "uptimeWeek": "87.68%",
-    "uptimeMonth": "97.17%",
+    "uptimeDay": "79.83%",
+    "uptimeWeek": "87.59%",
+    "uptimeMonth": "97.15%",
     "uptimeYear": "99.76%",
     "time": 627,
     "timeDay": 602,
@@ -356,11 +356,11 @@
     "timeMonth": 577,
     "timeYear": 621,
     "dailyMinutesDown": {
-      "2024-02-22": 166,
+      "2024-02-22": 181,
       "2024-02-21": 325,
       "2024-02-20": 304,
       "2024-02-19": 436,
-      "2024-02-18": 9
+      "2024-02-18": 4
     }
   },
   {
@@ -373,14 +373,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "80.25%",
+    "uptimeYear": "80.24%",
     "time": 1202,
     "timeDay": 586,
     "timeWeek": 611,
     "timeMonth": 635,
     "timeYear": 1198,
     "dailyMinutesDown": {
-      "2024-02-22": 818,
+      "2024-02-22": 837,
       "2024-02-21": 1440,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
@@ -506,7 +506,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate.tiekoetter.com.ico",
     "slug": "translate-tiekoetter-com",
     "status": "down",
-    "uptime": "78.70%",
+    "uptime": "78.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -517,7 +517,7 @@
     "timeMonth": 588,
     "timeYear": 2309,
     "dailyMinutesDown": {
-      "2024-02-22": 821,
+      "2024-02-22": 839,
       "2024-02-21": 1440,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
