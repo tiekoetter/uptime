@@ -14,7 +14,7 @@
     "timeDay": 833,
     "timeWeek": 841,
     "timeMonth": 909,
-    "timeYear": 1029,
+    "timeYear": 1028,
     "dailyMinutesDown": {
       "2024-03-09": 10,
       "2024-02-04": 986,
@@ -335,17 +335,17 @@
     "slug": "nitter-tiekoetter-com",
     "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "85.06%",
-    "uptimeWeek": "82.90%",
+    "uptimeDay": "85.40%",
+    "uptimeWeek": "82.89%",
     "uptimeMonth": "95.77%",
     "uptimeYear": "99.65%",
     "time": 618,
-    "timeDay": 621,
-    "timeWeek": 572,
+    "timeDay": 637,
+    "timeWeek": 575,
     "timeMonth": 577,
     "timeYear": 618,
     "dailyMinutesDown": {
-      "2024-03-11": 110,
+      "2024-03-11": 115,
       "2024-03-10": 211,
       "2024-03-09": 221,
       "2024-03-08": 402,
@@ -353,7 +353,7 @@
       "2024-03-06": 245,
       "2024-03-05": 210,
       "2024-03-04": 220,
-      "2024-03-03": 15
+      "2024-03-03": 10
     }
   },
   {
@@ -366,14 +366,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "75.32%",
+    "uptimeYear": "75.31%",
     "time": 1202,
     "timeDay": 447,
     "timeWeek": 596,
     "timeMonth": 612,
     "timeYear": 1197,
     "dailyMinutesDown": {
-      "2024-03-11": 812,
+      "2024-03-11": 822,
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
@@ -531,7 +531,7 @@
     "timeMonth": 534,
     "timeYear": 1724,
     "dailyMinutesDown": {
-      "2024-03-11": 814,
+      "2024-03-11": 824,
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
