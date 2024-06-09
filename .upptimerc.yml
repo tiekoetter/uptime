@@ -46,24 +46,8 @@ sites:
     url: https://searx-instances.tiekoetter.com
     headers:
       - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
-  - name: nitter.tiekoetter.com
-    url: https://nitter.tiekoetter.com
-    headers:
-      - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
-  - name: libreddit.tiekoetter.com
-    url: https://libreddit.tiekoetter.com
-    headers:
-      - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
   - name: bin.tiekoetter.com
     url: https://bin.tiekoetter.com
-    headers:
-      - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
-  - name: translate.tiekoetter.com
-    url: https://translate.tiekoetter.com
-    headers:
-      - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
-  - name: invidious.tiekoetter.com
-    url: https://invidious.tiekoetter.com
     headers:
       - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
   - name: wikiless.tiekoetter.com
