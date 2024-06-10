@@ -88,7 +88,6 @@ status-website:
   introTitle: "Tiekoetter.NET Status & Uptime monitoring"
   introMessage: This status page lists all services provided and / or hosted by Tiekoetter.NET and checks their uptime every 5 minutes.
   cname: status.tiekoetter.cloud
-  baseUrl: /
   favicon: https://tiekoettercom-cdn.tiekoetter.cloud/wp-content/uploads/2020/06/tiekoetter-300x300.png
   logoUrl: https://tiekoettercom-cdn.tiekoetter.cloud/wp-content/uploads/2020/06/tiekoetter-300x300.png
   theme: light
