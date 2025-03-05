@@ -11,9 +11,9 @@
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.80%",
     "time": 966,
-    "timeDay": 7063,
-    "timeWeek": 2481,
-    "timeMonth": 1392,
+    "timeDay": 1143,
+    "timeWeek": 2378,
+    "timeMonth": 1408,
     "timeYear": 976,
     "dailyMinutesDown": {
       "2025-02-28": 165,
@@ -52,15 +52,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tiekoetter.net.ico",
     "slug": "tiekoetter-net",
     "status": "up",
-    "uptime": "98.43%",
+    "uptime": "98.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.37%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.81%",
     "time": 620,
-    "timeDay": 606,
-    "timeWeek": 577,
-    "timeMonth": 600,
+    "timeDay": 612,
+    "timeWeek": 575,
+    "timeMonth": 606,
     "timeYear": 621,
     "dailyMinutesDown": {
       "2025-02-28": 165,
@@ -100,10 +100,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 107,
-    "timeDay": 110,
-    "timeWeek": 98,
-    "timeMonth": 98,
+    "time": 106,
+    "timeDay": 127,
+    "timeWeek": 105,
+    "timeMonth": 100,
     "timeYear": 101,
     "dailyMinutesDown": {}
   },
@@ -119,9 +119,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 90,
-    "timeWeek": 105,
-    "timeMonth": 108,
+    "timeDay": 91,
+    "timeWeek": 103,
+    "timeMonth": 107,
     "timeYear": 109,
     "dailyMinutesDown": {
       "2024-03-09": 8
@@ -139,9 +139,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 90,
-    "timeWeek": 105,
-    "timeMonth": 108,
+    "timeDay": 92,
+    "timeWeek": 103,
+    "timeMonth": 107,
     "timeYear": 110,
     "dailyMinutesDown": {
       "2024-03-09": 7
@@ -159,13 +159,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 138,
-    "timeDay": 121,
-    "timeWeek": 132,
-    "timeMonth": 136,
+    "timeDay": 116,
+    "timeWeek": 129,
+    "timeMonth": 135,
     "timeYear": 136,
-    "dailyMinutesDown": {
-      "2024-03-05": 79
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ns4.tiekoetter.net",
@@ -178,10 +176,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 108,
-    "timeDay": 88,
-    "timeWeek": 102,
-    "timeMonth": 106,
+    "time": 107,
+    "timeDay": 90,
+    "timeWeek": 100,
+    "timeMonth": 105,
     "timeYear": 106,
     "dailyMinutesDown": {}
   },
@@ -197,9 +195,9 @@
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.79%",
     "time": 789,
-    "timeDay": 727,
-    "timeWeek": 694,
-    "timeMonth": 677,
+    "timeDay": 610,
+    "timeWeek": 703,
+    "timeMonth": 680,
     "timeYear": 841,
     "dailyMinutesDown": {
       "2025-02-28": 164,
@@ -247,10 +245,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 355,
-    "timeDay": 400,
-    "timeWeek": 308,
-    "timeMonth": 322,
-    "timeYear": 357,
+    "timeDay": 178,
+    "timeWeek": 306,
+    "timeMonth": 321,
+    "timeYear": 356,
     "dailyMinutesDown": {}
   },
   {
@@ -265,9 +263,9 @@
     "uptimeMonth": "99.62%",
     "uptimeYear": "98.75%",
     "time": 724,
-    "timeDay": 672,
-    "timeWeek": 737,
-    "timeMonth": 715,
+    "timeDay": 769,
+    "timeWeek": 738,
+    "timeMonth": 721,
     "timeYear": 742,
     "dailyMinutesDown": {
       "2025-02-28": 164,
@@ -293,8 +291,7 @@
       "2024-03-09": 511,
       "2024-03-08": 1440,
       "2024-03-07": 1440,
-      "2024-03-06": 1440,
-      "2024-03-05": 774
+      "2024-03-06": 1440
     }
   },
   {
@@ -308,10 +305,10 @@
     "uptimeWeek": "98.37%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.39%",
-    "time": 1156,
-    "timeDay": 888,
-    "timeWeek": 858,
-    "timeMonth": 852,
+    "time": 1155,
+    "timeDay": 795,
+    "timeWeek": 856,
+    "timeMonth": 856,
     "timeYear": 1275,
     "dailyMinutesDown": {
       "2025-02-28": 164,
@@ -346,8 +343,7 @@
       "2024-09-16": 3,
       "2024-07-31": 79,
       "2024-03-12": 3,
-      "2024-03-09": 5,
-      "2024-03-05": 47
+      "2024-03-09": 5
     }
   },
   {
@@ -362,8 +358,8 @@
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.51%",
     "time": 653,
-    "timeDay": 401,
-    "timeWeek": 3434,
+    "timeDay": 497,
+    "timeWeek": 3437,
     "timeMonth": 1283,
     "timeYear": 682,
     "dailyMinutesDown": {
@@ -397,10 +393,10 @@
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.82%",
     "time": 979,
-    "timeDay": 922,
-    "timeWeek": 1067,
-    "timeMonth": 1052,
-    "timeYear": 989,
+    "timeDay": 842,
+    "timeWeek": 1048,
+    "timeMonth": 1051,
+    "timeYear": 988,
     "dailyMinutesDown": {
       "2025-02-28": 159,
       "2025-02-11": 3,
@@ -434,9 +430,9 @@
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.48%",
     "time": 1469,
-    "timeDay": 1967,
-    "timeWeek": 2799,
-    "timeMonth": 1811,
+    "timeDay": 1422,
+    "timeWeek": 2798,
+    "timeMonth": 1797,
     "timeYear": 1403,
     "dailyMinutesDown": {
       "2025-02-28": 159,
@@ -459,8 +455,7 @@
       "2024-10-10": 5,
       "2024-09-26": 5,
       "2024-07-31": 77,
-      "2024-03-12": 2,
-      "2024-03-05": 74
+      "2024-03-12": 2
     }
   },
   {
@@ -475,9 +470,9 @@
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.83%",
     "time": 731,
-    "timeDay": 489,
-    "timeWeek": 706,
-    "timeMonth": 716,
+    "timeDay": 811,
+    "timeWeek": 730,
+    "timeMonth": 721,
     "timeYear": 766,
     "dailyMinutesDown": {
       "2025-02-28": 159,
@@ -506,9 +501,9 @@
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.83%",
     "time": 610,
-    "timeDay": 570,
-    "timeWeek": 607,
-    "timeMonth": 588,
+    "timeDay": 578,
+    "timeWeek": 623,
+    "timeMonth": 591,
     "timeYear": 617,
     "dailyMinutesDown": {
       "2025-02-28": 159,
@@ -537,9 +532,9 @@
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.83%",
     "time": 622,
-    "timeDay": 495,
-    "timeWeek": 617,
-    "timeMonth": 649,
+    "timeDay": 490,
+    "timeWeek": 611,
+    "timeMonth": 646,
     "timeYear": 624,
     "dailyMinutesDown": {
       "2025-02-28": 158,
@@ -566,9 +561,9 @@
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.83%",
     "time": 957,
-    "timeDay": 787,
-    "timeWeek": 967,
-    "timeMonth": 908,
+    "timeDay": 899,
+    "timeWeek": 980,
+    "timeMonth": 911,
     "timeYear": 927,
     "dailyMinutesDown": {
       "2025-02-28": 158,
@@ -584,8 +579,7 @@
       "2024-10-27": 5,
       "2024-10-22": 7,
       "2024-07-31": 74,
-      "2024-03-12": 1,
-      "2024-03-05": 11
+      "2024-03-12": 1
     }
   }
 ]
