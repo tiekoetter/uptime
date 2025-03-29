@@ -53,6 +53,10 @@ sites:
     url: https://wikiless.tiekoetter.com
     headers:
       - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
+  - name: nitter.tiekoetter.com
+    url: https://nitter.tiekoetter.com
+    headers:
+      - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
   - name: lt27.de
     url: https://lt27.de
     headers:
@@ -67,10 +71,6 @@ sites:
       - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
   - name: fehling.me
     url: https://fehling.me
-    headers:
-      - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
-  - name: meyr.eu
-    url: https://meyr.eu
     headers:
       - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
   - name: geocultur.de
