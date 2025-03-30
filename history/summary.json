@@ -228,18 +228,20 @@
     "url": "https://invidious.tiekoetter.com/feed/trending",
     "icon": "https://icons.duckduckgo.com/ip3/invidious.tiekoetter.com.ico",
     "slug": "invidious-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1608,
-    "timeDay": 1766,
-    "timeWeek": 1766,
-    "timeMonth": 1766,
-    "timeYear": 1775,
-    "dailyMinutesDown": {}
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 1604,
+    "timeDay": 1458,
+    "timeWeek": 1458,
+    "timeMonth": 1458,
+    "timeYear": 1619,
+    "dailyMinutesDown": {
+      "2025-03-30": 1
+    }
   },
   {
     "name": "searx-instances.tiekoetter.com",
@@ -370,7 +372,7 @@
     "timeDay": 554,
     "timeWeek": 554,
     "timeMonth": 554,
-    "timeYear": 551,
+    "timeYear": 549,
     "dailyMinutesDown": {
       "2024-04-02": 105,
       "2024-04-01": 165,
