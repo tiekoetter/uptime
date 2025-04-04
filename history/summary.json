@@ -148,10 +148,10 @@
     "url": "ns3.tiekoetter.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ns3-tiekoetter-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 140,
@@ -159,17 +159,19 @@
     "timeWeek": 159,
     "timeMonth": 138,
     "timeYear": 137,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-04": 1
+    }
   },
   {
     "name": "ns4.tiekoetter.net",
     "url": "ns4.tiekoetter.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ns4-tiekoetter-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
@@ -177,7 +179,9 @@
     "timeWeek": 128,
     "timeMonth": 106,
     "timeYear": 106,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-04": 1
+    }
   },
   {
     "name": "searx.tiekoetter.com",
@@ -233,7 +237,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/invidious.tiekoetter.com.ico",
     "slug": "invidious-tiekoetter-com",
     "status": "up",
-    "uptime": "77.35%",
+    "uptime": "77.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.94%",
@@ -368,7 +372,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nitter.tiekoetter.com.ico",
     "slug": "nitter-tiekoetter-com",
     "status": "up",
-    "uptime": "79.93%",
+    "uptime": "79.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.17%",
     "uptimeMonth": "99.17%",
