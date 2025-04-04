@@ -108,19 +108,19 @@
     "url": "ns1.tiekoetter.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ns1-tiekoetter-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "94.53%",
-    "uptimeWeek": "99.22%",
+    "uptimeDay": "94.49%",
+    "uptimeWeek": "99.21%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "99.98%",
     "time": 114,
     "timeDay": 124,
     "timeWeek": 126,
     "timeMonth": 109,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2025-04-04": 79
+      "2025-04-04": 80
     }
   },
   {
@@ -148,19 +148,19 @@
     "url": "ns3.tiekoetter.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ns3-tiekoetter-net",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 140,
-    "timeDay": 177,
-    "timeWeek": 159,
+    "timeDay": 146,
+    "timeWeek": 154,
     "timeMonth": 138,
-    "timeYear": 137,
+    "timeYear": 136,
     "dailyMinutesDown": {
-      "2025-04-04": 1
+      "2025-04-04": 6
     }
   },
   {
@@ -168,19 +168,19 @@
     "url": "ns4.tiekoetter.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ns4-tiekoetter-net",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 152,
-    "timeWeek": 128,
+    "timeDay": 118,
+    "timeWeek": 123,
     "timeMonth": 106,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2025-04-04": 1
+      "2025-04-04": 6
     }
   },
   {
@@ -237,7 +237,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/invidious.tiekoetter.com.ico",
     "slug": "invidious-tiekoetter-com",
     "status": "up",
-    "uptime": "77.42%",
+    "uptime": "77.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.94%",
@@ -372,7 +372,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nitter.tiekoetter.com.ico",
     "slug": "nitter-tiekoetter-com",
     "status": "up",
-    "uptime": "79.99%",
+    "uptime": "80.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.17%",
     "uptimeMonth": "99.17%",
