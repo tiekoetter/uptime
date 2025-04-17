@@ -73,6 +73,10 @@ sites:
     url: https://www.craftsmany.net
     headers:
       - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
+  - name: ts.craftsmany.net TeamSpeak 3 Server
+    check: "udp-ping"
+    url: ts.craftsmany.net
+    port: 9988
   - name: fehling.me
     url: https://fehling.me
     headers:
