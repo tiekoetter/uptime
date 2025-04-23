@@ -1,7 +1,7 @@
 url: https://invidious.tiekoetter.com/feed/trending
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-04-23T19:56:02.568Z
+status: up
+code: 200
+responseTime: 970
+lastUpdated: 2025-04-23T20:01:05.234Z
 startTime: 2025-03-29T22:48:07.860Z
 generator: Upptime <https://github.com/upptime/upptime>
