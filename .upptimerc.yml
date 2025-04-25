@@ -45,6 +45,10 @@ sites:
     url: https://invidious.tiekoetter.com/feed/trending
     headers:
       - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
+  - name: forum.iekoetter.com
+    url: https://forum.tiekoetter.com
+    headers:
+      - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
   - name: searx-instances.tiekoetter.com
     url: https://searx-instances.tiekoetter.com
     headers:
