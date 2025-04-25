@@ -61,6 +61,10 @@ sites:
     url: https://nitter.tiekoetter.com
     headers:
       - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
+  - name: redlib.tiekoetter.com
+    url: https://redlib.tiekoetter.com
+    headers:
+      - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
   - name: lt27.de
     url: https://lt27.de
     headers:
