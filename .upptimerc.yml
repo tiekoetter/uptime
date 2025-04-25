@@ -49,10 +49,6 @@ sites:
     url: https://forum.tiekoetter.com
     headers:
       - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
-  - name: searx-instances.tiekoetter.com
-    url: https://searx-instances.tiekoetter.com
-    headers:
-      - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
   - name: bin.tiekoetter.com
     url: https://bin.tiekoetter.com
     headers:
@@ -71,6 +67,10 @@ sites:
       - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
   - name: lt27.de
     url: https://lt27.de
+    headers:
+      - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
+  - name: searx-instances.tiekoetter.com
+    url: https://searx-instances.tiekoetter.com
     headers:
       - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
   - name: leontiekoetter.de
