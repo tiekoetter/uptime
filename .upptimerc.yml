@@ -5,12 +5,16 @@ assignees:
 user-agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud
 
 sites:
-  - name: Tiekoetter.com
-    url: https://www.tiekoetter.com
-    headers:
-      - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
   - name: Tiekoetter.NET
     url: https://www.tiekoetter.net
+    headers:
+      - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
+  - name: AS.Tiekoetter.NET (AS208694)
+    url: https://www.as.tiekoetter.net
+    headers:
+      - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
+  - name: Tiekoetter.com
+    url: https://www.tiekoetter.com
     headers:
       - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
   - name: CDN (tiekoetter.cloud)
@@ -85,16 +89,8 @@ sites:
     check: "udp-ping"
     url: ts.craftsmany.net
     port: 9988
-  - name: fehling.me
+  - name: fehling.me (Owner: Luke Fehling)
     url: https://fehling.me
-    headers:
-      - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
-  - name: geocultur.de
-    url: https://geocultur.de
-    headers:
-      - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
-  - name: autotestschaeffer.de
-    url: https://www.autotestschaeffer.de
     headers:
       - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
 
