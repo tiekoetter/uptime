@@ -89,7 +89,7 @@ sites:
     check: "udp-ping"
     url: ts.craftsmany.net
     port: 9988
-  - name: fehling.me [Owner: Luke Fehling]
+  - name: fehling.me [Owner\: Luke Fehling]
     url: https://fehling.me
     headers:
       - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
