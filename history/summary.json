@@ -484,19 +484,20 @@
     "url": "https://redlib.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/redlib.tiekoetter.com.ico",
     "slug": "redlib-tiekoetter-com",
-    "status": "down",
+    "status": "up",
     "uptime": "98.67%",
-    "uptimeDay": "91.59%",
-    "uptimeWeek": "94.93%",
-    "uptimeMonth": "96.36%",
+    "uptimeDay": "91.29%",
+    "uptimeWeek": "94.89%",
+    "uptimeMonth": "96.35%",
     "uptimeYear": "98.67%",
     "time": 751,
-    "timeDay": 689,
-    "timeWeek": 685,
-    "timeMonth": 702,
+    "timeDay": 697,
+    "timeWeek": 687,
+    "timeMonth": 703,
     "timeYear": 751,
     "dailyMinutesDown": {
-      "2025-07-25": 121,
+      "2025-07-26": 1,
+      "2025-07-25": 124,
       "2025-07-24": 35,
       "2025-07-23": 110,
       "2025-07-22": 60,
@@ -646,8 +647,7 @@
       "2024-10-22": 6,
       "2024-10-14": 1,
       "2024-10-13": 14,
-      "2024-07-31": 77,
-      "2024-07-26": 5
+      "2024-07-31": 77
     }
   },
   {
