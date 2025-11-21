@@ -75,6 +75,9 @@ sites:
       - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
   - name: lt27.de
     url: https://lt27.de
+    expectedStatusCodes:
+      - 200
+      - 403
     headers:
       - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
   - name: searx-instances.tiekoetter.com
