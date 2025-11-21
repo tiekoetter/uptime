@@ -18,7 +18,7 @@ sites:
     headers:
       - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
   - name: CDN (tiekoetter.cloud)
-    url: https://tiekoettercom-cdn.tiekoetter.cloud/cdn/test.txt
+    url: https://test.cdn.tiekoetter.cloud
     headers:
       - 'User-Agent: Tiekoetter.NET Uptime Checker @ status.tiekoetter.cloud'
   - name: ns1.tiekoetter.net
