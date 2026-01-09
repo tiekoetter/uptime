@@ -93,11 +93,11 @@
     "url": "https://test.cdn.tiekoetter.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/test.cdn.tiekoetter.cloud.ico",
     "slug": "cdn-tiekoetter-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "74.75%",
-    "uptimeWeek": "92.45%",
-    "uptimeMonth": "98.26%",
+    "uptimeDay": "74.73%",
+    "uptimeWeek": "92.50%",
+    "uptimeMonth": "98.27%",
     "uptimeYear": "99.86%",
     "time": 119,
     "timeDay": 101,
@@ -106,7 +106,7 @@
     "timeYear": 123,
     "dailyMinutesDown": {
       "2026-01-09": 346,
-      "2026-01-08": 409
+      "2026-01-08": 404
     }
   },
   {
@@ -207,7 +207,7 @@
     "timeDay": 609,
     "timeWeek": 655,
     "timeMonth": 668,
-    "timeYear": 723,
+    "timeYear": 722,
     "dailyMinutesDown": {
       "2026-01-08": 13,
       "2025-10-16": 99,
@@ -351,7 +351,7 @@
     "timeDay": 1036,
     "timeWeek": 986,
     "timeMonth": 1059,
-    "timeYear": 1334,
+    "timeYear": 1335,
     "dailyMinutesDown": {
       "2026-01-08": 7,
       "2025-07-08": 5,
@@ -512,7 +512,7 @@
     "timeDay": 153,
     "timeWeek": 182,
     "timeMonth": 208,
-    "timeYear": 555,
+    "timeYear": 554,
     "dailyMinutesDown": {
       "2025-11-21": 692,
       "2025-11-20": 1440,
@@ -553,7 +553,7 @@
     "timeDay": 450,
     "timeWeek": 262,
     "timeMonth": 259,
-    "timeYear": 318,
+    "timeYear": 317,
     "dailyMinutesDown": {}
   },
   {
@@ -571,7 +571,7 @@
     "timeDay": 1062,
     "timeWeek": 973,
     "timeMonth": 1079,
-    "timeYear": 1043,
+    "timeYear": 1042,
     "dailyMinutesDown": {
       "2026-01-08": 3,
       "2025-08-04": 509,
