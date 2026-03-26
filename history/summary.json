@@ -14,7 +14,7 @@
     "timeDay": 637,
     "timeWeek": 679,
     "timeMonth": 1047,
-    "timeYear": 708,
+    "timeYear": 709,
     "dailyMinutesDown": {
       "2026-03-06": 10,
       "2026-03-01": 5,
@@ -75,7 +75,7 @@
     "timeDay": 948,
     "timeWeek": 994,
     "timeMonth": 1602,
-    "timeYear": 1031,
+    "timeYear": 1032,
     "dailyMinutesDown": {
       "2026-03-06": 20,
       "2026-02-06": 24,
@@ -100,9 +100,9 @@
     "url": "https://test.cdn.tiekoetter.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/test.cdn.tiekoetter.cloud.ico",
     "slug": "cdn-tiekoetter-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "87.49%",
+    "uptimeDay": "87.45%",
     "uptimeWeek": "98.21%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.87%",
@@ -116,7 +116,7 @@
       "2026-02-24": 4,
       "2026-02-17": 4,
       "2026-01-13": 401,
-      "2026-01-12": 95
+      "2026-01-12": 85
     }
   },
   {
@@ -175,7 +175,7 @@
     "timeDay": 128,
     "timeWeek": 142,
     "timeMonth": 191,
-    "timeYear": 145,
+    "timeYear": 146,
     "dailyMinutesDown": {
       "2025-06-26": 5,
       "2025-05-28": 4,
@@ -197,7 +197,7 @@
     "timeDay": 102,
     "timeWeek": 109,
     "timeMonth": 116,
-    "timeYear": 114,
+    "timeYear": 115,
     "dailyMinutesDown": {
       "2025-04-04": 6
     }
@@ -365,7 +365,7 @@
     "timeDay": 942,
     "timeWeek": 1024,
     "timeMonth": 1082,
-    "timeYear": 1000,
+    "timeYear": 1001,
     "dailyMinutesDown": {
       "2026-03-06": 5,
       "2026-02-06": 23,
@@ -547,7 +547,7 @@
     "timeDay": 183,
     "timeWeek": 292,
     "timeMonth": 330,
-    "timeYear": 315,
+    "timeYear": 314,
     "dailyMinutesDown": {}
   },
   {
@@ -565,7 +565,7 @@
     "timeDay": 909,
     "timeWeek": 1014,
     "timeMonth": 1053,
-    "timeYear": 1043,
+    "timeYear": 1044,
     "dailyMinutesDown": {
       "2026-02-10": 4,
       "2026-02-06": 17,
@@ -593,7 +593,7 @@
     "timeDay": 869,
     "timeWeek": 1019,
     "timeMonth": 1094,
-    "timeYear": 1096,
+    "timeYear": 1095,
     "dailyMinutesDown": {
       "2026-02-06": 17,
       "2026-01-08": 3,
