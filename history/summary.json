@@ -14,7 +14,7 @@
     "timeDay": 962,
     "timeWeek": 711,
     "timeMonth": 1048,
-    "timeYear": 709,
+    "timeYear": 710,
     "dailyMinutesDown": {
       "2026-03-06": 10,
       "2026-03-01": 5,
@@ -75,7 +75,7 @@
     "timeDay": 887,
     "timeWeek": 950,
     "timeMonth": 1598,
-    "timeYear": 1031,
+    "timeYear": 1032,
     "dailyMinutesDown": {
       "2026-03-06": 20,
       "2026-02-06": 24,
@@ -100,9 +100,9 @@
     "url": "https://test.cdn.tiekoetter.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/test.cdn.tiekoetter.cloud.ico",
     "slug": "cdn-tiekoetter-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "81.05%",
+    "uptimeDay": "81.36%",
     "uptimeWeek": "95.55%",
     "uptimeMonth": "98.98%",
     "uptimeYear": "99.87%",
@@ -116,7 +116,7 @@
       "2026-03-26": 188,
       "2026-02-24": 4,
       "2026-02-17": 4,
-      "2026-01-13": 205
+      "2026-01-13": 200
     }
   },
   {
@@ -197,7 +197,7 @@
     "timeDay": 102,
     "timeWeek": 102,
     "timeMonth": 116,
-    "timeYear": 114,
+    "timeYear": 115,
     "dailyMinutesDown": {
       "2025-04-04": 6
     }
@@ -217,7 +217,7 @@
     "timeDay": 715,
     "timeWeek": 714,
     "timeMonth": 736,
-    "timeYear": 733,
+    "timeYear": 734,
     "dailyMinutesDown": {
       "2026-02-24": 4,
       "2026-02-06": 24,
@@ -365,7 +365,7 @@
     "timeDay": 1212,
     "timeWeek": 1011,
     "timeMonth": 1089,
-    "timeYear": 1001,
+    "timeYear": 1002,
     "dailyMinutesDown": {
       "2026-03-06": 5,
       "2026-02-06": 23,
@@ -547,7 +547,7 @@
     "timeDay": 204,
     "timeWeek": 283,
     "timeMonth": 322,
-    "timeYear": 314,
+    "timeYear": 313,
     "dailyMinutesDown": {}
   },
   {
@@ -565,7 +565,7 @@
     "timeDay": 905,
     "timeWeek": 974,
     "timeMonth": 1055,
-    "timeYear": 1043,
+    "timeYear": 1044,
     "dailyMinutesDown": {
       "2026-02-10": 4,
       "2026-02-06": 17,
