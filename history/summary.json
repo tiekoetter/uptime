@@ -102,19 +102,19 @@
     "slug": "cdn-tiekoetter-cloud",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "73.09%",
+    "uptimeDay": "75.17%",
     "uptimeWeek": "93.88%",
     "uptimeMonth": "98.59%",
     "uptimeYear": "99.88%",
     "time": 137,
-    "timeDay": 124,
+    "timeDay": 121,
     "timeWeek": 123,
     "timeMonth": 121,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2026-03-31": 246,
+      "2026-03-31": 251,
       "2026-03-30": 317,
-      "2026-03-29": 52
+      "2026-03-29": 47
     }
   },
   {
