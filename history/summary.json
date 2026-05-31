@@ -524,17 +524,17 @@
     "url": "https://www.leontiekoetter.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.leontiekoetter.de.ico",
     "slug": "leontiekoetter-de",
-    "status": "down",
+    "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.90%",
-    "time": 1044,
-    "timeDay": 781,
-    "timeWeek": 904,
-    "timeMonth": 994,
-    "timeYear": 1044,
+    "time": 1043,
+    "timeDay": 750,
+    "timeWeek": 880,
+    "timeMonth": 985,
+    "timeYear": 1043,
     "dailyMinutesDown": {
       "2025-07-08": 5,
       "2025-08-04": 509,
@@ -543,7 +543,7 @@
       "2026-02-10": 4,
       "2026-04-24": 2,
       "2026-04-27": 4,
-      "2026-05-31": 1
+      "2026-05-31": 5
     }
   },
   {
