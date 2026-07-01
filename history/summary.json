@@ -4,13 +4,13 @@
     "url": "https://www.tiekoetter.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.tiekoetter.net.ico",
     "slug": "tiekoetter-net",
-    "status": "up",
+    "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
-    "time": 721,
+    "time": 701,
     "timeDay": 840,
     "timeWeek": 794,
     "timeMonth": 808,
@@ -28,7 +28,8 @@
       "2026-05-02": 10,
       "2026-05-14": 5,
       "2026-05-17": 5,
-      "2026-05-21": 5
+      "2026-05-21": 5,
+      "2026-07-01": 14
     }
   },
   {
@@ -36,11 +37,11 @@
     "url": "https://www.as.tiekoetter.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.as.tiekoetter.net.ico",
     "slug": "as-tiekoetter-net-as-208694",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 700,
     "timeDay": 931,
@@ -59,7 +60,8 @@
       "2026-04-24": 5,
       "2026-04-27": 5,
       "2026-05-02": 5,
-      "2026-05-17": 5
+      "2026-05-17": 5,
+      "2026-07-01": 9
     }
   },
   {
@@ -67,13 +69,13 @@
     "url": "https://www.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.tiekoetter.com.ico",
     "slug": "tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.88%",
-    "time": 1066,
+    "time": 1067,
     "timeDay": 1187,
     "timeWeek": 1022,
     "timeMonth": 980,
@@ -91,7 +93,8 @@
       "2026-03-06": 20,
       "2026-04-24": 4,
       "2026-04-27": 5,
-      "2026-06-06": 5
+      "2026-06-06": 5,
+      "2026-07-01": 4
     }
   },
   {
@@ -396,7 +399,7 @@
     "timeDay": 945,
     "timeWeek": 882,
     "timeMonth": 809,
-    "timeYear": 785,
+    "timeYear": 786,
     "dailyMinutesDown": {
       "2025-07-02": 75,
       "2025-07-03": 70,
@@ -436,7 +439,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate.tiekoetter.com.ico",
     "slug": "translate-tiekoetter-com",
     "status": "up",
-    "uptime": "25.05%",
+    "uptime": "25.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
