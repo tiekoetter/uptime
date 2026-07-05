@@ -4,16 +4,16 @@
     "url": "https://www.tiekoetter.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.tiekoetter.net.ico",
     "slug": "tiekoetter-net",
-    "status": "down",
+    "status": "up",
     "uptime": "98.95%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.70%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 703,
-    "timeDay": 835,
-    "timeWeek": 788,
-    "timeMonth": 820,
+    "timeDay": 842,
+    "timeWeek": 795,
+    "timeMonth": 821,
     "timeYear": 740,
     "dailyMinutesDown": {
       "2025-07-08": 5,
@@ -30,7 +30,7 @@
       "2026-05-17": 5,
       "2026-05-21": 5,
       "2026-07-01": 16,
-      "2026-07-05": 14
+      "2026-07-05": 16
     }
   },
   {
@@ -38,16 +38,16 @@
     "url": "https://www.as.tiekoetter.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.as.tiekoetter.net.ico",
     "slug": "as-tiekoetter-net-as-208694",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 701,
-    "timeDay": 896,
-    "timeWeek": 796,
-    "timeMonth": 783,
+    "time": 702,
+    "timeDay": 868,
+    "timeWeek": 800,
+    "timeMonth": 785,
     "timeYear": 708,
     "dailyMinutesDown": {
       "2025-07-08": 5,
@@ -63,7 +63,7 @@
       "2026-05-02": 5,
       "2026-05-17": 5,
       "2026-07-01": 11,
-      "2026-07-05": 9
+      "2026-07-05": 11
     }
   },
   {
@@ -71,17 +71,17 @@
     "url": "https://www.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.tiekoetter.com.ico",
     "slug": "tiekoetter-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.89%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.88%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.88%",
-    "time": 1066,
-    "timeDay": 879,
-    "timeWeek": 913,
-    "timeMonth": 968,
-    "timeYear": 1039,
+    "uptimeYear": "99.87%",
+    "time": 1067,
+    "timeDay": 1013,
+    "timeWeek": 938,
+    "timeMonth": 973,
+    "timeYear": 1040,
     "dailyMinutesDown": {
       "2025-07-08": 5,
       "2025-07-17": 8,
@@ -97,7 +97,7 @@
       "2026-04-27": 5,
       "2026-06-06": 5,
       "2026-07-01": 6,
-      "2026-07-05": 5
+      "2026-07-05": 6
     }
   },
   {
