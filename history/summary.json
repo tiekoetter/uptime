@@ -112,7 +112,7 @@
     "time": 130,
     "timeDay": 72,
     "timeWeek": 79,
-    "timeMonth": 103,
+    "timeMonth": 100,
     "timeYear": 131,
     "dailyMinutesDown": {
       "2026-05-07": 209,
@@ -201,17 +201,17 @@
     "url": "https://searx.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/searx.tiekoetter.com.ico",
     "slug": "searx-tiekoetter-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.95%",
+    "uptimeDay": "99.60%",
     "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.88%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.93%",
-    "time": 887,
-    "timeDay": 799,
-    "timeWeek": 4583,
-    "timeMonth": 1675,
-    "timeYear": 922,
+    "time": 893,
+    "timeDay": 1687,
+    "timeWeek": 4459,
+    "timeMonth": 1729,
+    "timeYear": 929,
     "dailyMinutesDown": {
       "2025-10-11": 44,
       "2025-10-15": 4,
@@ -224,7 +224,7 @@
       "2026-07-10": 4,
       "2026-07-11": 104,
       "2026-08-22": 53,
-      "2026-08-29": 1
+      "2026-08-29": 6
     }
   },
   {
