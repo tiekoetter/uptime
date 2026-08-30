@@ -38,17 +38,17 @@
     "url": "https://www.as.tiekoetter.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.as.tiekoetter.net.ico",
     "slug": "as-tiekoetter-net-as-208694",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.61%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 713,
-    "timeDay": 821,
-    "timeWeek": 790,
-    "timeMonth": 757,
-    "timeYear": 729,
+    "time": 711,
+    "timeDay": 803,
+    "timeWeek": 789,
+    "timeMonth": 758,
+    "timeYear": 730,
     "dailyMinutesDown": {
       "2025-09-17": 5,
       "2026-01-08": 15,
@@ -64,7 +64,7 @@
       "2026-07-01": 11,
       "2026-07-05": 11,
       "2026-07-10": 13,
-      "2026-08-30": 20
+      "2026-08-30": 21
     }
   },
   {
@@ -72,17 +72,17 @@
     "url": "https://www.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.tiekoetter.com.ico",
     "slug": "tiekoetter-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 1028,
-    "timeDay": 1032,
-    "timeWeek": 936,
-    "timeMonth": 967,
-    "timeYear": 1046,
+    "timeDay": 963,
+    "timeWeek": 931,
+    "timeMonth": 965,
+    "timeYear": 1045,
     "dailyMinutesDown": {
       "2025-09-17": 5,
       "2025-09-18": 4,
@@ -97,7 +97,7 @@
       "2026-07-01": 6,
       "2026-07-05": 6,
       "2026-07-10": 8,
-      "2026-08-30": 15
+      "2026-08-30": 17
     }
   },
   {
@@ -203,16 +203,16 @@
     "url": "https://searx.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/searx.tiekoetter.com.ico",
     "slug": "searx-tiekoetter-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.93%",
     "time": 894,
-    "timeDay": 844,
-    "timeWeek": 1114,
-    "timeMonth": 1728,
+    "timeDay": 864,
+    "timeWeek": 1089,
+    "timeMonth": 1703,
     "timeYear": 930,
     "dailyMinutesDown": {
       "2025-10-11": 44,
@@ -227,7 +227,7 @@
       "2026-07-11": 104,
       "2026-08-22": 53,
       "2026-08-29": 6,
-      "2026-08-30": 11
+      "2026-08-30": 12
     }
   },
   {
@@ -235,16 +235,16 @@
     "url": "https://invidious.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/invidious.tiekoetter.com.ico",
     "slug": "invidious-tiekoetter-com",
-    "status": "down",
+    "status": "up",
     "uptime": "98.45%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "98.13%",
-    "time": 864,
-    "timeDay": 599,
-    "timeWeek": 607,
-    "timeMonth": 635,
+    "time": 862,
+    "timeDay": 517,
+    "timeWeek": 585,
+    "timeMonth": 629,
     "timeYear": 758,
     "dailyMinutesDown": {
       "2025-11-18": 996,
@@ -272,7 +272,7 @@
       "2026-04-27": 5,
       "2026-05-14": 5,
       "2026-06-06": 5,
-      "2026-08-30": 6
+      "2026-08-30": 7
     }
   },
   {
@@ -280,15 +280,15 @@
     "url": "https://forum.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/forum.tiekoetter.com.ico",
     "slug": "forum-iekoetter-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 951,
-    "timeDay": 859,
-    "timeWeek": 829,
+    "time": 950,
+    "timeDay": 865,
+    "timeWeek": 834,
     "timeMonth": 868,
     "timeYear": 931,
     "dailyMinutesDown": {
@@ -303,7 +303,7 @@
       "2026-04-08": 5,
       "2026-04-24": 4,
       "2026-04-27": 5,
-      "2026-08-30": 1
+      "2026-08-30": 2
     }
   },
   {
