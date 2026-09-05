@@ -12,7 +12,7 @@
     "uptimeYear": "99.97%",
     "time": 734,
     "timeDay": 800,
-    "timeWeek": 906,
+    "timeWeek": 914,
     "timeMonth": 859,
     "timeYear": 764,
     "dailyMinutesDown": {
@@ -48,7 +48,7 @@
     "uptimeYear": "99.97%",
     "time": 714,
     "timeDay": 945,
-    "timeWeek": 896,
+    "timeWeek": 872,
     "timeMonth": 770,
     "timeYear": 732,
     "dailyMinutesDown": {
@@ -83,7 +83,7 @@
     "uptimeYear": "99.97%",
     "time": 1030,
     "timeDay": 973,
-    "timeWeek": 1038,
+    "timeWeek": 1020,
     "timeMonth": 974,
     "timeYear": 1046,
     "dailyMinutesDown": {
@@ -117,7 +117,7 @@
     "uptimeYear": "99.85%",
     "time": 130,
     "timeDay": 123,
-    "timeWeek": 98,
+    "timeWeek": 104,
     "timeMonth": 94,
     "timeYear": 131,
     "dailyMinutesDown": {
@@ -141,7 +141,7 @@
     "uptimeYear": "100.00%",
     "time": 122,
     "timeDay": 121,
-    "timeWeek": 131,
+    "timeWeek": 128,
     "timeMonth": 119,
     "timeYear": 123,
     "dailyMinutesDown": {}
@@ -159,7 +159,7 @@
     "uptimeYear": "100.00%",
     "time": 121,
     "timeDay": 118,
-    "timeWeek": 131,
+    "timeWeek": 128,
     "timeMonth": 119,
     "timeYear": 123,
     "dailyMinutesDown": {}
@@ -177,7 +177,7 @@
     "uptimeYear": "100.00%",
     "time": 145,
     "timeDay": 139,
-    "timeWeek": 151,
+    "timeWeek": 148,
     "timeMonth": 141,
     "timeYear": 148,
     "dailyMinutesDown": {
@@ -197,7 +197,7 @@
     "uptimeYear": "100.00%",
     "time": 115,
     "timeDay": 114,
-    "timeWeek": 125,
+    "timeWeek": 121,
     "timeMonth": 112,
     "timeYear": 117,
     "dailyMinutesDown": {}
@@ -207,15 +207,15 @@
     "url": "https://searx.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/searx.tiekoetter.com.ico",
     "slug": "searx-tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.67%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.72%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.93%",
     "time": 896,
     "timeDay": 704,
-    "timeWeek": 1042,
+    "timeWeek": 785,
     "timeMonth": 1678,
     "timeYear": 931,
     "dailyMinutesDown": {
@@ -232,7 +232,8 @@
       "2026-08-22": 53,
       "2026-08-29": 6,
       "2026-08-30": 12,
-      "2026-09-01": 16
+      "2026-09-01": 16,
+      "2026-09-05": 1
     }
   },
   {
@@ -241,14 +242,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/invidious.tiekoetter.com.ico",
     "slug": "invidious-tiekoetter-com",
     "status": "up",
-    "uptime": "98.47%",
+    "uptime": "98.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.13%",
     "time": 852,
     "timeDay": 658,
-    "timeWeek": 619,
+    "timeWeek": 620,
     "timeMonth": 631,
     "timeYear": 750,
     "dailyMinutesDown": {
@@ -294,7 +295,7 @@
     "uptimeYear": "99.98%",
     "time": 952,
     "timeDay": 984,
-    "timeWeek": 996,
+    "timeWeek": 1003,
     "timeMonth": 901,
     "timeYear": 932,
     "dailyMinutesDown": {
@@ -326,7 +327,7 @@
     "uptimeYear": "99.99%",
     "time": 758,
     "timeDay": 870,
-    "timeWeek": 885,
+    "timeWeek": 899,
     "timeMonth": 752,
     "timeYear": 763,
     "dailyMinutesDown": {
@@ -350,7 +351,7 @@
     "uptimeYear": "99.99%",
     "time": 1059,
     "timeDay": 963,
-    "timeWeek": 1173,
+    "timeWeek": 1138,
     "timeMonth": 1076,
     "timeYear": 1087,
     "dailyMinutesDown": {
@@ -373,7 +374,7 @@
     "uptimeYear": "99.98%",
     "time": 609,
     "timeDay": 733,
-    "timeWeek": 671,
+    "timeWeek": 623,
     "timeMonth": 620,
     "timeYear": 612,
     "dailyMinutesDown": {
@@ -397,7 +398,7 @@
     "uptimeYear": "99.99%",
     "time": 799,
     "timeDay": 695,
-    "timeWeek": 928,
+    "timeWeek": 881,
     "timeMonth": 847,
     "timeYear": 824,
     "dailyMinutesDown": {
@@ -414,14 +415,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate.tiekoetter.com.ico",
     "slug": "translate-tiekoetter-com",
     "status": "up",
-    "uptime": "37.15%",
+    "uptime": "37.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 807,
     "timeDay": 969,
-    "timeWeek": 1009,
+    "timeWeek": 1023,
     "timeMonth": 846,
     "timeYear": 853,
     "dailyMinutesDown": {
@@ -445,7 +446,7 @@
     "uptimeYear": "99.28%",
     "time": 459,
     "timeDay": 540,
-    "timeWeek": 615,
+    "timeWeek": 600,
     "timeMonth": 525,
     "timeYear": 413,
     "dailyMinutesDown": {
@@ -477,7 +478,7 @@
     "uptimeYear": "100.00%",
     "time": 323,
     "timeDay": 450,
-    "timeWeek": 399,
+    "timeWeek": 391,
     "timeMonth": 329,
     "timeYear": 324,
     "dailyMinutesDown": {}
@@ -520,7 +521,7 @@
     "uptimeYear": "99.99%",
     "time": 1126,
     "timeDay": 1106,
-    "timeWeek": 1307,
+    "timeWeek": 1292,
     "timeMonth": 1199,
     "timeYear": 1153,
     "dailyMinutesDown": {
@@ -546,7 +547,7 @@
     "uptimeYear": "99.99%",
     "time": 1170,
     "timeDay": 1064,
-    "timeWeek": 1239,
+    "timeWeek": 1214,
     "timeMonth": 1134,
     "timeYear": 1177,
     "dailyMinutesDown": {
@@ -572,7 +573,7 @@
     "uptimeYear": "100.00%",
     "time": 733,
     "timeDay": 641,
-    "timeWeek": 719,
+    "timeWeek": 711,
     "timeMonth": 663,
     "timeYear": 734,
     "dailyMinutesDown": {
