@@ -4,11 +4,11 @@
     "url": "https://www.tiekoetter.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.tiekoetter.net.ico",
     "slug": "tiekoetter-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.01%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
     "time": 740,
     "timeDay": 675,
@@ -33,7 +33,8 @@
       "2026-07-10": 18,
       "2026-08-31": 4,
       "2026-09-01": 30,
-      "2026-09-21": 4
+      "2026-09-21": 4,
+      "2026-09-26": 12
     }
   },
   {
@@ -41,11 +42,11 @@
     "url": "https://www.as.tiekoetter.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.as.tiekoetter.net.ico",
     "slug": "as-tiekoetter-net-as-208694",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.97%",
     "time": 717,
     "timeDay": 582,
@@ -67,7 +68,8 @@
       "2026-07-05": 11,
       "2026-07-10": 13,
       "2026-08-30": 21,
-      "2026-09-01": 25
+      "2026-09-01": 25,
+      "2026-09-26": 7
     }
   },
   {
@@ -75,11 +77,11 @@
     "url": "https://www.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.tiekoetter.com.ico",
     "slug": "tiekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
     "time": 1021,
     "timeDay": 956,
@@ -99,7 +101,8 @@
       "2026-07-05": 6,
       "2026-07-10": 8,
       "2026-08-30": 17,
-      "2026-09-01": 21
+      "2026-09-01": 21,
+      "2026-09-26": 2
     }
   },
   {
@@ -413,7 +416,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate.tiekoetter.com.ico",
     "slug": "translate-tiekoetter-com",
     "status": "up",
-    "uptime": "40.23%",
+    "uptime": "40.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
