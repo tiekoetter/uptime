@@ -4,15 +4,15 @@
     "url": "https://www.tiekoetter.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.tiekoetter.net.ico",
     "slug": "tiekoetter-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.01%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
     "time": 742,
     "timeDay": 834,
-    "timeWeek": 790,
+    "timeWeek": 767,
     "timeMonth": 783,
     "timeYear": 772,
     "dailyMinutesDown": {
@@ -34,7 +34,8 @@
       "2026-08-31": 4,
       "2026-09-01": 30,
       "2026-09-21": 4,
-      "2026-09-26": 26
+      "2026-09-26": 26,
+      "2026-10-03": 8
     }
   },
   {
@@ -42,15 +43,15 @@
     "url": "https://www.as.tiekoetter.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.as.tiekoetter.net.ico",
     "slug": "as-tiekoetter-net-as-208694",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 718,
     "timeDay": 812,
-    "timeWeek": 728,
+    "timeWeek": 719,
     "timeMonth": 784,
     "timeYear": 740,
     "dailyMinutesDown": {
@@ -69,7 +70,8 @@
       "2026-07-10": 13,
       "2026-08-30": 21,
       "2026-09-01": 25,
-      "2026-09-26": 16
+      "2026-09-26": 16,
+      "2026-10-03": 3
     }
   },
   {
@@ -80,12 +82,12 @@
     "status": "up",
     "uptime": "99.41%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.93%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
     "time": 1020,
     "timeDay": 1110,
-    "timeWeek": 953,
+    "timeWeek": 936,
     "timeMonth": 972,
     "timeYear": 1045,
     "dailyMinutesDown": {
@@ -417,7 +419,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate.tiekoetter.com.ico",
     "slug": "translate-tiekoetter-com",
     "status": "up",
-    "uptime": "41.19%",
+    "uptime": "41.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
