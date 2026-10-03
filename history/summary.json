@@ -4,16 +4,16 @@
     "url": "https://www.tiekoetter.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.tiekoetter.net.ico",
     "slug": "tiekoetter-net",
-    "status": "down",
+    "status": "up",
     "uptime": "99.01%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
     "time": 742,
-    "timeDay": 834,
-    "timeWeek": 767,
-    "timeMonth": 783,
+    "timeDay": 707,
+    "timeWeek": 744,
+    "timeMonth": 777,
     "timeYear": 772,
     "dailyMinutesDown": {
       "2026-01-08": 15,
@@ -35,7 +35,7 @@
       "2026-09-01": 30,
       "2026-09-21": 4,
       "2026-09-26": 26,
-      "2026-10-03": 8
+      "2026-10-03": 9
     }
   },
   {
@@ -43,16 +43,16 @@
     "url": "https://www.as.tiekoetter.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.as.tiekoetter.net.ico",
     "slug": "as-tiekoetter-net-as-208694",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 718,
-    "timeDay": 812,
-    "timeWeek": 719,
-    "timeMonth": 784,
+    "timeDay": 751,
+    "timeWeek": 716,
+    "timeMonth": 782,
     "timeYear": 740,
     "dailyMinutesDown": {
       "2026-01-08": 15,
@@ -71,7 +71,7 @@
       "2026-08-30": 21,
       "2026-09-01": 25,
       "2026-09-26": 16,
-      "2026-10-03": 3
+      "2026-10-03": 4
     }
   },
   {
