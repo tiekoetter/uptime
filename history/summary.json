@@ -299,10 +299,10 @@
     "url": "https://forum.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/forum.tiekoetter.com.ico",
     "slug": "forum-iekoetter-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 955,
@@ -322,7 +322,8 @@
       "2026-04-24": 4,
       "2026-04-27": 5,
       "2026-08-30": 2,
-      "2026-09-01": 6
+      "2026-09-01": 6,
+      "2026-10-07": 2
     }
   },
   {
@@ -426,7 +427,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate.tiekoetter.com.ico",
     "slug": "translate-tiekoetter-com",
     "status": "up",
-    "uptime": "41.78%",
+    "uptime": "41.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
