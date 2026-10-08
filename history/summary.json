@@ -117,9 +117,9 @@
     "url": "https://test.cdn.tiekoetter.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/test.cdn.tiekoetter.cloud.ico",
     "slug": "cdn-tiekoetter-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "89.54%",
+    "uptimeDay": "89.50%",
     "uptimeWeek": "98.30%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.88%",
@@ -129,11 +129,11 @@
     "timeMonth": 98,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2026-07-28": 353,
+      "2026-07-28": 343,
       "2026-07-29": 119,
       "2026-09-30": 4,
       "2026-10-07": 20,
-      "2026-10-08": 153
+      "2026-10-08": 154
     }
   },
   {
@@ -151,7 +151,7 @@
     "timeDay": 95,
     "timeWeek": 105,
     "timeMonth": 115,
-    "timeYear": 123,
+    "timeYear": 122,
     "dailyMinutesDown": {}
   },
   {
@@ -169,7 +169,7 @@
     "timeDay": 94,
     "timeWeek": 105,
     "timeMonth": 115,
-    "timeYear": 123,
+    "timeYear": 122,
     "dailyMinutesDown": {}
   },
   {
@@ -225,7 +225,7 @@
     "timeDay": 460,
     "timeWeek": 581,
     "timeMonth": 683,
-    "timeYear": 971,
+    "timeYear": 972,
     "dailyMinutesDown": {
       "2025-10-11": 44,
       "2025-10-15": 4,
@@ -261,7 +261,7 @@
     "timeDay": 529,
     "timeWeek": 569,
     "timeMonth": 648,
-    "timeYear": 713,
+    "timeYear": 712,
     "dailyMinutesDown": {
       "2025-11-18": 996,
       "2025-11-17": 1440,
@@ -299,15 +299,15 @@
     "slug": "forum-iekoetter-com",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.81%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.97%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 955,
-    "timeDay": 996,
+    "timeDay": 762,
     "timeWeek": 842,
     "timeMonth": 868,
-    "timeYear": 930,
+    "timeYear": 929,
     "dailyMinutesDown": {
       "2025-12-02": 5,
       "2026-01-08": 9,
@@ -363,7 +363,7 @@
     "timeDay": 845,
     "timeWeek": 892,
     "timeMonth": 1023,
-    "timeYear": 1084,
+    "timeYear": 1083,
     "dailyMinutesDown": {
       "2026-01-08": 7,
       "2026-02-06": 23,
@@ -425,7 +425,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate.tiekoetter.com.ico",
     "slug": "translate-tiekoetter-com",
     "status": "up",
-    "uptime": "41.91%",
+    "uptime": "41.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -434,7 +434,7 @@
     "timeDay": 722,
     "timeWeek": 764,
     "timeMonth": 785,
-    "timeYear": 846,
+    "timeYear": 845,
     "dailyMinutesDown": {
       "2026-01-08": 4,
       "2026-02-06": 17,
@@ -458,7 +458,7 @@
     "timeDay": 453,
     "timeWeek": 509,
     "timeMonth": 542,
-    "timeYear": 412,
+    "timeYear": 411,
     "dailyMinutesDown": {
       "2025-11-17": 5,
       "2025-11-18": 154,
@@ -507,7 +507,7 @@
     "timeDay": 394,
     "timeWeek": 578,
     "timeMonth": 624,
-    "timeYear": 916,
+    "timeYear": 915,
     "dailyMinutesDown": {
       "2026-01-08": 3,
       "2026-02-06": 17,
@@ -532,7 +532,7 @@
     "timeDay": 974,
     "timeWeek": 1013,
     "timeMonth": 1158,
-    "timeYear": 1156,
+    "timeYear": 1155,
     "dailyMinutesDown": {
       "2025-11-07": 5,
       "2025-11-17": 5,
@@ -558,7 +558,7 @@
     "timeDay": 931,
     "timeWeek": 985,
     "timeMonth": 1100,
-    "timeYear": 1169,
+    "timeYear": 1168,
     "dailyMinutesDown": {
       "2025-11-17": 5,
       "2026-01-08": 3,
