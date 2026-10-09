@@ -118,10 +118,10 @@
     "url": "https://test.cdn.tiekoetter.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/test.cdn.tiekoetter.cloud.ico",
     "slug": "cdn-tiekoetter-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "86.13%",
-    "uptimeWeek": "96.32%",
+    "uptimeDay": "86.10%",
+    "uptimeWeek": "96.31%",
     "uptimeMonth": "99.14%",
     "uptimeYear": "99.89%",
     "time": 128,
@@ -130,7 +130,7 @@
     "timeMonth": 100,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2026-07-28": 68,
+      "2026-07-28": 63,
       "2026-07-29": 119,
       "2026-09-30": 4,
       "2026-10-07": 20,
@@ -227,7 +227,7 @@
     "timeDay": 645,
     "timeWeek": 589,
     "timeMonth": 685,
-    "timeYear": 971,
+    "timeYear": 972,
     "dailyMinutesDown": {
       "2025-10-11": 44,
       "2025-10-15": 4,
@@ -263,7 +263,7 @@
     "timeDay": 1031,
     "timeWeek": 642,
     "timeMonth": 663,
-    "timeYear": 713,
+    "timeYear": 712,
     "dailyMinutesDown": {
       "2025-11-18": 996,
       "2025-11-17": 1440,
@@ -341,7 +341,7 @@
     "timeDay": 842,
     "timeWeek": 744,
     "timeMonth": 720,
-    "timeYear": 761,
+    "timeYear": 762,
     "dailyMinutesDown": {
       "2025-12-12": 5,
       "2026-01-08": 7,
@@ -365,7 +365,7 @@
     "timeDay": 1062,
     "timeWeek": 922,
     "timeMonth": 1023,
-    "timeYear": 1083,
+    "timeYear": 1084,
     "dailyMinutesDown": {
       "2026-01-08": 7,
       "2026-02-06": 23,
@@ -388,7 +388,7 @@
     "timeDay": 548,
     "timeWeek": 608,
     "timeMonth": 632,
-    "timeYear": 615,
+    "timeYear": 616,
     "dailyMinutesDown": {
       "2026-01-08": 4,
       "2026-02-06": 23,
@@ -412,7 +412,7 @@
     "timeDay": 636,
     "timeWeek": 663,
     "timeMonth": 718,
-    "timeYear": 817,
+    "timeYear": 818,
     "dailyMinutesDown": {
       "2025-12-09": 4,
       "2026-01-08": 4,
@@ -436,7 +436,7 @@
     "timeDay": 810,
     "timeWeek": 799,
     "timeMonth": 785,
-    "timeYear": 845,
+    "timeYear": 846,
     "dailyMinutesDown": {
       "2026-01-08": 4,
       "2026-02-06": 17,
@@ -560,7 +560,7 @@
     "timeDay": 1281,
     "timeWeek": 1034,
     "timeMonth": 1102,
-    "timeYear": 1168,
+    "timeYear": 1169,
     "dailyMinutesDown": {
       "2025-11-17": 5,
       "2026-01-08": 3,
