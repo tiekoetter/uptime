@@ -14,7 +14,7 @@
     "timeDay": 893,
     "timeWeek": 765,
     "timeMonth": 775,
-    "timeYear": 773,
+    "timeYear": 774,
     "dailyMinutesDown": {
       "2026-01-08": 15,
       "2026-01-13": 5,
@@ -57,7 +57,7 @@
     "timeDay": 923,
     "timeWeek": 793,
     "timeMonth": 792,
-    "timeYear": 743,
+    "timeYear": 744,
     "dailyMinutesDown": {
       "2026-01-08": 15,
       "2026-01-13": 4,
@@ -96,7 +96,7 @@
     "timeDay": 1122,
     "timeWeek": 871,
     "timeMonth": 947,
-    "timeYear": 1042,
+    "timeYear": 1043,
     "dailyMinutesDown": {
       "2025-11-12": 5,
       "2026-01-08": 13,
@@ -121,11 +121,11 @@
     "url": "https://test.cdn.tiekoetter.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/test.cdn.tiekoetter.cloud.ico",
     "slug": "cdn-tiekoetter-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "77.47%",
-    "uptimeWeek": "93.64%",
-    "uptimeMonth": "98.54%",
+    "uptimeDay": "77.44%",
+    "uptimeWeek": "93.68%",
+    "uptimeMonth": "98.55%",
     "uptimeYear": "99.88%",
     "time": 126,
     "timeDay": 104,
@@ -133,7 +133,7 @@
     "timeMonth": 100,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2026-10-09": 10,
+      "2026-10-09": 5,
       "2026-10-10": 323,
       "2026-10-11": 322
     }
@@ -223,11 +223,11 @@
     "uptimeWeek": "99.93%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.93%",
-    "time": 904,
+    "time": 944,
     "timeDay": 1059,
     "timeWeek": 663,
     "timeMonth": 707,
-    "timeYear": 973,
+    "timeYear": 975,
     "dailyMinutesDown": {
       "2025-10-15": 4,
       "2025-10-16": 99,
@@ -308,7 +308,7 @@
     "timeDay": 1142,
     "timeWeek": 950,
     "timeMonth": 891,
-    "timeYear": 930,
+    "timeYear": 931,
     "dailyMinutesDown": {
       "2025-12-02": 5,
       "2026-01-08": 9,
@@ -340,7 +340,7 @@
     "timeDay": 988,
     "timeWeek": 792,
     "timeMonth": 742,
-    "timeYear": 763,
+    "timeYear": 764,
     "dailyMinutesDown": {
       "2025-12-12": 5,
       "2026-01-08": 7,
@@ -364,7 +364,7 @@
     "timeDay": 1512,
     "timeWeek": 1025,
     "timeMonth": 1049,
-    "timeYear": 1085,
+    "timeYear": 1086,
     "dailyMinutesDown": {
       "2026-01-08": 7,
       "2026-02-06": 23,
@@ -387,7 +387,7 @@
     "timeDay": 797,
     "timeWeek": 645,
     "timeMonth": 647,
-    "timeYear": 616,
+    "timeYear": 617,
     "dailyMinutesDown": {
       "2026-01-08": 4,
       "2026-02-06": 23,
@@ -411,7 +411,7 @@
     "timeDay": 1071,
     "timeWeek": 728,
     "timeMonth": 742,
-    "timeYear": 818,
+    "timeYear": 819,
     "dailyMinutesDown": {
       "2025-12-09": 4,
       "2026-01-08": 4,
