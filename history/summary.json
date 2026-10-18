@@ -88,17 +88,17 @@
     "url": "https://www.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.tiekoetter.com.ico",
     "slug": "tiekoetter-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 1016,
-    "timeDay": 589,
-    "timeWeek": 816,
-    "timeMonth": 888,
-    "timeYear": 1038,
+    "timeDay": 633,
+    "timeWeek": 811,
+    "timeMonth": 884,
+    "timeYear": 1037,
     "dailyMinutesDown": {
       "2025-11-12": 5,
       "2026-01-08": 13,
@@ -116,7 +116,7 @@
       "2026-09-26": 7,
       "2026-10-05": 11,
       "2026-10-10": 5,
-      "2026-10-18": 5
+      "2026-10-18": 9
     }
   },
   {
@@ -333,16 +333,16 @@
     "url": "https://bin.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/bin.tiekoetter.com.ico",
     "slug": "bin-tiekoetter-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 753,
-    "timeDay": 384,
-    "timeWeek": 610,
-    "timeMonth": 702,
+    "timeDay": 478,
+    "timeWeek": 616,
+    "timeMonth": 701,
     "timeYear": 760,
     "dailyMinutesDown": {
       "2025-12-12": 5,
@@ -350,7 +350,7 @@
       "2026-02-06": 23,
       "2026-03-06": 5,
       "2026-04-27": 5,
-      "2026-10-18": 1
+      "2026-10-18": 5
     }
   },
   {
@@ -453,16 +453,16 @@
     "url": "https://lt27.de",
     "icon": "https://icons.duckduckgo.com/ip3/lt27.de.ico",
     "slug": "lt27-de",
-    "status": "down",
+    "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.28%",
     "time": 461,
-    "timeDay": 278,
-    "timeWeek": 787,
-    "timeMonth": 598,
+    "timeDay": 336,
+    "timeWeek": 750,
+    "timeMonth": 593,
     "timeYear": 416,
     "dailyMinutesDown": {
       "2025-11-17": 5,
@@ -477,7 +477,7 @@
       "2026-04-23": 8,
       "2026-04-30": 2,
       "2026-05-06": 4,
-      "2026-10-18": 1
+      "2026-10-18": 4
     }
   },
   {
