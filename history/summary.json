@@ -147,19 +147,19 @@
     "url": "ns1.tiekoetter.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ns1-tiekoetter-net",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 95,
-    "timeWeek": 114,
+    "timeDay": 110,
+    "timeWeek": 115,
     "timeMonth": 114,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2026-10-18": 1
+      "2026-10-18": 7
     }
   },
   {
