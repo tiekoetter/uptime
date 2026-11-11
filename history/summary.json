@@ -125,15 +125,15 @@
     "url": "https://test.cdn.tiekoetter.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/test.cdn.tiekoetter.cloud.ico",
     "slug": "cdn-tiekoetter-cloud",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "95.94%",
-    "uptimeWeek": "99.42%",
+    "uptimeDay": "95.66%",
+    "uptimeWeek": "99.38%",
     "uptimeMonth": "99.13%",
     "uptimeYear": "99.88%",
     "time": 128,
-    "timeDay": 224,
-    "timeWeek": 181,
+    "timeDay": 216,
+    "timeWeek": 177,
     "timeMonth": 148,
     "timeYear": 129,
     "dailyMinutesDown": {
@@ -141,7 +141,7 @@
       "2026-10-12": 180,
       "2026-10-13": 28,
       "2026-10-14": 85,
-      "2026-11-11": 61
+      "2026-11-11": 65
     }
   },
   {
