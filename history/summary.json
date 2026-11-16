@@ -127,18 +127,18 @@
     "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "86.93%",
-    "uptimeWeek": "94.41%",
-    "uptimeMonth": "98.71%",
+    "uptimeWeek": "94.45%",
+    "uptimeMonth": "98.72%",
     "uptimeYear": "99.89%",
     "time": 127,
-    "timeDay": 156,
-    "timeWeek": 123,
-    "timeMonth": 120,
-    "timeYear": 127,
+    "timeDay": 173,
+    "timeWeek": 125,
+    "timeMonth": 123,
+    "timeYear": 128,
     "dailyMinutesDown": {
-      "2026-11-14": 214,
+      "2026-11-14": 204,
       "2026-11-15": 194,
-      "2026-11-16": 175
+      "2026-11-16": 180
     }
   },
   {
