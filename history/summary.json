@@ -126,12 +126,12 @@
     "slug": "cdn-tiekoetter-cloud",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "83.69%",
+    "uptimeDay": "84.03%",
     "uptimeWeek": "94.48%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "99.89%",
     "time": 127,
-    "timeDay": 174,
+    "timeDay": 176,
     "timeWeek": 127,
     "timeMonth": 124,
     "timeYear": 128,
@@ -271,7 +271,6 @@
     "timeYear": 678,
     "dailyMinutesDown": {
       "2025-11-18": 996,
-      "2025-11-17": 1440,
       "2025-11-21": 4,
       "2025-12-19": 30,
       "2025-12-26": 30,
@@ -464,7 +463,6 @@
     "timeMonth": 543,
     "timeYear": 414,
     "dailyMinutesDown": {
-      "2025-11-17": 5,
       "2025-11-18": 154,
       "2025-11-21": 692,
       "2025-11-20": 1440,
@@ -540,7 +538,6 @@
     "timeMonth": 1199,
     "timeYear": 1170,
     "dailyMinutesDown": {
-      "2025-11-17": 5,
       "2026-01-08": 3,
       "2026-02-06": 17,
       "2026-04-20": 20,
@@ -565,7 +562,6 @@
     "timeMonth": 1148,
     "timeYear": 1158,
     "dailyMinutesDown": {
-      "2025-11-17": 5,
       "2026-01-08": 3,
       "2026-02-06": 17,
       "2026-03-06": 4,
