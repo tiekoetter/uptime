@@ -299,16 +299,16 @@
     "url": "https://forum.tiekoetter.com",
     "icon": "https://icons.duckduckgo.com/ip3/forum.tiekoetter.com.ico",
     "slug": "forum-iekoetter-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
-    "time": 924,
-    "timeDay": 714,
-    "timeWeek": 930,
-    "timeMonth": 894,
+    "time": 925,
+    "timeDay": 797,
+    "timeWeek": 933,
+    "timeMonth": 896,
     "timeYear": 921,
     "dailyMinutesDown": {
       "2025-12-02": 5,
@@ -324,7 +324,7 @@
       "2026-08-30": 2,
       "2026-09-01": 6,
       "2026-10-07": 3,
-      "2026-11-26": 1
+      "2026-11-26": 5
     }
   },
   {
